@@ -23,7 +23,7 @@
 
 Below are the commentaries I have come across during my research on the Lessons. As an obscure subject, there is not a whole lot of material out there, but what does exist is quite insightful.
 
-The very first work resembling a commentary was written by Vsevolod Alekseyev, who took over [Xanathar's Library][1], under the username [*Qwerty*][2]. The earliest available archive is from [2002-08][3], but only the first chapter was ever completed.
+The very first work resembling a commentary was written by Vsevolod Alekseyev, who took over [Xanathar's Library][1], under the username [*Qwerty*][2]. The earliest available archive is from [2001-12][3], but only the first chapter was ever completed.
 
 The next commentary I came across was published in [2011-01][4] by Tante Lien, who covered ten chapters. Around [2012-03][5], Jerome Barry IV began a series of lengthy essays on the sermons, but abruptly stopped after chapter six. A shorter commentary of a select three chapters was made available by user *jclark28* in [2016-06][6].
 
@@ -33,7 +33,7 @@ Last, but certainly not least, the [New Whirling School][9] commentary by *Rotte
 
 [1]: https://web.archive.org/web/20010124070200if_/http://www.m0use.net/~xanathar/
 [2]: https://web.archive.org/web/20010304193342/http://www.m0use.net:80/~xanathar/whatsupwithxan.html
-[3]: https://web.archive.org/web/20020803170720fw_/http://m0use.net/~xanathar/mwbooks/lessons.shtml
+[3]: https://web.archive.org/web/20011210022922/http://www.m0use.net:80/~xanathar/es/mwbooks/lessons.html
 [4]: https://www.imperial-library.info/content/first-time-sermons
 [5]: https://jeromeiv-blog.tumblr.com/search/36+lessons
 [6]: https://www.tamriel-rebuilt.org/forum/tribunal-exegesiscommentary
