@@ -21,7 +21,31 @@
 
 ## Changes
 
-After rebasing this project directly on the dumps of the game's text, these were the edits I then made, and are present in each of the versions I reassembled. In total, only 11 words have been changed. Four of those are the same misspelled word (*AMLSIVI*, likely the result of a copy error). Only 1 noun change was made (*Necrom* is the actual City of the Dead) and 1 word was removed (a leftover *to*). There were only 11 grammatical changes, and all within Sermon Eleven alone, curiously enough.
+After rebasing this project directly on the dumps of the game's text, these were the edits I then made, and are present in each of the versions I reassembled. In total, only 15 words have been changed. Four of those are the same misspelled word (*AMLSIVI*, likely the result of a copy error) and three of them are compactions (majordomo). Only 1 noun change was made (Necrom is the *actual* City of the Dead) and 1 word was removed (a leftover *to*). There were only 11 punctuation changes, and all within Sermon Eleven alone, curiously enough.
+
+---
+
+| __Vehk 1:22__ | *passage* |
+|--------------:|:----------|
+|    *original* | It is said the number is the number of birds that can nest in an ancient `tibrol` tree, less three grams of honest work, |
+|      *change* | It is said the number is the number of birds that can nest in an ancient `Tibrol` tree, less three grams of honest work, |
+
+---
+
+| __Vehk 7:2__ | *passage* |
+|-------------:|:----------|
+|   *original* | A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the `major domo` of Mehrunes Dagon. |
+|    *changed* | A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the `majordomo` of Mehrunes Dagon. |
+
+| __Vehk 7:4__ | *passage* |
+|-------------:|:----------|
+|   *original* | The `major domo`, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own. |
+|     *change* | The `majordomo`, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own. |
+
+| __Vehk 7:12__ | *passage* |
+|--------------:|:----------|
+|    *original* | To which the `major domo` said, 'Duke Kh-Utta, your legions while mighty are not enough to destroy Nerevar or the Triune way. |
+|     *changed* | To which the `majordomo` said, 'Duke Kh-Utta, your legions while mighty are not enough to destroy Nerevar or the Triune way. |
 
 ---
 

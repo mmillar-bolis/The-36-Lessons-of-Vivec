@@ -40,7 +40,7 @@
 <h4><span style="font-family:Georgia">FAITHFULLY TRANSLATED</span></h4>
 <h4><span style="font-family:Georgia">INTO THE COMMON TONGUE</span></h4>
 <h6><span style="font-family:Georgia">out of Dunmeris, diligently conferred</span></h6>
-<h6><span style="font-family:Georgia">with the Daedric & other Editions</span></h6>
+<h6><span style="font-family:Georgia">with the Daedric & other Editions, Revised</span></h6>
 <h6><span style="font-family:Georgia"><i>with Chapters, Markers, Rubrics, & other helps,</i></span></h6>
 <h6><span style="font-family:Georgia"><i>for greater understanding of the texts</i></span></h6>
 </center>
@@ -51,26 +51,26 @@
 
 ---
 
-## Forward
+## Foreword
 
 > '*The eyelid of the kingdom shall fill thirty and six folios, but the eye shall read the world.*'
 >
 > It is with most humble gratitude and honor to present this work, a collection of the sacred writs, lessons recorded firstmost by our people, who are set apart in this world. Within these pages do we pass down the words of our Lord Vivec, who ransoms for our souls with perfect zeal through chaotic love, first anticipated for us by the ancestor Mephala.
 >
-> The received text, found commonly among the priests of Vehk at the time of assembly, serves as the basis of this edition. Spelling and transcription errors have been amended by hand and dilligently checked against the the common sources, to ensure their authenticity and correct meaning. Furthermore, within the text has been placed a different kind of notation, such that it can be easily discerned from the common letters, so that the reader through the division of verse, might be more equipped to perceive the meaning of our Lords and commit their words to memory.
+> The received text, found commonly among the priests of Vehk at the time of assembly, serves as the basis of this edition. Spelling and transcription errors have been amended by hand and diligently checked against the the common sources, to ensure their authenticity and correct meaning. Furthermore, within the text has been placed a different kind of notation, such that it can be easily discerned from the common letters, so that the reader through the division of verse, might be more equipped to perceive the meaning of our Lords and commit their words to memory.
 >
 > May this edition of the scriptures further serve as a Treasure Wood Sword, waived as a lessoning tune that guides us in song, to the edification of all the temple faithful and indeed our Dunmer people.
 >
 > DEDICATION
 >
 > *Through the bounty of Blessed ALMSIVI, Triune Grace,*\
-> *In the presence of the temple and all the hosts of Saints*\
+> *In the presence of the temple and all the host of Saints*\
 > *By the sacred unity of your Mercy, your Mystery, and your Mastery,*\
-> *Almalexia, Sotha Sil, and Vivec, blessed be your holy names.*\
+> *Almalexia, Sotha Sil, and Vivec, blessed be your holy names;*\
 > *Through the terrible power of your monstrous love,*\
 > *As in the days of Resdayn, the time of our ancestors,*\
 > *When Boethia, Mephala, and Azura lead the Velothi out of captivity,*\
-> *So do you lead us now, in the days of Morrowind.*\
+> *So do you lead us now, in the days of Morrowind;*\
 > *Down each Walking Way, you advocate for us in our time of trial,*\
 > *And shew for us a secret door at the altar of Padhome,*\
 > *Where by your hands, we become safe and looked after.*
@@ -185,7 +185,7 @@ To which the netchiman's wife said the Hortator.
 
 <span style="display:inline-block;padding-left:4em"><b>&sup2;&sup1;</b>'Look, little Vehk, and find the face behind the splendor of my bladed carriage, for in it is delivered the unmixed conflict path, perfect in every way. What is its number?'</span>
 
-<b>&sup2;&sup2;</b>It is said the number is the number of birds that can nest in an ancient tibrol tree, less three grams of honest work,
+<b>&sup2;&sup2;</b>It is said the number is the number of birds that can nest in an ancient Tibrol tree, less three grams of honest work,
 <b>&sup2;&sup3;</b>but Vivec in his later years found a better one and so gave this secret to his people.
 
 <span style="display:inline-block;padding-left:4em"><b>&sup2;&#8308;</b>'For I have crushed a world with my left hand,' he will say, 'but in my right hand is how it could have won against me. Love is under my will only.'</span>
@@ -495,11 +495,11 @@ For by the word I mean preceded by a wolf.
 #### <span style="color:red">Sermon Seven</span>
 
 <img align="left" width="100" src="../assets/fonts/png/red/glyph_a.png">s the caravan of Nerevar now made for the capital of Veloth, anon Almalexia, there came great rumblings from the oblivion.
-<b>&sup2;</b>A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the major domo of Mehrunes Dagon.
+<b>&sup2;</b>A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the majordomo of Mehrunes Dagon.
 
 <b>&sup3;</b>The Duke of Scamps said, 'I was summoned by Lord Dagon, master of the foul waters and fire, and I have brought the pennants of my seven legions.'
 
-<b>&#8308;</b>The major domo, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own.
+<b>&#8308;</b>The majordomo, whose head was a bubble of foul water and fire, bowed low, so that the head of the Duke of Scamps became enclosed in his own.
 
 <b>&#8309;</b>He saw the first pennant, which commanded a legion of grim warriors who could die at least twice.
 
@@ -515,7 +515,7 @@ For by the word I mean preceded by a wolf.
 
 <b>&sup1;&sup1;</b>He saw the seventh pennant, which commanded a legion of armored winning moves.
 
-<b>&sup1;&sup2;</b>To which the major domo said, 'Duke Kh-Utta, your legions while mighty are not enough to destroy Nerevar or the Triune way.
+<b>&sup1;&sup2;</b>To which the majordomo said, 'Duke Kh-Utta, your legions while mighty are not enough to destroy Nerevar or the Triune way.
 <b>&sup1;&sup3;</b>Look upon the Hortator and see the wisdom he takes to wife.'
 
 <b>&sup1;&#8308;</b>And they looked into the middle world and saw:
