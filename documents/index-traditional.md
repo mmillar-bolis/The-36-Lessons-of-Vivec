@@ -142,7 +142,7 @@
 ## Chapter One
 &emsp;[Open][39] | [Chapters][38] | [Top][37]
 
-[39]: chapters/study/sermon_01.html
+[39]: chapters/traditional/sermon_01.html
 
 #### <span style="color:red">Sermon One</span>
 
@@ -198,7 +198,7 @@ To which the netchiman's wife said the Hortator.
 ## Chapter Two
 &emsp;[Open][40] | [Chapters][38] | [Top][37]
 
-[40]: chapters/study/sermon_02.html
+[40]: chapters/traditional/sermon_02.html
 
 #### <span style="color:red">Sermon Two</span>
 
@@ -257,7 +257,7 @@ After looking a second time he said:
 ## Chapter Three
 &emsp;[Open][41] | [Chapters][38] | [Top][37]
 
-[41]: chapters/study/sermon_03.html
+[41]: chapters/traditional/sermon_03.html
 
 #### <span style="color:red">Sermon Three</span>
 
@@ -286,7 +286,7 @@ After looking a second time he said:
 <span style="display:inline-block;padding-left:4em">And looked after.'</span>
 
 <b>&sup1;&#8308;</b>This old prayer made the netchiman's wife smile and begin such a deep sleep that when Dwemeri atronachs returned with cornered spheres and cut her apart she did not awake and died peacefully.
-<b>&sup1;&#8309;</b>Vivec was removed from her womb and placed within a magical glass for further study.
+<b>&sup1;&#8309;</b>Vivec was removed from her womb and placed within a magical glass for further traditional.
 <b>&sup1;&#8310;</b>To confound his captors, he channeled his essence into love, an emotion the Dwemer knew nothing about.
 
 <b>&sup1;&#8311;</b>The egg said:
@@ -320,7 +320,7 @@ and <span style="color:red">JHUNAL</span>.'
 ## Chapter Four
 &emsp;[Open][42] | [Chapters][38] | [Top][37]
 
-[42]: chapters/study/sermon_04.html
+[42]: chapters/traditional/sermon_04.html
 
 #### <span style="color:red">Sermon Four</span>
 
@@ -372,7 +372,7 @@ and <span style="color:red">JHUNAL</span>.'
 ## Chapter Five
 &emsp;[Open][43] | [Chapters][38] | [Top][37]
 
-[43]: chapters/study/sermon_05.html
+[43]: chapters/traditional/sermon_05.html
 
 #### <span style="color:red">Sermon Five</span>
 
@@ -421,7 +421,7 @@ and <span style="color:red">JHUNAL</span>.'
 ## Chapter Six
 &emsp;[Open][44] | [Chapters][38] | [Top][37]
 
-[44]: chapters/study/sermon_06.html
+[44]: chapters/traditional/sermon_06.html
 
 #### <span style="color:red">Sermon Six</span>
 
@@ -437,7 +437,7 @@ and <span style="color:red">JHUNAL</span>.'
 
 <b>&#8310;</b>Proceed only with the simplest terms, for all others are enemies and will confuse you.
 
-<b>&#8311;</b>Six are the formulas to heaven by violence, one that you have learned by studying these words.
+<b>&#8311;</b>Six are the formulas to heaven by violence, one that you have learned by traditionaling these words.
 
 <b>&#8312;</b>The Father is a machine and the mouth of a machine. His only mystery is an invitation to elaborate further.
 
@@ -489,7 +489,7 @@ For by the word I mean preceded by a wolf.
 ## Chapter Seven
 &emsp;[Open][45] | [Chapters][38] | [Top][37]
 
-[45]: chapters/study/sermon_07.html
+[45]: chapters/traditional/sermon_07.html
 
 #### <span style="color:red">Sermon Seven</span>
 
@@ -545,7 +545,7 @@ For by the word I mean preceded by a wolf.
 ## Chapter Eight
 &emsp;[Open][46] | [Chapters][38] | [Top][37]
 
-[46]: chapters/study/sermon_08.html
+[46]: chapters/traditional/sermon_08.html
 
 #### <span style="color:red">Sermon Eight</span>
 
@@ -593,7 +593,7 @@ To which the Shouts were silent in sudden reading.
 ## Chapter Nine
 &emsp;[Open][47] | [Chapters][38] | [Top][37]
 
-[47]: chapters/study/sermon_09.html
+[47]: chapters/traditional/sermon_09.html
 
 #### <span style="color:red">Sermon Nine</span>
 
@@ -643,7 +643,7 @@ the Dragon of the North, who always appears as a great bearded king, had powers 
 ## Chapter Ten
 &emsp;[Open][48] | [Chapters][38] | [Top][37]
 
-[48]: chapters/study/sermon_10.html
+[48]: chapters/traditional/sermon_10.html
 
 #### <span style="color:red">Sermon Ten</span>
 
@@ -704,7 +704,7 @@ STILL TRAVELS</span>
 ## Chapter Eleven
 &emsp;[Open][49] | [Chapters][38] | [Top][37]
 
-[49]: chapters/study/sermon_11.html
+[49]: chapters/traditional/sermon_11.html
 
 #### <span style="color:red">Sermon Eleven</span>
 
@@ -759,7 +759,7 @@ Embrace the art of the people and marry it and by that I mean secretly have it m
 ## Chapter Twelve
 &emsp;[Open][50] | [Chapters][38] | [Top][37]
 
-[50]: chapters/study/sermon_12.html
+[50]: chapters/traditional/sermon_12.html
 
 #### <span style="color:red">Sermon Twelve</span>
 
@@ -821,7 +821,7 @@ which is the secret syllable of royalty.
 ## Chapter Thirteen
 &emsp;[Open][51] | [Chapters][38] | [Top][37]
 
-[51]: chapters/study/sermon_13.html
+[51]: chapters/traditional/sermon_13.html
 
 #### <span style="color:red">Sermon Thirteen</span>
 
@@ -875,7 +875,7 @@ The world will know me more than my sister and brother. I am the psychopomp. I a
 ## Chapter Fourteen
 &emsp;[Open][52] | [Chapters][38] | [Top][37]
 
-[52]: chapters/study/sermon_14.html
+[52]: chapters/traditional/sermon_14.html
 
 #### <span style="color:red">Sermon Fourteen</span>
 
@@ -928,7 +928,7 @@ which is Milk Taker, and even the Chimeri mystics knew his fury.
 ## Chapter Fifteen
 &emsp;[Open][53] | [Chapters][38] | [Top][37]
 
-[53]: chapters/study/sermon_15.html
+[53]: chapters/traditional/sermon_15.html
 
 #### <span style="color:red">Sermon Fifteen</span>
 
@@ -986,7 +986,7 @@ Or do not.
 ## Chapter Sixteen
 &emsp;[Open][54] | [Chapters][38] | [Top][37]
 
-[54]: chapters/study/sermon_16.html
+[54]: chapters/traditional/sermon_16.html
 
 #### <span style="color:red">Sermon Sixteen</span>
 
@@ -1042,7 +1042,7 @@ Of the members of Parliament only a few survived the Hortator's attack.
 ## Chapter Seventeen
 &emsp;[Open][55] | [Chapters][38] | [Top][37]
 
-[55]: chapters/study/sermon_17.html
+[55]: chapters/traditional/sermon_17.html
 
 #### <span style="color:red">Sermon Seventeen</span>
 
@@ -1104,7 +1104,7 @@ Vivec said that they had collected them from around the world, though some had c
 ## Chapter Eighteen
 &emsp;[Open][56] | [Chapters][38] | [Top][37]
 
-[56]: chapters/study/sermon_18.html
+[56]: chapters/traditional/sermon_18.html
 
 #### <span style="color:red">Sermon Eighteen</span>
 
@@ -1152,7 +1152,7 @@ This sermon is untrue.
 ## Chapter Nineteen
 &emsp;[Open][57] | [Chapters][38] | [Top][37]
 
-[57]: chapters/study/sermon_19.html
+[57]: chapters/traditional/sermon_19.html
 
 #### <span style="color:red">Sermon Nineteen</span>
 
@@ -1206,7 +1206,7 @@ So why is it\-\-
 ## Chapter Twenty
 &emsp;[Open][58] | [Chapters][38] | [Top][37]
 
-[58]: chapters/study/sermon_20.html
+[58]: chapters/traditional/sermon_20.html
 
 #### <span style="color:red">Sermon Twenty</span>
 
@@ -1263,7 +1263,7 @@ So why is it\-\-
 ## Chapter Twenty-One
 &emsp;[Open][59] | [Chapters][38] | [Top][37]
 
-[59]: chapters/study/sermon_21.html
+[59]: chapters/traditional/sermon_21.html
 
 #### <span style="color:red">Sermon Twenty-One</span>
 
@@ -1316,7 +1316,7 @@ the wet earth of the new star our home.
 ## Chapter Twenty-Two
 &emsp;[Open][60] | [Chapters][38] | [Top][37]
 
-[60]: chapters/study/sermon_22.html
+[60]: chapters/traditional/sermon_22.html
 
 #### <span style="color:red">Sermon Twenty-Two</span>
 
@@ -1369,7 +1369,7 @@ the wet earth of the new star our home.
 ## Chapter Twenty-Three
 &emsp;[Open][61] | [Chapters][38] | [Top][37]
 
-[61]: chapters/study/sermon_23.html
+[61]: chapters/traditional/sermon_23.html
 
 #### <span style="color:red">Sermon Twenty-Three</span>
 
@@ -1421,7 +1421,7 @@ the third law of weaponry.'</span>
 ## Chapter Twenty-Four
 &emsp;[Open][62] | [Chapters][38] | [Top][37]
 
-[62]: chapters/study/sermon_24.html
+[62]: chapters/traditional/sermon_24.html
 
 #### <span style="color:red">Sermon Twenty-Four</span>
 
@@ -1477,7 +1477,7 @@ which is my name to the mighty.
 ## Chapter Twenty-Five
 &emsp;[Open][63] | [Chapters][38] | [Top][37]
 
-[63]: chapters/study/sermon_25.html
+[63]: chapters/traditional/sermon_25.html
 
 #### <span style="color:red">Sermon Twenty-Five</span>
 
@@ -1524,7 +1524,7 @@ egg, image, man, god, city, state.
 ## Chapter Twenty-Six
 &emsp;[Open][64] | [Chapters][38] | [Top][37]
 
-[64]: chapters/study/sermon_26.html
+[64]: chapters/traditional/sermon_26.html
 
 #### <span style="color:red">Sermon Twenty-Six</span>
 
@@ -1578,7 +1578,7 @@ Vivec stabbed the wizard through his soul.
 ## Chapter Twenty-Seven
 &emsp;[Open][65] | [Chapters][38] | [Top][37]
 
-[65]: chapters/study/sermon_27.html
+[65]: chapters/traditional/sermon_27.html
 
 #### <span style="color:red">Sermon Twenty-Seven</span>
 
@@ -1628,7 +1628,7 @@ Vivec stabbed the wizard through his soul.
 ## Chapter Twenty-Eight
 &emsp;[Open][66] | [Chapters][38] | [Top][37]
 
-[66]: chapters/study/sermon_28.html
+[66]: chapters/traditional/sermon_28.html
 
 #### <span style="color:red">Sermon Twenty-Eight</span>
 
@@ -1675,7 +1675,7 @@ Vivec stabbed the wizard through his soul.
 ## Chapter Twenty-Nine
 &emsp;[Open][67] | [Chapters][38] | [Top][37]
 
-[67]: chapters/study/sermon_29.html
+[67]: chapters/traditional/sermon_29.html
 
 #### <span style="color:red">Sermon Twenty-Nine</span>
 
@@ -1730,7 +1730,7 @@ Vivec stabbed the wizard through his soul.
 ## Chapter Thirty
 &emsp;[Open][68] | [Chapters][38] | [Top][37]
 
-[68]: chapters/study/sermon_30.html
+[68]: chapters/traditional/sermon_30.html
 
 #### <span style="color:red">Sermon Thirty</span>
 
@@ -1786,7 +1786,7 @@ the short blade of proper commerce.
 ## Chapter Thirty-One
 &emsp;[Open][69] | [Chapters][38] | [Top][37]
 
-[69]: chapters/study/sermon_31.html
+[69]: chapters/traditional/sermon_31.html
 
 #### <span style="color:red">Sermon Thirty-One</span>
 
@@ -1831,7 +1831,7 @@ or at least that aspect that chose to be Vivec, sat in the Litany Hall of the Fa
 ## Chapter Thirty-Two
 &emsp;[Open][70] | [Chapters][38] | [Top][37]
 
-[70]: chapters/study/sermon_32.html
+[70]: chapters/traditional/sermon_32.html
 
 #### <span style="color:red">Sermon Thirty-Two</span>
 
@@ -1880,7 +1880,7 @@ or at least that aspect that chose to be Vivec, sat in the Litany Hall of the Fa
 ## Chapter Thirty-Three
 &emsp;[Open][71] | [Chapters][38] | [Top][37]
 
-[71]: chapters/study/sermon_33.html
+[71]: chapters/traditional/sermon_33.html
 
 #### <span style="color:red">Sermon Thirty-Three</span>
 
@@ -1934,7 +1934,7 @@ or at least that aspect that chose to be Vivec, sat in the Litany Hall of the Fa
 ## Chapter Thirty-Four
 &emsp;[Open][72] | [Chapters][38] | [Top][37]
 
-[72]: chapters/study/sermon_34.html
+[72]: chapters/traditional/sermon_34.html
 
 #### <span style="color:red">Sermon Thirty-Four</span>
 
@@ -1997,7 +1997,7 @@ Nerevar said, 'Now I am the mightiest of your children.'
 ## Chapter Thirty-Five
 &emsp;[Open][73] | [Chapters][38] | [Top][37]
 
-[73]: chapters/study/sermon_35.html
+[73]: chapters/traditional/sermon_35.html
 
 #### <span style="color:red">Sermon Thirty-Five</span>
 
@@ -2034,7 +2034,7 @@ and his double, which love knows never really happened. Similarly, all the other
 ## Chapter Thirty-Six
 &emsp;[Open][74] | [Chapters][38] | [Top][37]
 
-[74]: chapters/study/sermon_36.html
+[74]: chapters/traditional/sermon_36.html
 
 #### <span style="color:red">Sermon Thirty-Six</span>
 
