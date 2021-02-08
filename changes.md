@@ -156,7 +156,7 @@ After rebasing this project directly on the dumps of the game's text, these were
 |     *original* | 'I raise lanterns to light my hollows, lend wax to the thousands `the` candlesticks that bear my name again and again, |
 |       *change* | 'I raise lanterns to light my hollows, lend wax to the thousands `of` candlesticks that bear my name again and again, |
 
-| __Vehk 25:18__ | *passage* |
+| __Vehk 25:21__ | *passage* |
 |---------------:|:----------|
 |     *original* | This is the flowering scheme of the Aurbis. This is the promise of the `PSJJJ`: |
 |       *change* | This is the flowering scheme of the Aurbis. This is the promise of the `PSJJJJ`: |
