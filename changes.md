@@ -21,7 +21,7 @@
 
 ## Changes
 
-After rebasing this project directly on the dumps of the game's text, these were the edits I then made, and are present in each of the versions I reassembled. In total, only 15 words have been changed. Four of those are the same misspelled word (*AMLSIVI*, likely the result of a copy error) and three of them are compactions (majordomo). Only 1 noun change was made (Necrom is the *actual* City of the Dead) and 1 word was removed (a leftover *to*). There were only 11 punctuation changes, and all within Sermon Eleven alone, curiously enough.
+After rebasing this project directly on the dumps of the game's text, these were the edits I then made, and are present in each of the versions I reassembled. In total, only 16 words have been changed. Four of those are the same misspelled word (*AMLSIVI*, likely the result of a copy error) and three of them are compactions (majordomo) and one was a missing letter (PSJJJJ). Only 1 noun change was made (Necrom is the *actual* City of the Dead) and 1 word was removed (a leftover *to*). There were only 11 punctuation changes, and all within Sermon Eleven alone, curiously enough.
 
 ---
 
@@ -108,8 +108,8 @@ After rebasing this project directly on the dumps of the game's text, these were
 
 | __Vehk 11:24__ | *passage* |
 |---------------:|:----------|
-|     *original* | `"`According to the Codes of Mephala, there is no difference between the theorist and the terrorist.
-|       *change* | `'`According to the Codes of Mephala, there is no difference between the theorist and the terrorist.
+|     *original* | `"`According to the Codes of Mephala, there is no difference between the theorist and the terrorist. |
+|       *change* | `'`According to the Codes of Mephala, there is no difference between the theorist and the terrorist. |
 
 | __Vehk 11:27__ | *passage* |
 |---------------:|:----------|
@@ -134,15 +134,15 @@ After rebasing this project directly on the dumps of the game's text, these were
 
 | __Vehk 17:1__ | *passage* |
 |--------------:|:----------|
-|    *original* | 'I am an atlas of smoke.' With this, Vivec `become` greater than he had been.
-|      *change* | 'I am an atlas of smoke.' With this, Vivec `became` greater than he had been.
+|    *original* | 'I am an atlas of smoke.' With this, Vivec `become` greater than he had been. |
+|      *change* | 'I am an atlas of smoke.' With this, Vivec `became` greater than he had been. |
 
 ---
 
 | __Vehk 20:3__ | *passage* |
 |--------------:|:----------|
-|    *original* | He was known as Moon Axle, and he harvested the `leftovers` foibles of nature.
-|      *change* | He was known as Moon Axle, and he harvested the `leftover` foibles of nature.
+|    *original* | He was known as Moon Axle, and he harvested the `leftovers` foibles of nature. |
+|      *change* | He was known as Moon Axle, and he harvested the `leftover` foibles of nature. |
 
 | __Vehk 20:10__ | *passage* |
 |---------------:|:----------|
@@ -153,8 +153,13 @@ After rebasing this project directly on the dumps of the game's text, these were
 
 | __Vehk 25:18__ | *passage* |
 |---------------:|:----------|
-|     *original* | 'I raise lanterns to light my hollows, lend wax to the thousands `the` candlesticks that bear my name again and again,
-|       *change* | 'I raise lanterns to light my hollows, lend wax to the thousands `of` candlesticks that bear my name again and again,
+|     *original* | 'I raise lanterns to light my hollows, lend wax to the thousands `the` candlesticks that bear my name again and again, |
+|       *change* | 'I raise lanterns to light my hollows, lend wax to the thousands `of` candlesticks that bear my name again and again, |
+
+| __Vehk 25:18__ | *passage* |
+|---------------:|:----------|
+|     *original* | This is the flowering scheme of the Aurbis. This is the promise of the `PSJJJ`: |
+|       *change* | This is the flowering scheme of the Aurbis. This is the promise of the `PSJJJJ`: |
 
 ---
 
