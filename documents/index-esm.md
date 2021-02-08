@@ -55,15 +55,15 @@ Below are each of the individual chapter files.
 | __11:__ | [Sermon Eleven][11] | __23:__ | [Sermon Twenty-Three][23] | __35:__ | [Sermon Thirty-Five][35]  |
 | __12:__ | [Sermon Twelve][12] | __24:__ | [Sermon Twenty-Four][24]  | __36:__ | [Sermon Thirty-Six][36]   |
 
-[1]: archive/esm/Sermon_1.html
-[2]: archive/esm/Sermon_2.html
-[3]: archive/esm/Sermon_3.html
-[4]: archive/esm/Sermon_4.html
-[5]: archive/esm/Sermon_5.html
-[6]: archive/esm/Sermon_6.html
-[7]: archive/esm/Sermon_7.html
-[8]: archive/esm/Sermon_8.html
-[9]: archive/esm/Sermon_9.html
+[1]: archive/esm/Sermon_01.html
+[2]: archive/esm/Sermon_02.html
+[3]: archive/esm/Sermon_03.html
+[4]: archive/esm/Sermon_04.html
+[5]: archive/esm/Sermon_05.html
+[6]: archive/esm/Sermon_06.html
+[7]: archive/esm/Sermon_07.html
+[8]: archive/esm/Sermon_08.html
+[9]: archive/esm/Sermon_09.html
 [10]: archive/esm/Sermon_10.html
 [11]: archive/esm/Sermon_11.html
 [12]: archive/esm/Sermon_12.html
