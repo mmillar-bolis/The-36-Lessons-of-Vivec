@@ -75,7 +75,7 @@ We can see the organizational extremes that arose to contour to the text. Someti
 
 In addition to inserting verse numbers, I have decided to highlight Ehlnofex words in red. I believe their implementation is not dissimilar to the use of Dominical words, nor Vedic mantras. I also think that incorporating some color will produce results that mesh well with artwork found elsewhere within the game, such as tapestries. It also gives certain embelishment to the work by drawing the reader's eye to those passages.
 
-As a last note, I have discovered other projects that break game's books down into sets of data. [This one][13] tags significant words to gain an understanding of their overlap among the various books found in the game.
+As a last note, I have discovered other projects that break the game's books down into sets of data. [This one][13] tags significant words to gain an understanding of their overlap among the various books found within the game.
 
 [5]: documents/index-esm.html
 [6]: https://www.biblegateway.com/passage/?search=Psalm&version=NKJV
@@ -131,7 +131,7 @@ Still also, in the old HTML versions, this passage appears with indentations:
 
 > ...or, better, in the skin of his enemies.
 >
-> <span style="display:inline-block;padding-left:4em">"The eyelid of the kingdom shall fill thiry[sic] and six folios, but the eye shall read the world." By this the Hortator needs me to understand.</span>
+> <span style="display:inline-block;padding-left:4em">"The eyelid of the kingdom shall fill thiry and six folios, but the eye shall read the world." By this the Hortator needs me to understand.</span>
 >
 > The sword is an impatient signature. Write no contacts on...
 
@@ -173,7 +173,7 @@ In 1528, [Santes Pagnino][43] published his *Veteris et Novi Testamenti nova tra
 
 Today, most Christian bibles use the verse numbering system introduced by [Robert Stephanus][44] in his 1551 edition of the Greek New Testament. His 1555 edition of the Latin [Vulgate][45] was the first to blend verse numbers into the body of the text.
 
-About half-way through creating my verse system, I came across [the Theoretical Whirling School][46] (TWS), which was run by user [*Nigedo*][47]. This may be the very first group to come up with a text division scheme, all the way back in 2004. At the point that I was in this project, I had believed that no one must have published any such works and that I might be the lonely first to come up with verses, but it appears that I simply missed that era of work, now lost to time.
+About half-way through creating my verse system, I came across [the Theoretical Whirling School][46] (TWS), which was run by user [*Nigedo*][47]. This may be the very first group to come up with a text division scheme for the Lessons, all the way back in 2004. At the point that I was in this project, I had believed that no one must have published any such works and that I might be the lonely first to come up with verses, but it appears that I simply missed that era of work, now lost to time.
 
 Reviewing the TWS Edition, I am thankful to say that my system of division turned out unique in comparison. However I am fascinated by the laudable, now understandably difficult work. There are some approaches that look like they overlapped with my own ideas. For example, Nigedo chose to break up sermon 35 into multiple stanzas. They also break up some longer paragraphs into multiple verses, such as the second section of sermon 21. The choice to use HTML number lists to present verse headings was also a familiar sight. On the other hand, the count of verses in the TWS Edition is fairly consistent from chapter to chapter while my edition can vary wildly, likely because I allowed for some uneven divisions, as explained in my methodology.
 
