@@ -48,11 +48,9 @@ Much of my impressions admittedly come from the New King James Bible, such as [t
 
 There are long, quoted passages that can be tricky to follow but there are lots of three-word sentences as well. Sometimes, I just could not decide which end of a verse to tack a small sentence on to. Other times, I couldn't be sure if the meaning of a phrase refers to the sentence that precedes it or comes after, or both, and have instead seemingly awkwardly put a verse number there to avoid breaking up *or* adding the insinuation of any meaning. Vk. 11:15 is an example of this dilemma.
 
-Every chapter is stylistically different and varies in both tone and organization. The aforementioned "*study*" version serves as my reference material for restructuring the text by observed idea groupings. It's these perceived groupings that I am attaching verse numbers to. I want to be careful and use everything in my untrained skills of textual analysis to preserve the meaning of the work while discovering different ways to parse and present it. Through this admitted hypervigilance, I have apparently produced a set of the chapters that now bear a closer resemblence to poetry.
+Every chapter is stylistically different and varies in both tone and organization. The aforementioned "*study*" version serves as my scratch-pad for restructuring the text into stanzas by attempting to identify smaller groups of ideas. It's these perceived groupings that I am attaching verse numbers to. I want to be careful and use everything in my untrained skills of textual analysis to preserve the meaning of the work while discovering different ways to parse and present it.
 
-If one were to look at these texts as though they *were* a blend of several different writings from another language, consisting of poems, prayers, tantric quotations, transcriptions, and some narration and commentary blended throughout, new patterns among the words begin to emerge, some that may even shed light on just *how* these texts ware originally prepared before entering the game in their current form.
-
-Is it a coincidence that much of these dialogues break down comfortably into prose and poetry? Perhaps not. It's well known that the misspelling of "AMLSIVI" that can be found in chapters 11, 13, 15, 17, and 36 is the likely result of a copy-and-paste error. It seems just as likely that [some original document][11] (*a Morrowind [Q source][12]?*) was whittled down and *restructured* for clarity, especially to fit the engine constraints such as limited HTML support and limited font scale and resolution, though this speculation.
+If one were to look at these texts as though they *were* a blend of several different writings from another language, consisting of poems, prayers, tantric quotations, transcriptions, and some narration and commentary accidentally blended throughout, new patterns among the words begin to emerge.
 
 One approach that helped me with deciding where or if I should break up some of the wildly varying sentences was to take verses from the Christian Bible and break them down by their word length to get a better impression of how *those* idea groups were separated when brought into new languages. Identifying the edge cases provides an example of how verse structures play out in tricky sections of text.
 
@@ -75,7 +73,33 @@ We can see the organizational extremes that arose to contour to the text. Someti
 
 In addition to inserting verse numbers, I have decided to highlight Ehlnofex words in red. I believe their implementation is not dissimilar to the use of Dominical words, nor Vedic mantras. I also think that incorporating some color will produce results that mesh well with artwork found elsewhere within the game, such as tapestries. It also gives certain embelishment to the work by drawing the reader's eye to those passages.
 
-As a last note, I have discovered other projects that break the game's books down into sets of data. [This one][13] tags significant words to gain an understanding of their overlap among the various books found within the game.
+My initial interpretation of a [Polygon article][11] left me hopeful of a Morrowind [Q source][12] that was possibly whittled down and *restructured* for clarity and maybe to fit the game's constraints as well. However, a few months after completing this project, I came across an [interview with the author][13] that stated otherwise:
+
+> It took about a week and I totally pantsed it. 98% of the edits were typos and grammar, with the biggest one being Kurt's idea of how to stick a secret message in, which meant he counted a lot and gave me a buncha numbers and made a word change or three so it'd fit.
+>
+> I knew some amount of structure I wanted that first day, and had a guide from real world texts of mystery religions for a lot of the intonation I wanted to pull off, and a list of skills that needed to go up for mechanics reasons. So, like, that's why there's a scripture about maces lol.
+>
+> Wait, that only makes sense if you know how this batch of Morrowind books came about. Todd/Ken/Whoever needed a certain number of skill points to come out of the in-game books, freelanced Ted to write a fuckhueg bunch of them, one skill point per book, and he was like yo Michael, this is a buncha books, want to take fifty of them?
+>
+> So I divied up my 50, said I'd make 6 into Vivec's Bible and figure out the others. I wrote those six, said whoops, lemme do more of these because I can't stop and near the end I knew it was going to end up being 36 exactly. (I forget what the other fourteen books I did for that batch were, though. I think I asked, er, pleaded with Kurt to do a few of them because the deadline was insane.)
+>
+> It might be of interest to know that I wrote them all in the order they are now. Like, there was never any, oh this one actually goes here and that there kind of stuff. Is that interesting? It certainly was to me when I thought of it a second ago.
+>
+> Anyhoo, I was exhausted most nights of that week, and I bless my roommate at the time to this day for leaving food, smokes, and bourbon outside my door at dinner time. I pissed in a drive-thru coke cup from Rally's Burgers because I didn't want to stop typing Sermon 35.
+>
+> For the record, I still think it's a kind of magic spell that let me write a magic spell, but hey, when you're holding a cup to piss in while still typing with your left hand, I can see how it all might get confused.
+
+And [further down][14]:
+
+> But yeah no, I guess that's another interesting thing: there was nothing left on the cutting room floor. I got in, I got out.
+>
+> Some of it is melody to me, but it always means a thing, even if it's a shape I was drawing in the words, because I see sound.
+>
+> No, for real, I've pretty acute sound/sight synesthesia, which definitely played a part.
+
+This directly refutes any notion of these books having been written or even planned with additional chapters. Further, it confirms that each chapter was written in sequential order.
+
+As a last note, I have discovered other projects that break the game's books down into sets of data. [This one][15] tags significant words to gain an understanding of their overlap among the various books found within the game.
 
 [5]: documents/index-esm.html
 [6]: https://www.biblegateway.com/passage/?search=Psalm&version=NKJV
@@ -85,7 +109,9 @@ As a last note, I have discovered other projects that break the game's books dow
 [10]: https://en.wikipedia.org/wiki/Thelema
 [11]: https://www.polygon.com/2019/3/27/18281082/elder-scrolls-morrowind-oral-history-bethesda#Z2a5Je:~:text=supposed%20to%20write%2050%2Dsome%20books
 [12]: https://en.wikipedia.org/wiki/Q_source
-[13]: http://morrowind.newtfire.org/librarium/morrowindTables.html
+[13]: https://www.reddit.com/r/teslore/comments/bs65z7/eurogamers_36_lessons_of_vivec_article_may_23rd/eollkt7/?utm_source=share&utm_medium=web2x&context=3
+[14]: https://www.reddit.com/r/teslore/comments/bs65z7/eurogamers_36_lessons_of_vivec_article_may_23rd/eolsmdi?utm_source=share&utm_medium=web2x&context=3
+[15]: http://morrowind.newtfire.org/librarium/morrowindTables.html
 
 ---
 
