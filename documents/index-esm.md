@@ -49,7 +49,7 @@ Below are each of the individual chapter files.
 |  __5:__ | [Sermon Five][5]    | __17:__ | [Sermon Seventeen][17]    | __29:__ | [Sermon Twenty-Nine][29]  |
 |  __6:__ | [Sermon Six][6]     | __18:__ | [Sermon Eighteen][18]     | __30:__ | [Sermon Thirty][30]       |
 |  __7:__ | [Sermon Seven][7]   | __19:__ | [Sermon Nineteen][19]     | __31:__ | [Sermon Thirty-One][31]   |
-|  __8:__ | [Sermon Eight][8])  | __20:__ | [Sermon Twenty][20]       | __32:__ | [Sermon Thirty-Two][32]   |
+|  __8:__ | [Sermon Eight][8]   | __20:__ | [Sermon Twenty][20]       | __32:__ | [Sermon Thirty-Two][32]   |
 |  __9:__ | [Sermon Nine][9]    | __21:__ | [Sermon Twenty-One][21]   | __33:__ | [Sermon Thirty-Three][33] |
 | __10:__ | [Sermon Ten][10]    | __22:__ | [Sermon Twenty-Two][22]   | __34:__ | [Sermon Thirty-Four][34]  |
 | __11:__ | [Sermon Eleven][11] | __23:__ | [Sermon Twenty-Three][23] | __35:__ | [Sermon Thirty-Five][35]  |
