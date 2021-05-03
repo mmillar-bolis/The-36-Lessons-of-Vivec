@@ -44,13 +44,11 @@ It wasn't enough to just tack a number onto each newline. Observing an English c
 
 Instead, I went into each chapter to break them down into new and more poetic formats, in order to better judge the flow of ideas, thus inadvertently producing a line-by-line style which I call my *study* edition. After anchoring the numbers, I copied and reassembled the text into their original paragraph forms. The result was a set of verses, the amount of which vary wildly by chapter, their length not withstanding. In this way, I also managed to defy starting every single paragraph with a verse number.
 
-Much of my impressions admittedly come from the New King James Bible, such as [the Psalms][6], [Daniel][7], and [John][8], but really, I tried to look at a lot of various examples, including the [Book of the Law][9] from [Thelema][10], which was one of several influences on the Lessons. My goal, gleaned from research, was to break up each verse at the end of a reasonable or cohesive statement. Usually, this means splitting them by sentence, but not always, as I tried to balance against length as well.
+Much of my impressions admittedly come from the New King James Bible, such as [the Psalms][6], [Daniel][7], and [John][8], but really I tried to look at a lot of various examples, including the [Book of the Law][9] from [Thelema][10], which was one of several influences on the Lessons. My goal, gleaned from research, was to break up each verse at the end of a reasonable or cohesive statement. Usually, this means splitting them by sentence but not always, as I tried to balance against length as well.
 
 There are long, quoted passages that can be tricky to follow but there are lots of three-word sentences as well. Sometimes, I just could not decide which end of a verse to tack a small sentence on to. Other times, I couldn't be sure if the meaning of a phrase refers to the sentence that precedes it or comes after, or both, and have instead seemingly awkwardly put a verse number there to avoid breaking up *or* adding the insinuation of any meaning. Vk. 11:15 is an example of this dilemma.
 
-Every chapter is stylistically different and varies in both tone and organization. The aforementioned "*study*" version serves as my scratch-pad for restructuring the text into stanzas by attempting to identify smaller groups of ideas. It's these perceived groupings that I am attaching verse numbers to. I want to be careful and use everything in my untrained skills of textual analysis to preserve the meaning of the work while discovering different ways to parse and present it.
-
-If one were to look at these texts as though they *were* a blend of several different writings from another language, consisting of poems, prayers, tantric quotations, transcriptions, and some narration and commentary accidentally blended throughout, new patterns among the words begin to emerge.
+Every chapter is stylistically different and varies in both tone and organization. The aforementioned "*study*" version serves as my scratch-pad for restructuring the text into stanzas by attempting to identify smaller groups of ideas within the text. It's these perceived groupings that I am attaching verse numbers to. I want to be careful and use everything in my untrained skills of textual analysis to preserve the meaning of the work while discovering different ways to parse and present it to the reader. If one were to look at these texts as though they *were* a blend of several different writings from another language, consisting of poems, prayers, tantric quotations, transcriptions, and some narration and commentary accidentally blended throughout, new patterns among the words begin to emerge.
 
 One approach that helped me with deciding where or if I should break up some of the wildly varying sentences was to take verses from the Christian Bible and break them down by their word length to get a better impression of how *those* idea groups were separated when brought into new languages. Identifying the edge cases provides an example of how verse structures play out in tricky sections of text.
 
@@ -69,11 +67,11 @@ For example, here are ten of some of the longest and ten of some of the shortest
 |      Ezekiel 46:9  |  74   | 1 Thessalonians  5:25 |   4   |
 |     Jeremiah 44:12 |  74   | 1 Thessalonians  5:19 |   5   |
 
-We can see the organizational extremes that arose to contour to the text. Sometimes, it did make more sense to have closer markers, but in other areas, especially the Hebrew texts, there were already organizational standards in place which lend to their more consistent patterns. However, there's still a lot of precedent to break up especially long ideas and sentences. For example, Ephesians 1:3-14, when viewed in the original Greek, is a single run-on sentence comprised of 202 words. In the NKJV, it is split into 4 sentences across 3 paragraphs, with a total of 263 words. So even in translation, there is a wide degree of variability with how the resulting text will turn out.
+We can see the organizational extremes that arose to contour to the text. Sometimes, it did make more sense to have closer markers, but in other areas, especially the Hebrew texts, there were already organizational standards in place which lend to their more consistent numbering patterns. However, there's still a lot of precedent to break up especially long ideas and sentences. For example, Ephesians 1:3-14, when viewed in the original Greek, is a single run-on sentence comprised of 202 words. In the NKJV, it is split into 4 sentences across 3 paragraphs, with a total of 263 words. So even in translation, there is a wide degree of variability with how the resulting text will turn out.
 
 In addition to inserting verse numbers, I have decided to highlight Ehlnofex words in red. I believe their implementation is not dissimilar to the use of Dominical words, nor Vedic mantras. I also think that incorporating some color will produce results that mesh well with artwork found elsewhere within the game, such as tapestries. It also gives certain embelishment to the work by drawing the reader's eye to those passages.
 
-My initial interpretation of a [Polygon article][11] left me hopeful of a Morrowind [Q source][12] that was possibly whittled down and *restructured* for clarity and maybe to fit the game's constraints as well. However, a few months after completing this project, I came across an [interview with the author][13] that stated otherwise:
+My initial interpretation of a [Polygon article][11] left me hopeful of a Morrowind [Q source][12] that was possibly whittled down and *restructured* for clarity and maybe even to fit the game's constraints as well. However, a few months after completing this project, I came across an [interview with the author][13] that stated otherwise:
 
 > It took about a week and I totally pantsed it. 98% of the edits were typos and grammar, with the biggest one being Kurt's idea of how to stick a secret message in, which meant he counted a lot and gave me a buncha numbers and made a word change or three so it'd fit.
 >
@@ -97,9 +95,21 @@ And [further down][14]:
 >
 > No, for real, I've pretty acute sound/sight synesthesia, which definitely played a part.
 
-This directly refutes any notion of these books having been written or even planned with additional chapters. Further, it confirms that each chapter was written in sequential order.
+[More recently][15]:
 
-As a last note, I have discovered other projects that break the game's books down into sets of data. [This one][15] tags significant words to gain an understanding of their overlap among the various books found within the game.
+> I'd say most of the Cosmology stuff came out over a short period of time. That's when the big list of pantheons of gods was created. I did write that particular document in a night because I remember the empty office being spooky. The Creation Myths and the Dragon Break stuff was done during this part. Ken wrote the Cyrodilic myth.
+>
+> The first PGE was another short period- maybe five weeks, but Kurt did a couple of the province entries and lots of that lore came from previous conversations. We had to hurry this one as Redguard's ship date was fast approaching and I had to draw all the illustrations in it too.
+>
+> The Morrowind concept art fueled the lore which in turn fueled the concept art. That stuff was done mostly during the development of Redguard. Actually got in trouble with Todd cuz I was drawing too much Morrowind stuff when I shoulda been making models for RG.
+>
+> The big blasts were definitely the 36 Lessons - done in a week, siloed in a single room, food left outside the door by roommate but hey kids no drugs, just lots of smokes and bourbon- the Mythic Dawn Commentaries were all written on a couple of bus rides, and all the Towers lore which I wrote one night at a laundromat waiting for my sheets to dry.
+>
+> So yeah, a mix of time with occasional brain blast all at once.
+
+This directly refutes any notion of these books having been written or even planned with additional chapters. Further, it confirms that each chapter was written in sequential order which may help to narrow down the evolution of ideas such as the Walking Ways and CHIM. The book, having been written in only a week, was likely complete by May of 2001 when [initial chapters][16] were becomming available online.
+
+As a last note, I have discovered other projects that break the game's books down into sets of data. [This one][17] tags significant words to gain an understanding of their overlap among the various books found within the game.
 
 [5]: documents/index-esm.html
 [6]: https://www.biblegateway.com/passage/?search=Psalm&version=NKJV
@@ -111,13 +121,15 @@ As a last note, I have discovered other projects that break the game's books dow
 [12]: https://en.wikipedia.org/wiki/Q_source
 [13]: https://www.reddit.com/r/teslore/comments/bs65z7/eurogamers_36_lessons_of_vivec_article_may_23rd/eollkt7/?utm_source=share&utm_medium=web2x&context=3
 [14]: https://www.reddit.com/r/teslore/comments/bs65z7/eurogamers_36_lessons_of_vivec_article_may_23rd/eolsmdi?utm_source=share&utm_medium=web2x&context=3
-[15]: http://morrowind.newtfire.org/librarium/morrowindTables.html
+[15]: https://www.reddit.com/r/ElderScrolls/comments/ip7cbv/cocaine/g4j7pfj/
+[16]: https://web.archive.org/web/20020817033245/http://m0use.net/~uesp/print.shtml?/~uesp/morrow/books/mwsermon1.shtml?(none)
+[17]: http://morrowind.newtfire.org/librarium/morrowindTables.html
 
 ---
 
 #### Textual Differences:
 
-Initially, the UESP Wiki served as the basis of my editions. Historically, it has been the resource for much of my Morrowind related references. Generally, it remains a primary and influential source alongside [the Imperial Library][16]. The UESP features multiple versions of the Lessons to account for any changes between games. I opted to use the [Morrowind page][17] version; my original intent was to avoid any differences between the original game's text and TES:Online, including the deuterocanonical [thirty-seventh chapter][18] and [sermon zero][19]. Unfortunately, I later fond out that all game-specific versions of text on that site are sourced from the lore page version; the text bodies are not actually entirely separate.
+Initially, the UESP Wiki served as the basis of my editions. Historically, it has been the resource for much of my Morrowind related references. Generally, it remains a primary and influential source alongside [the Imperial Library][18]. The UESP features multiple versions of the Lessons to account for any changes between games. I opted to use the [Morrowind page][19] version; my original intent was to avoid any differences between the original game's text and TES:Online, including the deuterocanonical [thirty-seventh chapter][20] and [sermon zero][21]. Unfortunately, I later fond out that all game-specific versions of text on that site are sourced from the lore page version; the text bodies are not actually entirely separate.
 
 As I went further through my editing process, I had discovered that there were indeed small textual errors in UESP's versions that were not present in the Imperial Library ones. Such changes would seem small to most, but in a couple of cases constituted a restructuring to the formatting. For example in Sermon Eight on the UESP, the following sequence, at the time of my collection, was rendered thusly:
 
@@ -133,7 +145,7 @@ No line difference. Sure, part of it is the hazardous nature of keeping a public
 
 I don't levy these as criticism of the Wiki. On the contrary, I find this to be more readable and am fascinated further by the fact that I too copied these errors before discovering them, under the false assumption that nothing had been changed. *Woops.* In any case, this appears to be an edit to the text that sprouted up naturally. Rest assured, I have already submitted my corrections to the wiki before posting this write-up.
 
-Another observation I made on formatting was the difference between the sermons posted online *before* the release of the game, as opposed to the slightly different way they were structured for the game. Undoubtedly, each sermon in the dense and cramped pages of the in-game tomes received it's respective layout primarily due to interface and resolution constraints. *However*, the versions of these texts that were posted to Bethesda's forums, and subsequently [redistributed][20] on websites during the months prior to the game's release, feature indentations to some sections within the body.
+Another observation I made on formatting was the difference between the sermons posted online *before* the release of the game, as opposed to the slightly different way they were structured for the game. Undoubtedly, each sermon in the dense and cramped pages of the in-game tomes received it's respective layout primarily due to interface and resolution constraints. *However*, the versions of these texts that were posted to Bethesda's forums, and subsequently [redistributed][22] on websites during the months prior to the game's release, feature indentations to some sections within the body.
 
 Again, this is a revelation that might seem trivial to most. However, regardless of the reason, I found it interesting to see that the Imperial Library and UESP, at some point in the ten years after Morrowind, went away from indenting those sections of text, making the format effectively dead.
 
@@ -165,11 +177,11 @@ I found these variations worthy of mention because each version *could* lead to 
 
 In the end, I found enough deviations in the wiki to warrant going back and rebasing the *entire* text on a dump I made of the game's resources. As stated, I submitted my corrections to UESP as well, so where it's possible their version *should* now match that of the games.
 
-[16]: https://www.imperial-library.info/
-[17]: https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec
-[18]: https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_37
-[19]: https://en.uesp.net/wiki/General:Sermon_Zero_of_the_Thirty-and-Six-and-Nine_Sermons_of_Vivec
-[20]: https://web.archive.org/web/20020407033511/http://www.m0use.net/~uesp/morrow/books/morbooks.shtml
+[18]: https://www.imperial-library.info/
+[19]: https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec
+[20]: https://en.uesp.net/wiki/Lore:36_Lessons_of_Vivec,_Sermon_37
+[21]: https://en.uesp.net/wiki/General:Sermon_Zero_of_the_Thirty-and-Six-and-Nine_Sermons_of_Vivec
+[22]: https://web.archive.org/web/20020407033511/http://www.m0use.net/~uesp/morrow/books/morbooks.shtml
 
 ---
 
@@ -177,93 +189,93 @@ In the end, I found enough deviations in the wiki to warrant going back and reba
 
 After rebasing this project directly on the dumps of the game's text, these were the edits I then made, and are present in each of the versions I reassembled. In total, only 16 words have been changed. Four of those are the same misspelled word (*AMLSIVI*, likely the result of a copy error) and three of them are compactions (majordomo) and one was a missing letter (PSJJJJ). Only 1 noun change was made (Necrom is the *actual* City of the Dead) and 1 word was removed (a leftover *to*). There were only 11 grammatical changes, and all within Sermon Eleven alone, curiously enough.
 
-See the [full list of changes][21].
+See the [full list of changes][23].
 
-[21]: changes.html
+[23]: changes.html
 
 ---
 
 #### Verse Numbering:
 
-A millennia before anyone in the west was even fretting over how to divide up their increasingly complex [codices][22], the [Rigveda][23] had grown, along with three other complementary texts within the [Vedas][24], to great prominence as one of the central holy texts within [Hinduism][25]. It's name is a mashup of two words: *&#7771;c*, which literally translates to *praise* but also constitutes the word for *verse*, and *veda* which means *knowledge*. Verses were used to divide up [*sutras*][26], often the written collections of proverbs, [*mantras*][27], and the aphorisms that surround them, that were transmitted orally until priests began to write them down. Verse marks are often denoted with a [double-danda][28], which are two vertical marks that act as a paragraph or section full-stop.
+A millennia before anyone in the west was even fretting over how to divide up their increasingly complex [codices][24], the [Rigveda][25] had grown, along with three other complementary texts within the [Vedas][26], to great prominence as one of the central holy texts within [Hinduism][27]. It's name is a mashup of two words: *&#7771;c*, which literally translates to *praise* but also constitutes the word for *verse*, and *veda* which means *knowledge*. Verses were used to divide up [*sutras*][28], often the written collections of proverbs, [*mantras*][29], and the aphorisms that surround them, that were transmitted orally until priests began to write them down. Verse marks are often denoted with a [double-danda][30], which are two vertical marks that act as a paragraph or section full-stop.
 
-For centuries, there have been methods of dividing the [Masoretic texts][29] into sections and verses (called *parashah* and *passuk*) that one could intuit if they knew Hebrew and were trained in reading the text. In 1437, [Isaac Nathan ben Kalonymus][30], a French Jewish philosopher and rabbi, began work on a Hebrew concordance of the [Tanakh][31], called *Meir Netib*. Organizationally, Nathan divided most lines by [Hebrew full-stop marks][32] and placed a number in the notes column every five verses. He worked on his concordance for ten years, however it wasn't published and circulated until 1523.
+For centuries, there have been methods of dividing the [Masoretic texts][31] into sections and verses (called *parashah* and *passuk*) that one could intuit if they knew Hebrew and were trained in reading the text. In 1437, [Isaac Nathan ben Kalonymus][32], a French Jewish philosopher and rabbi, began work on a Hebrew concordance of the [Tanakh][33], called *Meir Netib*. Organizationally, Nathan divided most lines by [Hebrew full-stop marks][34] and placed a number in the notes column every five verses. He worked on his concordance for ten years, however it wasn't published and circulated until 1523.
 
-Similar to the Tanakh, the [Quran][33] has traditionally been arranged into sections and verses (called *surat* and *ayah*). Initially, the Arabic script [lacked diacritical markings][34], making it difficult to distinguish double-consonants and long vowels. In addition, the primary way of distinguishing the end of a verse was to follow it with an empty space. Over time, Muslim scholars did not entirely agree on [interpretations][35] of where each verse should be split. The ninth century Muslim scholar [Abu Bakr Ibn Mujahid][36] is generally credited as having canonized the [seven different reading systems][37] that lead to [five common verse systems][38].
+Similar to the Tanakh, the [Quran][35] has traditionally been arranged into sections and verses (called *surat* and *ayah*). Initially, the Arabic script [lacked diacritical markings][36], making it difficult to distinguish double-consonants and long vowels. In addition, the primary way of distinguishing the end of a verse was to follow it with an empty space. Over time, Muslim scholars did not entirely agree on [interpretations][37] of where each verse should be split. The ninth century Muslim scholar [Abu Bakr Ibn Mujahid][38] is generally credited as having canonized the [seven different reading systems][39] that lead to [five common verse systems][40].
 
-However, during the [Umayyad period][39], diacritic and punctuation marks began to make their way into the Arabic script. Copyists began to fill the empty space at the end of verses with a new full-stop character (called a *waqf taam*). With the growing adoption of the [Hindu-Arabic numeral system][40] in the eighth and ninth centuries, writers began to fill this glyph with it's respective verse umber. Today, most printed Qurans use the Kufi/Egyption verse system.
+However, during the [Umayyad period][41], diacritic and punctuation marks began to make their way into the Arabic script. Copyists began to fill the empty space at the end of verses with a new full-stop character (called a *waqf taam*). With the growing adoption of the [Hindu-Arabic numeral system][42] in the eighth and ninth centuries, writers began to fill this glyph with it's respective verse umber. Today, most printed Qurans use the Kufi/Egyption verse system.
 
-Verse numbering in the modern sense didn't begin to appear in the texts of the [Christian bible][41] until the early 1600s. However, in 1509 [Jacques Lefevre d'Etaples][42] published the [Psalterium Quintuplex][43], which was a rendering of five different [psalters][44] in French. Lefevre had his own verse system to organize the work.
+Verse numbering in the modern sense didn't begin to appear in the texts of the [Christian bible][43] until the early 1600s. However, in 1509 [Jacques Lefevre d'Etaples][44] published the [Psalterium Quintuplex][45], which was a rendering of five different [psalters][46] in French. Lefevre had his own verse system to organize the work.
 
-In 1528, [Santes Pagnino][45] published his *Veteris et Novi Testamenti nova translatio*, a new translation of the Old and New Testament sections of the Christian bible into Latin. This is the first edition to contain verse numbers alongside the both sets of texts in a single volume. Pagnino was able to adopt the Hebrew full-stop system into his translation of the New Testament as well, making each verse roughly similar in length to the Old Testament.
+In 1528, [Santes Pagnino][47] published his *Veteris et Novi Testamenti nova translatio*, a new translation of the Old and New Testament sections of the Christian bible into Latin. This is the first edition to contain verse numbers alongside the both sets of texts in a single volume. Pagnino was able to adopt the Hebrew full-stop system into his translation of the New Testament as well, making each verse roughly similar in length to the Old Testament.
 
-Today, most Christian bibles use the verse numbering system introduced by [Robert Stephanus][46] in his 1551 edition of the Greek New Testament. His 1555 edition of the Latin [Vulgate][47] was the first to blend verse numbers into the body of the text.
+Today, most Christian bibles use the verse numbering system introduced by [Robert Stephanus][48] in his 1551 edition of the Greek New Testament. His 1555 edition of the Latin [Vulgate][49] was the first to blend verse numbers into the body of the text.
 
-About half-way through creating my verse system, I came across [the Theoretical Whirling School][48] (TWS), which was run by user [*Nigedo*][49]. This may be the very first group to come up with a text division scheme for the Lessons, all the way back in 2004. At the point that I was in this project, I had believed that no one must have published any such works and that I might be the lonely first to come up with verses, but it appears that I simply missed that era of work, now lost to time.
+About half-way through creating my verse system, I came across [the Theoretical Whirling School][50] (TWS), which was run by user [*Nigedo*][51]. This may be the very first group to come up with a text division scheme for the Lessons, all the way back in 2004. At the point that I was in this project, I had believed that no one must have published any such works and that I might be the lonely first to come up with verses, but it appears that I simply missed that era of work, now lost to time.
 
 Reviewing the TWS Edition, I am thankful to say that my system of division turned out unique in comparison. However I am fascinated by the laudable, now understandably difficult work. There are some approaches that look like they overlapped with my own ideas. For example, Nigedo chose to break up sermon 35 into multiple stanzas. They also break up some longer paragraphs into multiple verses, such as the second section of sermon 21. The choice to use HTML number lists to present verse headings was also a familiar sight. On the other hand, the count of verses in the TWS Edition is fairly consistent from chapter to chapter while my edition can vary wildly, likely because I allowed for some uneven divisions, as explained in my methodology.
 
-An archive of the TWS Edition of the Lessons is still available on [archive.org][50]. I have also made a copy of the surviving pages in markdown, [available on GitHub][51]. The website in general is impressive and worth a look. It's a shame to see it's been gone for more than a decade.
+An archive of the TWS Edition of the Lessons is still available on [archive.org][52]. I have also made a copy of the surviving pages in markdown, [available on GitHub][53]. The website in general is impressive and worth a look. It's a shame to see it's been gone for more than a decade.
 
-[22]: https://en.wikipedia.org/wiki/Codex
-[23]: https://en.wikipedia.org/wiki/Rigveda
-[24]: https://en.wikipedia.org/wiki/Vedas
-[25]: https://en.wikipedia.org/wiki/Hinduism
-[26]: https://en.wikipedia.org/wiki/Sutra
-[27]: https://en.wikipedia.org/wiki/Mantra
-[28]: https://en.wikipedia.org/wiki/Danda
-[29]: https://en.wikipedia.org/wiki/Masoretic_Text
-[30]: https://en.wikipedia.org/wiki/Isaac_Nathan_ben_Kalonymus
-[31]: https://en.wikipedia.org/wiki/Tanakh
-[32]: https://en.wikipedia.org/wiki/Sof_passuq
-[33]: https://en.wikipedia.org/wiki/Quran
-[34]: https://en.wikipedia.org/wiki/Qira%27at#Quranic_orthography
-[35]: https://answeringislam.org/Quran/Text/numbers.html
-[36]: https://en.wikipedia.org/wiki/Ibn_Mujahid#Canonisation_of_the_Quranic_Readings
-[37]: https://en.wikipedia.org/wiki/Ibn_Mujahid#Canonisation_of_the_Quranic_Readings
-[38]: http://muslimcanada.org/quran_division.html
-[39]: https://en.wikipedia.org/wiki/History_of_the_Quran#Umayyad_Period_(44/661%E2%80%93132/750)_%E2%80%93_Hijazi_script
-[40]: https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system
-[41]: https://en.wikipedia.org/wiki/Christian_bible
-[42]: https://en.wikipedia.org/wiki/Jacques_Lef%C3%A8vre_d%27%C3%89taples#Works
-[43]: https://www.google.com/books/edition/Quintuplex_Psalterium/
-[44]: https://en.wikipedia.org/wiki/Psalter
-[45]: https://en.wikipedia.org/wiki/Santes_Pagnino
-[46]: https://en.wikipedia.org/wiki/Robert_Estienne
-[47]: https://en.wikipedia.org/wiki/Vulgate
-[48]: https://web.archive.org/web/20050308071257/http://www.whirlingschool.net/index.html
-[49]: https://web.archive.org/web/20041204075336/http://whirlingschool.net/contact.html
-[50]: https://web.archive.org/web/20050226005458/http://whirlingschool.net/lore/numbers/preface.html
-[51]: documents/index-nigedo.html
+[24]: https://en.wikipedia.org/wiki/Codex
+[25]: https://en.wikipedia.org/wiki/Rigveda
+[26]: https://en.wikipedia.org/wiki/Vedas
+[27]: https://en.wikipedia.org/wiki/Hinduism
+[28]: https://en.wikipedia.org/wiki/Sutra
+[29]: https://en.wikipedia.org/wiki/Mantra
+[30]: https://en.wikipedia.org/wiki/Danda
+[31]: https://en.wikipedia.org/wiki/Masoretic_Text
+[32]: https://en.wikipedia.org/wiki/Isaac_Nathan_ben_Kalonymus
+[33]: https://en.wikipedia.org/wiki/Tanakh
+[34]: https://en.wikipedia.org/wiki/Sof_passuq
+[35]: https://en.wikipedia.org/wiki/Quran
+[36]: https://en.wikipedia.org/wiki/Qira%27at#Quranic_orthography
+[37]: https://answeringislam.org/Quran/Text/numbers.html
+[38]: https://en.wikipedia.org/wiki/Ibn_Mujahid#Canonisation_of_the_Quranic_Readings
+[39]: https://en.wikipedia.org/wiki/Seven_qira%E2%80%99a
+[40]: http://muslimcanada.org/quran_division.html
+[41]: https://en.wikipedia.org/wiki/History_of_the_Quran#Umayyad_Period_(44/661%E2%80%93132/750)_%E2%80%93_Hijazi_script
+[42]: https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system
+[43]: https://en.wikipedia.org/wiki/Christian_bible
+[44]: https://en.wikipedia.org/wiki/Jacques_Lef%C3%A8vre_d%27%C3%89taples#Works
+[45]: https://www.google.com/books/edition/Quintuplex_Psalterium/
+[46]: https://en.wikipedia.org/wiki/Psalter
+[47]: https://en.wikipedia.org/wiki/Santes_Pagnino
+[48]: https://en.wikipedia.org/wiki/Robert_Estienne
+[49]: https://en.wikipedia.org/wiki/Vulgate
+[50]: https://web.archive.org/web/20050308071257/http://www.whirlingschool.net/index.html
+[51]: https://web.archive.org/web/20041204075336/http://whirlingschool.net/contact.html
+[52]: https://web.archive.org/web/20050226005458/http://whirlingschool.net/lore/numbers/preface.html
+[53]: documents/index-nigedo.html
 
 ---
 
 #### Red Letters:
 
-Another major influence on the Lessons is the [Bhagavad Gita][52], and [Indian epics][53] in general. The Dunmeri language as written in the Daedric script also bears a strong resemblance to [Sanskrit][54], especially in following the stylings of some [ancient manuscripts][55]. It's been a [historic practice][56] to write headings, [colophons][57], and annotations in red, to distinguish commentary and heads that surround the body.
+Another major influence on the Lessons is the [Bhagavad Gita][54], and [Indian epics][55] in general. The Dunmeri language as written in the Daedric script also bears a strong resemblance to [Sanskrit][56], especially in following the stylings of some [ancient manuscripts][57]. It's been a [historic practice][58] to write headings, [colophons][59], and annotations in red, to distinguish commentary and heads that surround the body.
 
-In some Vedic and Jainist manuscripts, it has also [been observed][58] that alternative colors, especially red, were used to highlight [important phrases][59] or [symbols][60] for the reader. In general, highlighted sections or words in red are called [rubrics][61], from the Latin word *rubrica* which means *red ochre,* the crushed clay that was used to make the particular ink. In medieval Europe, there even came to be an official process for adding red to manuscripts, called [rubrication][62].
+In some Vedic and Jainist manuscripts, it has also [been observed][60] that alternative colors, especially red, were used to highlight [important phrases][61] or [symbols][62] for the reader. In general, highlighted sections or words in red are called [rubrics][63], from the Latin word *rubrica* which means *red ochre,* the crushed clay that was used to make the particular ink. In medieval Europe, there even came to be an official process for adding red to manuscripts, called [rubrication][64].
 
-The rubrication process was a matter of discipline that belonged to [scriptoria][63], the preparation of manuscripts for codex production. Initially similar to modern italics, red highlighting was often used for headings and emphasis within these manuscripts. In [Christian liturgies][64], such as during the Liturgy of the Eucharist in the Catholic Mass, the [Words of Consecration][65], often called the Dominical Institution, are stated by the priest as part of a sacrament of bread and wine. While it continues to be the practice to rubricate these words in missals, the practice did not make the jump to the Christian Bible until around 1900.
+The rubrication process was a matter of discipline that belonged to [scriptoria][65], the preparation of manuscripts for codex production. Initially similar to modern italics, red highlighting was often used for headings and emphasis within these manuscripts. In [Christian liturgies][66], such as during the Liturgy of the Eucharist in the Catholic Mass, the [Words of Consecration][67], often called the Dominical Institution, are stated by the priest as part of a sacrament of bread and wine. While it continues to be the practice to rubricate these words in missals, the practice did not make the jump to the Christian Bible until around 1900.
 
-Because there were no quotation marks in any of the historic manuscripts, they were not present in the initial English versions of the Bible either. In an attempt to add emphasis, but also to differentiate from the ambiguously surrounding text, [Louis Klopsch][66] applied rubrication to the words among the four Gospels that are understood to have been literally spoken by Jesus Christ, referred to as the Dominical Words. Klopsch's rubricated New Testament, called the [Red Letter Edition][67] was first published in 1899.
+Because there were no quotation marks in any of the historic manuscripts, they were not present in the initial English versions of the Bible either. In an attempt to add emphasis, but also to differentiate from the ambiguously surrounding text, [Louis Klopsch][68] applied rubrication to the words among the four Gospels that are understood to have been literally spoken by Jesus Christ, referred to as the Dominical Words. Klopsch's rubricated New Testament, called the [Red Letter Edition][69] was first published in 1899.
 
-[52]: https://en.wikipedia.org/wiki/Bhagavad_Gita
-[53]: https://en.wikipedia.org/wiki/Indian_epic_poetry
-[54]: https://en.wikipedia.org/wiki/Sanskrit
-[55]: https://en.wikipedia.org/wiki/File:3rd_Chapter_Verses_1-2,_Bhagavad_Gita,_Gurmukhi_script,_Punjab.jpg
-[56]: https://d-nb.info/1076359973/34
-[57]: https://en.wikipedia.org/wiki/Colophon_(publishing)
-[58]: https://www.degruyter.com/view/title/528891?format=G
-[59]: https://en.wikipedia.org/wiki/Om_mani_padme_hum
+[54]: https://en.wikipedia.org/wiki/Bhagavad_Gita
+[55]: https://en.wikipedia.org/wiki/Indian_epic_poetry
+[56]: https://en.wikipedia.org/wiki/Sanskrit
+[57]: https://en.wikipedia.org/wiki/File:3rd_Chapter_Verses_1-2,_Bhagavad_Gita,_Gurmukhi_script,_Punjab.jpg
+[58]: https://d-nb.info/1076359973/34
+[59]: https://en.wikipedia.org/wiki/Colophon_(publishing)
 [60]: https://www.degruyter.com/view/title/528891?format=G
-[61]: https://en.wikipedia.org/wiki/Rubric
-[62]: https://en.wikipedia.org/wiki/Rubrication
-[63]: https://en.wikipedia.org/wiki/Scriptorium
-[64]: https://en.wikipedia.org/wiki/Christian_liturgy
-[65]: https://en.wikipedia.org/wiki/Words_of_Institution
-[66]: https://en.wikipedia.org/wiki/Louis_Klopsch
-[67]: https://en.wikipedia.org/wiki/Red_letter_edition
+[61]: https://en.wikipedia.org/wiki/Om_mani_padme_hum
+[62]: https://www.degruyter.com/view/title/528891?format=G
+[63]: https://en.wikipedia.org/wiki/Rubric
+[64]: https://en.wikipedia.org/wiki/Rubrication
+[65]: https://en.wikipedia.org/wiki/Scriptorium
+[66]: https://en.wikipedia.org/wiki/Christian_liturgy
+[67]: https://en.wikipedia.org/wiki/Words_of_Institution
+[68]: https://en.wikipedia.org/wiki/Louis_Klopsch
+[69]: https://en.wikipedia.org/wiki/Red_letter_edition
 
 ---
 
@@ -286,14 +298,14 @@ Guilty.
 #### Assets Used:
 Some quick links to items used in this project.
 
-- [Markdown][68]
-- [Ayembedt font][69]
-- [Casual Dunmeris][70]
-- [The 36 Lessons of Vivec][71]
+- [Markdown][70]
+- [Ayembedt font][71]
+- [Casual Dunmeris][72]
+- [The 36 Lessons of Vivec][73]
 
-[68]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[69]: https://github.com/georgd/OpenMW-Fonts
-[70]: https://casualscrolls.fandom.com/wiki/Dunmeri_language
-[71]: https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec
+[70]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[71]: https://github.com/georgd/OpenMW-Fonts
+[72]: https://casualscrolls.fandom.com/wiki/Dunmeri_language
+[73]: https://en.uesp.net/wiki/Morrowind:The_36_Lessons_of_Vivec
 
 ---
