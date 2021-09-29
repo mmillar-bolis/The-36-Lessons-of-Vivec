@@ -1,8 +1,6 @@
-# The Three Lessons of Vivec
+# The 36 Lessons of Vivec
 
 #### Rendered in markdown with verse numbers and rubrics.
-
-&emsp;
 
 ## View on [GitHub.io][1]
 
