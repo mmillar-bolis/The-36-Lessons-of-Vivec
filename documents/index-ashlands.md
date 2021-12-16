@@ -77,7 +77,7 @@
 >
 > <span style="display:inline-block;padding-left:2em">*The ending of the words, ALMSIVI.*</span>
 >
-> <span style="display:inline-block;padding-left:1em">&ndash;Idrele, curate of Seht and scribe of the Temple in Vos</span>
+> <span style="display:inline-block;padding-left:1em">&ndash;Idrele, curate and scribe of the Temple in Vos</span>
 
 ---
 
