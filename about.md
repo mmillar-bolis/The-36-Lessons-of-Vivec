@@ -107,7 +107,7 @@ And [further down][14]:
 >
 > So yeah, a mix of time with occasional brain blast all at once.
 
-This directly refutes any notion of these books having been written or even planned with additional chapters. Further, it confirms that each chapter was written in sequential order which may help to narrow down the evolution of ideas such as the Walking Ways and CHIM. The book, having been written in only a week, was likely complete by May of 2001 when [initial chapters][16] were becomming available online.
+This directly refutes any notion of these books having been written or even planned with additional chapters. Further, it narrows down the time-frame of writing, which may also lend to clearer impressions on the evolution of ideas behind the Walking Ways and CHIM. The book, having been written in only a week, was likely complete by May of 2001 when [initial chapters][16] were becomming available online.
 
 As a last note, I have discovered other projects that break the game's books down into sets of data. [This one][17] tags significant words to gain an understanding of their overlap among the various books found within the game.
 
@@ -129,7 +129,7 @@ As a last note, I have discovered other projects that break the game's books dow
 
 #### Textual Differences:
 
-Initially, the UESP Wiki served as the basis of my editions. Historically, it has been the resource for much of my Morrowind related references. Generally, it remains a primary and influential source alongside [the Imperial Library][18]. The UESP features multiple versions of the Lessons to account for any changes between games. I opted to use the [Morrowind page][19] version; my original intent was to avoid any differences between the original game's text and TES:Online, including the deuterocanonical [thirty-seventh chapter][20] and [sermon zero][21]. Unfortunately, I later fond out that all game-specific versions of text on that site are sourced from the lore page version; the text bodies are not actually entirely separate.
+Initially, the UESP Wiki served as the basis of my editions. Historically, it has been the resource for much of my Morrowind related references. Generally, it remains a primary and influential source alongside [the Imperial Library][18]. The UESP features multiple versions of the Lessons to account for any changes between games. I opted to use the [Morrowind page][19] version; my original intent was to avoid any differences between the original game's text and TES:Online, including the deuterocanonical [thirty-seventh chapter][20] and [sermon zero][21]. Unfortunately, I later found out that all game-specific versions of text on that site are sourced from the lore page version; the text bodies are not actually entirely separate.
 
 As I went further through my editing process, I had discovered that there were indeed small textual errors in UESP's versions that were not present in the Imperial Library ones. Such changes would seem small to most, but in a couple of cases constituted a restructuring to the formatting. For example in Sermon Eight on the UESP, the following sequence, at the time of my collection, was rendered thusly:
 
@@ -203,7 +203,7 @@ For centuries, there have been methods of dividing the [Masoretic texts][31] int
 
 Similar to the Tanakh, the [Quran][35] has traditionally been arranged into sections and verses (called *surat* and *ayah*). Initially, the Arabic script [lacked diacritical markings][36], making it difficult to distinguish double-consonants and long vowels. In addition, the primary way of distinguishing the end of a verse was to follow it with an empty space. Over time, Muslim scholars did not entirely agree on [interpretations][37] of where each verse should be split. The ninth century Muslim scholar [Abu Bakr Ibn Mujahid][38] is generally credited as having canonized the [seven different reading systems][39] that lead to [five common verse systems][40].
 
-However, during the [Umayyad period][41], diacritic and punctuation marks began to make their way into the Arabic script. Copyists began to fill the empty space at the end of verses with a new full-stop character (called a *waqf taam*). With the growing adoption of the [Hindu-Arabic numeral system][42] in the eighth and ninth centuries, writers began to fill this glyph with it's respective verse umber. Today, most printed Qurans use the Kufi/Egyption verse system.
+However, during the [Umayyad period][41], diacritic and punctuation marks began to make their way into the Arabic script. Copyists began to fill the empty space at the end of verses with a new full-stop character (called a *waqf taam*). With the growing adoption of the [Hindu-Arabic numeral system][42] in the eighth and ninth centuries, writers began to fill this glyph with it's respective verse number. Today, most printed Qurans use the Kufi/Egyption verse system.
 
 Verse numbering in the modern sense didn't begin to appear in the texts of the [Christian bible][43] until the early 1600s. However, in 1509 [Jacques Lefevre d'Etaples][44] published the [Psalterium Quintuplex][45], which was a rendering of five different [psalters][46] in French. Lefevre had his own verse system to organize the work.
 
