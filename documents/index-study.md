@@ -1237,16 +1237,16 @@ They have been useless to summon ever since.
 <span style="color:red">SHARMAT</span>\
 &emsp;&emsp;&emsp;&emsp;I AM OLDER THAN MUSIC\
 &emsp;&emsp;&emsp;&emsp;WHAT I BRING IS LIGHT\
-&emsp;&emsp;&emsp;&emsp;WHAT I BRING IS A STAR
+&emsp;&emsp;&emsp;&emsp;WHAT I BRING IS A STAR\
+&emsp;&emsp;&emsp;&emsp;WHAT I BRING IS\
+&emsp;&emsp;&emsp;&emsp;AN ANCIENT SEA
 
-7. &emsp;&emsp;&emsp;&emsp;WHAT I BRING IS\
-&emsp;&emsp;&emsp;&emsp;AN ANCIENT SEA\
-&emsp;&emsp;&emsp;&emsp;WHEN YOU SLEEP YOU SEE ME\
-&emsp;&emsp;&emsp;&emsp;DANCING AT THE CORE
+7. &emsp;&emsp;&emsp;&emsp;WHEN YOU SLEEP YOU SEE ME\
+&emsp;&emsp;&emsp;&emsp;DANCING AT THE CORE\
+&emsp;&emsp;&emsp;&emsp;IT IS NOT A BLIGHT\
+&emsp;&emsp;&emsp;&emsp;IT IS MY HOUSE
 
-8. &emsp;&emsp;&emsp;&emsp;IT IS NOT A BLIGHT\
-&emsp;&emsp;&emsp;&emsp;IT IS MY HOUSE\
-&emsp;&emsp;&emsp;&emsp;I PUT A STAR\
+8. &emsp;&emsp;&emsp;&emsp;I PUT A STAR\
 &emsp;&emsp;&emsp;&emsp;INTO THE WORLD'S MOUTH\
 &emsp;&emsp;&emsp;&emsp;TO MURDER IT
 
