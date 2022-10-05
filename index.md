@@ -29,7 +29,7 @@ This is a rendering of The 36 Lessons of Vivec that introduces a verse numbering
 [4]: https://www.xbox.com/en-us/games/store/The-Elder-Scrolls-III-Morrowind/BXVCFBJBNS17
 [5]: about.html
 
-&emsp;
+&#8203;
 
 ---
 
@@ -45,7 +45,7 @@ This is a rendering of The 36 Lessons of Vivec that introduces a verse numbering
 [7]: documents/index-traditional.html
 [8]: documents/index-ashlands.html
 
-&emsp;
+&#8203;
 
 ---
 
@@ -65,7 +65,7 @@ This is a rendering of The 36 Lessons of Vivec that introduces a verse numbering
 [12]: documents/index-nigedo.html
 [13]: documents/index-commentaries.html
 
-&emsp;
+&#8203;
 
 | <span style="font-family:Daedric">A<span style="color:red">V</span>S</span> |
 |:---------------------------------------------------------------------------:|
