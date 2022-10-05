@@ -23,7 +23,7 @@
 
 Below are the commentaries I have come across during my research on the Lessons. As an obscure subject, there is not a whole lot of material out there, but what does exist is quite insightful.
 
-The very first work resembling a commentary was written by Vsevolod Alekseyev, who took over [Xanathar's Library][1], under the username [*Qwerty*][2]. The earliest available archive is from [2001-12][3], and for a long time, only the first chapter had been completed. Some time after the Library had changed web hosts, an expanded set of commentary with a new preface had surfaced. The earliest extant version is currently from [2005-03][4].
+The very first work resembling a commentary was written by Vsevolod Alekseyev, who took over [Xanathar's Library][1], under the username [*Qwerty*][2]. The earliest available archive is from [2001-12][3], and for a long time, only the first chapter had been completed. Some time after the Library had changed web hosts, an expanded set of commentary with a new preface had surfaced. The earliest extant version is currently from [2004-02][4].
 
 The next commentary I came across was published in [2011-01][5] by Tante Lien, who covered ten chapters. Around [2012-03][6], Jerome Barry IV began a series of lengthy essays on the sermons, but abruptly stopped after chapter six. *Ronenum* began a similar endeavor with the first three chapters, in [2014-02][7]. Another short commentary of a select three chapters was made available by user *jclark28* in [2016-06][8].
 
@@ -34,7 +34,7 @@ Last, but certainly not least there is the [New Whirling School][12] commentary 
 [1]: https://web.archive.org/web/20010124070200if_/http://www.m0use.net/~xanathar/
 [2]: https://web.archive.org/web/20010304193342/http://www.m0use.net:80/~xanathar/whatsupwithxan.html
 [3]: https://web.archive.org/web/20011210022922/http://www.m0use.net:80/~xanathar/es/mwbooks/lessons.html
-[4]: https://web.archive.org/web/20030119213440/http://www.m0use.net:80/~xanathar/mwbooks/lessons.shtml
+[4]: https://web.archive.org/web/20040222133943/http://til.gamingsource.co.uk:80/mwbooks/lessons.shtml
 [5]: https://www.imperial-library.info/content/first-time-sermons
 [6]: https://jeromeiv-blog.tumblr.com/search/36+lessons
 [7]: https://tamrielvault.com/groups/topic/view/group_id/1/topic_id/3628
@@ -51,7 +51,7 @@ Last, but certainly not least there is the [New Whirling School][12] commentary 
 
 - [The Imperial Library Protocommentary][14]
 
-[14]: https://web.archive.org/web/20030119213440/http://www.m0use.net:80/~xanathar/mwbooks/lessons.shtml
+[14]: https://web.archive.org/web/20040222133943/http://til.gamingsource.co.uk:80/mwbooks/lessons.shtml
 
 - [Tante Lien's Commentary][15]
 
