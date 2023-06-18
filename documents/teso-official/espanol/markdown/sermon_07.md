@@ -25,7 +25,7 @@
 
 ## TES: Online Edition
 
-> Game Version: 8.2.8
+> Game Version: 9.0.5
 >
 > An archive of the original contents of the current versions of the complete text.
 
@@ -33,44 +33,45 @@
 
 #### <span style="color:red">Sermón Siete</span>
 
-Mientras la caravana de Nerevar se dirigía a la capital de Veloth, pasado Almalexia, llegaba un gran estruendo desde Oblivion. Un duque entre diablillos paseó por la Casa de los Problemas, deteniéndose delante de cada puerta para presentar sus respetos, hasta que le recibió el ayudante de Mehrunes Dagon.
+Mientras la caravana de Nerevar se dirigía a la capital de Veloth, a continuación de Almalexia, llegaba un gran estruendo desde Oblivion. Un duque entre los diablillos paseó por la Casa de los Problemas, deteniéndose delante de cada puerta para presentar sus respetos, hasta que le recibió el ayudante de Mehrunes Dagon.
 
-El duque de diablillos dijo: «Me ha invocado el señor Dagon, maestro de las aguas infectas y el fuego, y he traído los banderines de mis siete legiones».
+El duque de los diablillos dijo: «Me ha llamado lord Dagon, maestro de las aguas infectas y el fuego, y he traído los banderines de mis siete legiones».
 
-El ayudante, cuya cabeza era una burbuja de agua infecta y fuego, se inclinó de manera que la cabeza del duque de diablillos se quedó contenida en la suya.
+El ayudante, cuya cabeza era una burbuja de agua infecta y fuego, se inclinó de manera que la cabeza del duque de los diablillos se quedó contenida en la suya.
 
 Vio el primer banderín, al frente de una legión de guerreros sombríos que podían morir al menos dos veces.
 
 Vio el segundo banderín, al frente de una legión de toros alados y el emperador de color que montaba sobre cada uno de ellos.
 
-Vio el tercer banderín, al frente de una legión de gorgonas invertidas, unas serpientes enormes cuyas escamas eras rostros de hombres.
+Vio el tercer banderín, al frente de una legión de gorgonas invertidas, unas serpientes enormes cuyas escamas eran rostros de hombres.
 
 Vio el cuarto banderín, al frente de una legión de amantes traicionados.
 
 Vio el quinto banderín, al frente de una legión de heridas saltarinas deseosas de saltar sobre una víctima.
 
 Vio el sexto banderín, al frente de una legión de planetas sintetizados.
+
 Vio el séptimo banderín, al frente de una legión de movimientos ganadores blindados.
 
-Entonces, el ayudante dijo: «Duque Kh-Utta, aunque poderosas, tus legiones no bastan para destruir a Nerevar o el Camino Trino. Observa al hortator y contempla la sabiduría que lleva a la esposa».
+Entonces, el ayudante dijo: «Duque Kh-Utta, aunque poderosas, tus legiones no bastan para destruir a Nerevar ni el Camino Trino. Observa al hortator y contempla la sabiduría que lleva a la esposa».
 
-Entonces miraron al mundo medio y vieron:
+Entonces, miraron al mundo medio y vieron:
 
 Evaporándose en multitud de truenos\
-de guerra roja y hombres de quitina,\
-donde los destinos\
-lo llevaban más lejos de nuestros caminos,\
-el calor que hubiéramos deseado\
-y la oración que todavía recuerdan.\
+De guerra roja y hombres de quitina,\
 Donde los destinos\
-revisten la distancia,\
-alegres en el dorado este que vimos ahora,\
-en vez de la guerra y la reparación\
-de la fractura olvidada.\
+Lo llevaban más lejos de nuestros caminos,\
+El calor que hubiéramos deseado\
+Y la oración que todavía recuerdan.\
+Donde los destinos\
+Revisten la distancia,\
+Alegres en el dorado este que vimos ahora,\
+En vez de la guerra y la reparación\
+De la fractura olvidada,\
 Una maldición en el hortator\
-y dos más sobre sus manos.
+Y dos más sobre sus manos.
 
-Y el Duque de Diablillos vio las palmas del hortator, en las que el huevo había escrito estas palabras de poder: GHARTOK PADHOME GHARTOK PADHOME.
+Y el duque de los Diablillos vio las palmas del hortator, en las que el huevo tenía escrito estas palabras de poder: GHARTOK PADHOME GHARTOK PADHOME.
 
 El fin de las palabras es ALMSIVI.
 

@@ -25,7 +25,7 @@
 
 ## TES: Online Edition
 
-> Game Version: 8.2.8
+> Game Version: 9.0.5
 >
 > An archive of the original contents of the current versions of the complete text.
 
@@ -49,7 +49,7 @@ Six sont les formules vouées aux cieux par la violence, dont une que tu as appr
 
 Le Père est une machine et son orifice. Son unique mystère prend la forme d'une invitation à élaborer davantage.
 
-La Mère est active et griffue comme un chien de Nix, et pourtant elle est la plus sainte de ceux qui revendiquent leur existence.
+La Mère est active et griffue comme un chien-nix, et pourtant elle est la plus sainte de ceux qui revendiquent leur existence.
 
 Le Fils n'est autre que moi-même, Vehk, et je suis trois, six, neuf et ce qui vient ensuite, glorieux et compatissant, sans limite, représentation absolue des perfections de ce monde et des autres, épée et symbole, pâle comme l'or.
 

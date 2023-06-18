@@ -36,7 +36,7 @@
 
 ## TES: Online Edition
 
-> Game Version: 8.2.8
+> Game Version: 9.0.5
 >
 > An archive of the original contents of the current versions of the complete text.
 

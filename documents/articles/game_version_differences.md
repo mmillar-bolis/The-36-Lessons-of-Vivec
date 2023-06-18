@@ -242,6 +242,18 @@ Barilla3113's belief that ZeniMax Online was copying and pasting books into *TES
 
 ---
 
+## A Tiny New Change
+
+The `9.0.5` update to *TES:Online* produced another minor change to the text, probably by way of some mass word correction.
+
+__Sermon 7, TES:O 8.2.8__
+> there came great rumblings from the oblivion. A duke among `scamps` wandered into the House of Troubles.
+
+__Sermon 7, TES:O 9.0.5__
+> there came great rumblings from the oblivion. A duke among `Scamps` wandered into the House of Troubles.
+
+---
+
 ## Dumping Your Own Data
 
 If you would like to dump and verify this information for yourself, *TES3: Morrowind*'s HTML books can be extracted from the game's `Morrowind.esm` data file using the included __Construction Set__.

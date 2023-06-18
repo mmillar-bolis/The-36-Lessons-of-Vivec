@@ -25,7 +25,7 @@
 
 ## TES: Online Edition
 
-> Game Version: 8.2.8
+> Game Version: 9.0.5
 >
 > An archive of the original contents of the current versions of the complete text.
 
@@ -49,7 +49,7 @@
 
 父神为机器，是机器之口。邀人详述，为其唯一神秘之处。
 
-母神活跃积极，凶狠如尼克斯犬，又为重获时日，世人眼中至圣之存在。
+母神活跃积极，凶狠如尼克斯犬虫，又为重获时日，世人眼中至圣之存在。
 
 吾维威克乃神之子，直达三、六、九及其后之一切，光荣慈悲，无边无涯，此世与彼世皆为臻无瑕，剑与符号，苍白如金。
 

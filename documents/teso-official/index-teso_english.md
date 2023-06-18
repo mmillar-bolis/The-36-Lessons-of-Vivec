@@ -36,7 +36,7 @@
 
 ## TES: Online Edition
 
-> Game Version: 8.2.8
+> Game Version: 9.0.5
 >
 > An archive of the original contents of the current versions of the complete text.
 
@@ -400,7 +400,7 @@ The ending of the words is ALMSIVI.
 
 #### <span style="color:red">Sermon Seven</span>
 
-As the caravan of Nerevar now made for the capital of Veloth, anon Almalexia, there came great rumblings from the oblivion. A duke among scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the major domo of Mehrunes Dagon.
+As the caravan of Nerevar now made for the capital of Veloth, anon Almalexia, there came great rumblings from the oblivion. A duke among Scamps wandered into the House of Troubles, pausing before each scripture door to pay his respects, until finally he was met by the major domo of Mehrunes Dagon.
 
 The Duke of Scamps said, "I was summoned by Lord Dagon, master of the foul waters and fire, and I have brought the pennants of my seven legions."
 

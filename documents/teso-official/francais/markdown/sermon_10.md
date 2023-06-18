@@ -25,7 +25,7 @@
 
 ## TES: Online Edition
 
-> Game Version: 8.2.8
+> Game Version: 9.0.5
 >
 > An archive of the original contents of the current versions of the complete text.
 
@@ -41,7 +41,7 @@ L'évocateur lèvera la main gauche, ouverte, afin d'indiquer qu'il n'a pas beso
 
 Cette maxime signifie que l'Hortateur a besoin de moi pour comprendre. L'épée est une signature impatiente. Elle n'écrit aucun constat sur ceux qui sont défunts. Et Vivec dit à l'Hortateur de se souvenir des paroles de Boét-hi-a :
 
-« Nous te prêtons serment, Charpentier et Scarabée : un monde où nous pouvons t'adorer, un manteau de terre à chérir. Trahi par tes ancêtres alors que tu avais détourné le regard. Le vieux Magnus et ses opinions hasardeuses ne peuvent convaincre les laissés pour compte, sa ruse n'est digne que des éternels satisfaits. Une courte saison de tour, une absolution usée, et qu'est-ce que cela, sinon du feu sous ta paupière ?
+« Nous te prêtons serment, Charpentier et Scarabée : un monde où nous pouvons t'adorer, un manteau de terre à chérir. Trahi par tes ancêtres alors que tu avais détourné le regard. Le vieux Magnus et ses opinions hasardeuses ne peuvent convaincre les laissés pour compte, sa ruse n'est digne que des éternels satisfaits. Une courte saison de tour, une absolution usée, et qu'est-ce que cela, sinon du feu sous ta paupière ? »
 
 Changez de peau, dis-je aux mangeurs de Trinimac. Donnez à votre peau la tessiture des ecchymoses. Divisez-vous comme vos ennemis, en Maisons, érigez vos lois à partir du centre, encore une fois comme vos ennemis des Coins de la Maison des Troubles, et considérez que vous êtes des poutres, des parois de boue séchée ou des feuilles de résine. À partir de ce moment, cessez de vous diviser, car la foulée de SITHISIT est plus rapide que la ruée de vos adversaires et il n'hésitera pas à détruire le tout pour n'en récupérer qu'une partie.
 
