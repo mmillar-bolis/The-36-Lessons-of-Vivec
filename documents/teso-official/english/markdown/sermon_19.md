@@ -63,11 +63,11 @@ Protecting us from our enemies
 
 Your house is safe now
 
-So why is it—
+So why is it&mdash;
 
 Your house is safe now
 
-So why is it—
+So why is it&mdash;
 
 The ending of the words is ALMSIVI.
 
