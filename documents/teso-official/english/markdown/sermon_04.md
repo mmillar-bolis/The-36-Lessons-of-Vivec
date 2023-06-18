@@ -49,7 +49,7 @@ Thus was coincidence destroyed in the land of the Velothi.
 
 Then an Old Bone of the earth rose up before the simulacrum of the netchiman's wife and said, "If you are to be born a ruling king of the world you must confuse it with new words. Set me into pondering."
 
-"Very well," Vivec said, "Let me talk to you of the world, which I share with mystery and love. Who is her capital? Have you taken the scenic route of her cameo? I have—lightly, in secret, missing candles because they're on the untrue side, and run my hand along the edge of a shadow made from one hundred and three divisions of warmth, and left no proof."
+"Very well," Vivec said, "Let me talk to you of the world, which I share with mystery and love. Who is her capital? Have you taken the scenic route of her cameo? I have&mdash;lightly, in secret, missing candles because they're on the untrue side, and run my hand along the edge of a shadow made from one hundred and three divisions of warmth, and left no proof."
 
 At this the Old Bone folded unto itself twenty times until it became akin to milk, which Vivec drank, becoming a ruling king of the world.
 
