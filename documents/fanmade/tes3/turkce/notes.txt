@@ -1,0 +1,15 @@
+Translator: Mertusta
+Çeviren: Mertusta
+
+Sermon 29:
+
+Çeviren: Muhammed Ali Erenbilge
+
+Çevirmenin Notu: Normalde kitabìn êngilizce sôrômônde her maddenin karóìsìnda bir sayì vardì. Her bir madde bulunduòu sìradaki vaazì temsil ediyor, sonundaki sayìlar da o vaazdaki bir kelimeyi temsil ediyordu. Bôtôn kelimeleri birleótirince de gizli bir mesajìn ortaya çìkmasì gerekiyordu. Tôrkçeye çevirirken maalesef o dôzeni tutturamadìk. Sayìlarì ve kelimeleri eóleótirmek neredeyse imkânsìzdì. O yôzden biz de gizli cômleyi direkt olarak kitabìn sonuna ekleyelim dedik:
+
+<details>
+<summary><i>spoiler uyarısı</i></summary>
+<blockquote>
+Bir tanrì olarak doòmadì. Onun kaderi bu suçu iólemesine sebep olmadì. Bu yolu kendi özgôr iradesi ile kendi seçti. Tanrìlìòì çaldì ve Hortator'u öldôrdô. Bunu Vivec yazdì.
+</blockquote>
+</details>

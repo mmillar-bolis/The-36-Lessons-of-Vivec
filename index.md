@@ -1,78 +1,98 @@
 
 ---
 
-<!--- Jekyll Page Links -->
+<!-- Local CSS Font Loading -->
+
+<style>
+@font-face {
+    font-family: HayghinDaedric;
+    src: url('assets/fonts/ttf/HayghinDaedric.ttf') format('truetype');
+    font-weight: medium;
+    font-style: normal;
+}
+</style>
+
+<!-- Jekyll Page Links -->
 
 <center>
 <a href="index.html">Home</a>
 &emsp;&nabla;&emsp;
-<a href="documents/index-study.html">Study Format</a>
+<a href="documents/index-tes3.html">TES:III Edition</a>
 &emsp;&nabla;&emsp;
-<a href="documents/index-traditional.html">Traditional Format</a>
+<a href="documents/index-teso.html">TES:Online Edition</a>
 &emsp;&nabla;&emsp;
-<a href="documents/index-ashlands.html">Ashlands Edition</a>
+<a href="documents/index-traditional.html">Traditional Edition</a>
 &emsp;&nabla;&emsp;
-<a href="about.html">About</a>
+<a href="documents/index-misc.html">Misc</a>
 </center>
 
-<!--- Markdown Body Below: -->
+<!-- Markdown Body Below: -->
 
 ---
 
 #### Description:
 
-This is a rendering of The 36 Lessons of Vivec that introduces a verse numbering system, rubrics for particular words, and several optional formats, in the hopes of making it easier for readers to study and reference the text. The source for this edition is the final retail version of Morrowind, available on [GOG][1], [Steam][2], [Bethesda][3], and [Xbox Live][4]. More information can be found on the [About][5] page.
+This is a collection of various translations and renderings of *The 36 Lessons of Vivec*, assembled together in the hopes of making it easier for readers to study and reference the text. *The Elder Scrolls III: Morrowind* is available on [GOG][1], [Steam][2], [Humble][3], and [Xbox Live][4]. More information about this project can be found on the [About][5] page.
 
 [1]: https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition
 [2]: https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
-[3]: https://elderscrolls.bethesda.net/en/morrowind
+[3]: https://www.humblebundle.com/store/the-elder-scrolls-iii-morrowind-game-of-the-year-edition
 [4]: https://www.xbox.com/en-us/games/store/The-Elder-Scrolls-III-Morrowind/BXVCFBJBNS17
-[5]: about.html
+[5]: documents/articles/about_this_text.md
 
 &#8203;
 
 ---
 
-#### Available Versions:
+#### Versions:
 
-|                      *link* | *description*                                                    |
-|----------------------------:|:-----------------------------------------------------------------|
-|       [__Study Format__][6] | A verse-by-verse format that follows a more poetic structure     |
-| [__Traditional Format__][7] | A format that follows the game and early forum/HTML versions     |
-|   [__Ashlands Edition__][8] | <span style="font-family:Daedric">Yivi'ag enhi ald serpul</span> |
+| <span style="font-family:HayghinDaedric;color:red">V</span> | Description                              |
+|----------------------------------------:|:-------------------------------------------------------------|
+|     [__TES III: Morrowind Edition__][6] | An archive of the original versions of the complete text.    |
+|            [__TES: Online Edition__][7] | An archive of the current versions of the complete text.     |
+|             [__Traditional Format__][8] | A format that follows the original game and early web versions of the text, while introducing <span style="color:red">rubrication</span>. |
+|                                 &#8203; | &#8203;                                                      |
+|     [__Miscellaneous Fan Editions__][9] | Various fan translations and compilations of the text.       |
+|             [__TWS Verse Edition__][10] | A reconstruction of the Theoretical Whirling School Edition. |
+|    [__Quintessence Verse Edition__][11] | From the online version of the [Quintessence][12], a versified, <span style="color:red">rubricated</span>, and <span title="stylized" style="font-family:HayghinDaedric">stylized</span> Dunmer bible. |
 
-[6]: documents/index-study.html
-[7]: documents/index-traditional.html
-[8]: documents/index-ashlands.html
+[6]: documents/index-tes3.md
+[7]: documents/index-teso.md
+[8]: documents/index-traditional.md
+[9]: documents/index-misc.md
+[10]: documents/fanmade/index-misc_nigedo.md
+[11]: https://mmillar-bolis.github.io/MDunmeris/documents/quintessence/info/codex/index-lessons.html
+[12]: https://mmillar-bolis.github.io/MDunmeris/documents/quintessence/index.html
 
 &#8203;
 
 ---
 
-#### Archive:
+#### Articles:
 
-|                               *link* | *description*                                               |
-|-------------------------------------:|:------------------------------------------------------------|
-| [__Dump of Original Game Files__][9] | A dump of the original HTML from Morrowind.esm              |
-|        [__List of Text Changes__][10] | A complete list of minor edits present in this edition      |
-|         [__Project Repository__][11] | The GitHub repository that hosts this page                  |
-|       [__TWS Numbered Version__][12] | A reconstruction of the Theoretical Whirling School Edition |
-|               [__Commentaries__][13] | A collection of links to various commentaries               |
+| <span style="font-family:HayghinDaedric;color:red">V</span> | Description                                        |
+|-----------------------------------------:|:----------------------------------------------------------------------|
+| [__List of Available Commentaries__][13] | A collection of links to various essays and commentaries.             |
+|                                  &#8203; | &#8203;                                                               |
+|                 [__About This Text__][5] | A long-winded write-up that I lied and said was brief.                |
+|       [__Game Version Differences__][15] | Documentation on the textual changes between game editions.           |
+|   [__Traditional Text Corrections__][16] | A complete list of the minor edits I made to the Traditional Edition. |
+|                                  &#8203; | &#8203;                                                               |
+|             [__Project Repository__][17] | The GitHub repository that hosts this page.                           |
 
-[9]: documents/index-esm.html
-[10]: changes.html
-[11]: https://github.com/mmillar-bolis/The-36-Lessons-of-Vivec
-[12]: documents/index-nigedo.html
-[13]: documents/index-commentaries.html
+[13]: documents/articles/index-commentaries.md
+[15]: documents/articles/game_version_differences.md
+[16]: documents/articles/traditional_version_changes.md
+[17]: https://github.com/mmillar-bolis/The-36-Lessons-of-Vivec
 
 &#8203;
 
-| <span style="font-family:Daedric">A<span style="color:red">V</span>S</span> |
-|:---------------------------------------------------------------------------:|
-|                                                ![Anticipation of Vivec][14] |
-|                       *The Anticipation of Vivec*, fresco by [TheMyzel][15] |
+| <span style="font-family:HayghinDaedric;font-size:150%;color:red">A<span style="font-size:200%">V</span>S</span> |
+|:-----------------------------------------------------:|
+|                      ![The Anticipation of Vivec][18] |
+| *The Anticipation of Vivec*, fresco by [TheMyzel][19] |
 
-[14]: assets/images/frescos/fresco_anticipation_of_vivec.svg
-[15]: https://www.deviantart.com/themyzel/art/The-Anticipation-of-Vivec-142084895
+[18]: assets/images/frescos/fresco_anticipation_of_vivec.svg "The Anticipation of Vivec"
+[19]: https://www.deviantart.com/themyzel/art/The-Anticipation-of-Vivec-142084895
 
 ---
