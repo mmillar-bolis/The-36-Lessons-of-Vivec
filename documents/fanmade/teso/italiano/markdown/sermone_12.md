@@ -29,8 +29,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 140\
-> __Date:__ 2023-01-19\
+> __Version:__ 154\
+> __Date:__ 2023-11-21\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 [1]: http://italianscrollsonline.it/
@@ -42,7 +42,7 @@
 
 Mentre l'Hortator meditava la prima lezione sul governare i re, Vivec vagò nella Stiva del Lutto e scoprì che Ayem era con una coppia di amanti. Seht si era diviso di nuovo. Vivec balzò quindi nelle loro sembianze per osservare, ma non ottenne alcun segreto che non conoscesse già. Lasciò alcuni dei suoi per rendere il viaggio proficuo.
 
-Poi Vivec lasciò la capitale di Veloth e vagò lontano nella cenere. Trovò una distesa di calanchi per praticare la sua forma gigante. Fece dei suoi piedi un materiale meno denso del divino per evitare di cadere fino alla vita nella terra. A questo punto il Primo Angolo della Casa dei Problemi, il principe Molag Bal, fece sentire la sua presenza.
+Poi Vivec lasciò la capitale di Veloth e vagò lontano nella cenere. Trovò una distesa di calanchi per praticare la sua forma gigante. Fece dei suoi piedi un materiale meno denso del divino per evitare di cadere fino alla vita nella terra. A questo punto il Primo Angolo della Casa dei Disordini, il principe Molag Bal, fece sentire la sua presenza.
 
 Vivec guardò il re dello stupro e disse:
 

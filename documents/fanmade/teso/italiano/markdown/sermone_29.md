@@ -29,8 +29,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 140\
-> __Date:__ 2023-01-19\
+> __Version:__ 154\
+> __Date:__ 2023-11-21\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 [1]: http://italianscrollsonline.it/
@@ -45,7 +45,7 @@ La Scrittura dei numeri:
 1\. Il Dragon Break, o la Torre. 1\
 2\. L'Enantiomorfo. 68\
 3\. La porta invisibile, ALMSIVI. 112\
-4\. Gli angoli di House of Troubles. 242\
+4\. Gli angoli di Casa dei Disordini. 242\
 5\. Gli angoli del mondo. 100\
 6\. Le vie del camminare. 266\
 7\. La spada al centro. 39\
@@ -67,7 +67,7 @@ La Scrittura dei numeri:
 23\. Il Profeta Cavo. 54\
 24\. La ferita della stella. 44\
 25\. L'imperatore. 239\
-26\. L'aereo canaglia. 81\
+26\. Il Piano Ribelle. 81\
 27\. Il fuoco segreto. 120\
 28\. La lampada annegata. 8\
 29\. Il saggio prigioniero. 217\

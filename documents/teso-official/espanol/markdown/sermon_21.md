@@ -25,9 +25,8 @@
 
 ## TES: Online Edition
 
-> Game Version: 9.0.5
->
-> An archive of the original contents of the current versions of the complete text.
+> __Game Version:__ 9.2.7\
+> __Note:__ An archive of the original contents of the current versions of the complete text.
 
 ---
 

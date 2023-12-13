@@ -40,8 +40,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][40]\
 > __Alt Page:__ [esoui.com][41]\
-> __Version:__ 140\
-> __Date:__ 2023-01-19\
+> __Version:__ 154\
+> __Date:__ 2023-11-21\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 &emsp;[File di Gioco][39]
@@ -407,47 +407,47 @@ Il finale delle parole è ALMSIVI.
 
 #### <span style="color:red">Sermone Sette</span>
 
-Mentre la carovana di Nerevar si dirigeva verso la capitale di Veloth, presto Almalexia, giunsero grandi rumori dall'Oblivion. Un duca tra i furfanti si aggirava nella Casa dei Problemi, fermandosi davanti ad ogni porta delle scritture per porgere i suoi ossequi, finché alla fine fu accolto dal domo maggiore di Mehrunes Dagon.
+Mentre la carovana di Nerevar si dirigeva ora verso la capitale di Veloth, anon Almalexia, dall'oblio giunsero grandi rumori. Un duca tra i Furfanti vagò nella Casa dei Disordini, fermandosi davanti a ogni porta delle scritture per rendere omaggio, finché alla fine fu accolto dal maggiore domo di Mehrunes Dagon.
 
-Il Duca dei Furfanti disse: «Sono stato convocato da Lord Dagon, padrone delle acque turpi e del fuoco, e ho portato i vessilli delle mie sette legioni».
+Il Duca dei Furfanti disse: «Sono stato convocato da Lord Dagon, maestro delle acque fetide e del fuoco, e ho portato i vessilli delle mie sette legioni».
 
-Il domo maggiore, la cui testa era una bolla di acqua sporca e di fuoco, si inchinò in basso, così che la testa del Duca dei Furfanti fu racchiusa nella sua.
+Il maggiore domo, la cui testa era una bolla di acqua fetida e fuoco, si inchinò profondamente, così che la testa del Duca dei Furfanti furono rinchiusi nel suo.
 
-Vide il primo vessillo, che comandava una legione di guerrieri lugubri che potevano morire almeno due volte.
+Vide il primo stendardo, che comandava una legione di tristi guerrieri che potevano morire almeno due volte.
 
-Vide il secondo vessillo, che comandava una legione di tori alati e l'imperatore di colore che cavalcava su ciascuno.
+Vide il secondo stendardo, che comandava una legione di tori alati e l'imperatore di colore che cavalcava su ciascuno.
 
-Vide il terzo vessillo, che comandava una legione di gorgoni rovesciati, grandi serpenti le cui squame erano volti di uomini.
+Vide il terzo stendardo, che comandava una legione di gorgoni rovesciati, grandi serpenti le cui scaglie erano i volti degli uomini.
 
-Ha visto il quarto gagliardetto, che comandava una legione di amanti doppiogiochisti.
+Vide il quarto stendardo, che comandava una legione di gorgoni a doppio incrocio amanti.
 
-Ha visto il quinto gagliardetto, che comandava una legione di feriti saltellanti che cercavano di saltare su una vittima.
+Ha visto il quinto stendardo, che comandava una legione di ferite saltellanti che cercavano di saltare su una vittima.
 
-Vide il sesto vessillo, che comandava una legione di pianeti abbreviati.
+Ha visto il sesto stendardo, che comandava una legione di pianeti abbreviati.
 
-Vide il settimo vessillo, che comandava una legione di mosse vincenti corazzate.
+Ha visto il settimo stendardo , che comandava una legione di mosse vincenti corazzate.
 
-Al che il domo maggiore disse: «Duca Kh-Utta, le tue legioni anche se potenti non sono sufficienti a distruggere Nerevar o la via trinitaria. Guarda l'Hortator e vedi la saggezza che prende in moglie».
+Al che il maggiore domo disse: «Duca Kh-Utta, le tue legioni, sebbene potenti, non sono sufficienti per distruggere Nerevar o la via Trina. Guarda l'Hortator e vedi la saggezza che prende in moglie».
 
-E guardarono nel mondo di mezzo e videro:
+Ed essi guardarono nel mondo di mezzo e videro:
 
-Evaporando in una folla di tuoni\
+Evaporare in una folla di tuoni\
 Di guerra rossa e uomini di chitina,\
-Dove i destini\
-Portalo lontano dalle nostre strade\
+Dove destini\
+Portalo più lontano dalle nostre strade\
 Il calore che abbiamo voluto\
-E pregare che si ricordino ancora,\
-Dove i destini\
-Rivestono la distanza,\
+E prega che si ricordino ancora,\
+Dove il destino\
+Vesti la distanza,\
 Felice nell'oriente dorato che l'abbiamo visto ora,\
 Invece della guerra e della riparazione\
 Della frattura ignara\
-Una maledizione su Hortator\
+Una maledizione sull'Hortator\
 E altre due sulle sue mani
 
-E il Duca dei Furfantii vide le palme dell'Hortator, sulle quali l'uovo aveva scritto queste parole di potere: GHARTOK PADHOME GHARTOK PADHOME.
+E il Duca di Scamps vide i palmi dell'Hortator, sui quali l'uovo aveva scritto queste parole di potere: GHARTOK PADHOME GHARTOK PADHOME.
 
-Il finale delle parole è ALMSIVI.
+La fine di la parola è ALMSIVI.
 
 ---
 
@@ -458,7 +458,7 @@ Il finale delle parole è ALMSIVI.
 
 #### <span style="color:red">Sermone Otto</span>
 
-Presto Nerevar e Vivec arrivarono in vista della capitale e i Quattro Angoli della Casa dei Problemi capirono che non era il momento di sfidarli. I musicisti della carovana fecero un grande canto d'ingresso e gli undici cancelli della Stiva del Lutto furono spalancati.
+Presto Nerevar e Vivec arrivarono in vista della capitale e i Quattro Angoli della Casa dei Disordini capirono che non era il momento di sfidarli. I musicisti della carovana fecero un grande canto d'ingresso e gli undici cancelli della Stiva del Lutto furono spalancati.
 
 Ayem era accompagnata dal suo stato-marito, un'immagine tremolante che si incanalava al suo bisogno femminile sempre mutevole. Intorno a lei c'erano le Grida, una gilda ormai dimenticata, che portava con sé i capricci del popolo, perché i Velothi allora erano ancora per lo più buoni di cuore. Gli Urli erano i consiglieri di Ayem e del paese, anche se a volte litigavano e avevano bisogno di Seht per renderli utili. Ayem si avvicinò a Nerevar, che ormai era adornata con le bandiere della Casa Indoril. Le regalò il simulacro della moglie del netchiman e l'uovo di Vivec al suo interno.
 
@@ -607,7 +607,7 @@ La fine delle parole è ALMSIVI.
 
 Mentre l'Hortator meditava la prima lezione sul governare i re, Vivec vagò nella Stiva del Lutto e scoprì che Ayem era con una coppia di amanti. Seht si era diviso di nuovo. Vivec balzò quindi nelle loro sembianze per osservare, ma non ottenne alcun segreto che non conoscesse già. Lasciò alcuni dei suoi per rendere il viaggio proficuo.
 
-Poi Vivec lasciò la capitale di Veloth e vagò lontano nella cenere. Trovò una distesa di calanchi per praticare la sua forma gigante. Fece dei suoi piedi un materiale meno denso del divino per evitare di cadere fino alla vita nella terra. A questo punto il Primo Angolo della Casa dei Problemi, il principe Molag Bal, fece sentire la sua presenza.
+Poi Vivec lasciò la capitale di Veloth e vagò lontano nella cenere. Trovò una distesa di calanchi per praticare la sua forma gigante. Fece dei suoi piedi un materiale meno denso del divino per evitare di cadere fino alla vita nella terra. A questo punto il Primo Angolo della Casa dei Disordini, il principe Molag Bal, fece sentire la sua presenza.
 
 Vivec guardò il re dello stupro e disse:
 
@@ -1278,7 +1278,7 @@ La Scrittura dei numeri:
 1\. Il Dragon Break, o la Torre. 1\
 2\. L'Enantiomorfo. 68\
 3\. La porta invisibile, ALMSIVI. 112\
-4\. Gli angoli di House of Troubles. 242\
+4\. Gli angoli di Casa dei Disordini. 242\
 5\. Gli angoli del mondo. 100\
 6\. Le vie del camminare. 266\
 7\. La spada al centro. 39\
@@ -1300,7 +1300,7 @@ La Scrittura dei numeri:
 23\. Il Profeta Cavo. 54\
 24\. La ferita della stella. 44\
 25\. L'imperatore. 239\
-26\. L'aereo canaglia. 81\
+26\. Il Piano Ribelle. 81\
 27\. Il fuoco segreto. 120\
 28\. La lampada annegata. 8\
 29\. Il saggio prigioniero. 217\

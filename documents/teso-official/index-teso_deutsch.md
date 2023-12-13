@@ -36,9 +36,8 @@
 
 ## TES: Online Edition
 
-> Game Version: 9.0.5
->
-> An archive of the original contents of the current versions of the complete text.
+> __Game Version:__ 9.2.7\
+> __Note:__ An archive of the original contents of the current versions of the complete text.
 
 &emsp;[Game File][39]
 
@@ -1491,7 +1490,7 @@ Im Haus von Boet-hi-Ah\
 Wo wir sicher sind\
 Und behütet.“
 
-Das Monster nahm Muatra mit friedvoller Miene an, und seine Knochen wurden das Fundament der Stadt der Toten, genannt Narsis.
+Das Monster nahm Muatra mit friedvoller Miene an, und seine Knochen wurden das Fundament der Stadt der Toten, alsbald Nekrom.
 
 Nerevar steckte seine Axt weg, die er bereitgehalten hatte, und runzelte die Stirn.
 

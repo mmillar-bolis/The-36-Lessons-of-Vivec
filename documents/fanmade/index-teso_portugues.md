@@ -36,19 +36,19 @@
 
 ## Fan Translation
 
-> Title: EsoBR - Tradução Português - v2022\
-> Translators: rodrigo, frooke\
-> Homepage: [universoeso.com.br][40]\
-> Alt Page: [esoui.com][41]\
-> Version: 1.8.7\
-> Date: 2022-11-18\
-> Note: Neste momento estamos com 100% do jogo traduzido, porém em fase de revisão, isso significa que ainda podem existir erros de códigos, palavras e diálogos, que serão consertados com a continuação do trabalho.
+> __Title:__ EsoBR - Tradução Português - v2023\
+> __Translators:__ rodrigo, frooke\
+> __Homepage:__ [universoeso.com.br][40]\
+> __Alt Page:__ [esoui.com][41]\
+> __Version:__ 1.1.2\
+> __Date:__ 2023-11-29\
+> __Note:__ Neste momento estamos com 100% do jogo traduzido, porém em fase de revisão, isso significa que ainda podem existir erros de códigos, palavras e diálogos, que serão consertados com a continuação do trabalho.
 
 &emsp;[Arquivo do Jogo][39]
 
 [39]: english/csv/36_en.lang.csv
 [40]: https://www.universoeso.com.br/traducao
-[41]: https://www.esoui.com/downloads/info2256-EsoBR-TraduoPortugus-v2022.html
+[41]: https://www.esoui.com/downloads/info2256-EsoBR-TraduoPortugus-v2023.html
 
 ---
 
@@ -162,7 +162,6 @@ O final das palavras é ALMSIVI.
 
 A esposa do netchiman que carregava o ovo de Vivec dentro dela foi procurar as terras dos Indoril. Ao longo da jornada, muitos espíritos vieram vê-la e oferecer instruções a seu filho-filha, o futuro glorioso e invisível guerreiro-poeta de Vvardenfell, Vivec.
 
-
 O primeiro espírito lançou seus braços sobre ela e abraçou seu conhecimento com força. A esposa do netchiman mergulhou no Esforço Incalculável. O ovo ficou encantado e deu cambalhotas dentro dela, curvando-se aos cinco cantos do mundo e dizendo:
 
 "Portanto, quem quer que pratique este ato sagrado será orgulhoso e poderoso entre os demais!"
@@ -170,7 +169,6 @@ O primeiro espírito lançou seus braços sobre ela e abraçou seu conhecimento 
 O segundo espírito era muito indiferente e agia tanto acima de sua posição que foi expulso por um feitiço de dor de cabeça. O terceiro espírito, At-Hatoor, desceu até a esposa do netchiman enquanto ela relaxava por um tempo sob um guarda-sol do imperador. Suas vestes eram feitas de implicações de significado, e o ovo olhou para elas três vezes.
 
 A primeira vez que Vivec disse:
-
 
 "Ha, isso não significa nada!"
 
@@ -185,7 +183,6 @@ Depois de olhar pela segunda vez, ele disse:
 "Há um provérbio", disse At-Hatoor, e então saiu.
 
 O quarto espírito veio com o quinto, pois eram primos. Eles podiam tocar e sondar dentro do ovo para encontrar seu núcleo. Alguns dizem que Vivec neste ponto tinha a forma de uma estrela com sua penumbra quebrada; outros, que parecia um renascimento de formas desaparecidas.
-
 
 "Do meu lado da família", disse o primo de primeiro grau, "trago para vocês uma série de calamidades que ocasionarão o fim do universo."
 
@@ -369,7 +366,7 @@ Pois pela espada quero dizer o sensato.
 
 Pois pela palavra eu quero dizer os mortos.
 
-Eu sou Vehk, seu protetor e o protetor da Red Mountain até o final dos dias, que são numerados 3333.
+Eu sou Vehk, seu protetor e o protetor da Montanha Vermelha até o final dos dias, que são numerados 3333.
 
 Abaixo de mim está o selvagem, que precisávamos nos remover do Altmer.
 

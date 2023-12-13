@@ -25,9 +25,8 @@
 
 ## TES: Online Edition
 
-> Game Version: 9.0.5
->
-> An archive of the original contents of the current versions of the complete text.
+> __Game Version:__ 9.2.7\
+> __Note:__ An archive of the original contents of the current versions of the complete text.
 
 ---
 
@@ -45,7 +44,7 @@
 
 北域龙王伊斯米尔总以大胡子国王的形象示人，有着无尽、能反弹力量之能。他为人阴鸷，在入侵的诸位酋长中最为沉默，不过他一旦张口，村庄就会被连根拔起，丢进大海。劝诫者与他徒手搏斗，用手抓住了龙吼，直到伊斯米尔强劲的喉咙流出血来。这些吼声被交给维威克，捆绑成一个乌木制作的聆听支架，武勇诗人把它放在伊斯米尔脸上和耳朵上，把他逼疯，然后赶走了。
 
-“万事皆因纷争起。我接下来要说一些让人不乐意记录的话语：荷马-莫拉-阿尔塔敦！诶-阿尔塔敦！”
+“万事皆因纷争起。我接下来要说一些让人不乐意记录的话语：赫玛·莫拉-阿尔塔敦！诶-阿尔塔敦！”
 
 最终的话语权归于审判庭。
 

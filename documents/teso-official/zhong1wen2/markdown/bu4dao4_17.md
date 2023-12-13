@@ -25,9 +25,8 @@
 
 ## TES: Online Edition
 
-> Game Version: 9.0.5
->
-> An archive of the original contents of the current versions of the complete text.
+> __Game Version:__ 9.2.7\
+> __Note:__ An archive of the original contents of the current versions of the complete text.
 
 ---
 
@@ -41,7 +40,7 @@
 
 劝诫者还在试图用斧头制服诸神。他被马格努斯之力逐出了太阳图书馆，维威克在迪沙安沼泽外的一块地里找到了他。他们默默地走了一会，因为尼瑞瓦十分羞愧，而维威克还很仁慈。
 
-很快，他们就穿越了东海，来到了蛇与雪妖之国。维威克想向劝诫者展示外国语言的战斗方式。他们从蛇人国王的枕边书里学到了成语攻击招式。它的形状如同此书页的洞察力。蛇人至少三次发誓，要报复西方。
+很快，他们就穿越了东海，来到了蛇与雪妖之国。维威克想向劝诫者展示外国语言的战斗方式。他们从瑟羲国王的枕边书里学到了成语攻击招式。它的形状如同此书页的洞察力。瑟羲至少三次发誓，要报复西方。
 
 他们又往前走了一些，看到了地图边缘有刺的水域。在这里，受制的灵体给了他们一个辐条，并嘱咐他们找到车轮的其余部分。
 

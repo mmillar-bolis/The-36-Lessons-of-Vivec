@@ -29,8 +29,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 140\
-> __Date:__ 2023-01-19\
+> __Version:__ 154\
+> __Date:__ 2023-11-21\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 [1]: http://italianscrollsonline.it/
@@ -40,7 +40,7 @@
 
 #### <span style="color:red">Sermone Otto</span>
 
-Presto Nerevar e Vivec arrivarono in vista della capitale e i Quattro Angoli della Casa dei Problemi capirono che non era il momento di sfidarli. I musicisti della carovana fecero un grande canto d'ingresso e gli undici cancelli della Stiva del Lutto furono spalancati.
+Presto Nerevar e Vivec arrivarono in vista della capitale e i Quattro Angoli della Casa dei Disordini capirono che non era il momento di sfidarli. I musicisti della carovana fecero un grande canto d'ingresso e gli undici cancelli della Stiva del Lutto furono spalancati.
 
 Ayem era accompagnata dal suo stato-marito, un'immagine tremolante che si incanalava al suo bisogno femminile sempre mutevole. Intorno a lei c'erano le Grida, una gilda ormai dimenticata, che portava con sé i capricci del popolo, perché i Velothi allora erano ancora per lo più buoni di cuore. Gli Urli erano i consiglieri di Ayem e del paese, anche se a volte litigavano e avevano bisogno di Seht per renderli utili. Ayem si avvicinò a Nerevar, che ormai era adornata con le bandiere della Casa Indoril. Le regalò il simulacro della moglie del netchiman e l'uovo di Vivec al suo interno.
 

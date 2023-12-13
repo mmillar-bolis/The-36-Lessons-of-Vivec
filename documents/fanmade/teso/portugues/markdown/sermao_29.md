@@ -25,16 +25,16 @@
 
 ## Fan Translation
 
-> Title: EsoBR - Tradução Português - v2022\
-> Translators: rodrigo, frooke\
-> Homepage: [universoeso.com.br][1]\
-> Alt Page: [esoui.com][2]\
-> Version: 1.8.7\
-> Date: 2022-11-18\
-> Note: Neste momento estamos com 100% do jogo traduzido, porém em fase de revisão, isso significa que ainda podem existir erros de códigos, palavras e diálogos, que serão consertados com a continuação do trabalho.
+> __Title:__ EsoBR - Tradução Português - v2023\
+> __Translators:__ rodrigo, frooke\
+> __Homepage:__ [universoeso.com.br][1]\
+> __Alt Page:__ [esoui.com][2]\
+> __Version:__ 1.1.2\
+> __Date:__ 2023-11-29\
+> __Note:__ Neste momento estamos com 100% do jogo traduzido, porém em fase de revisão, isso significa que ainda podem existir erros de códigos, palavras e diálogos, que serão consertados com a continuação do trabalho.
 
 [1]: https://www.universoeso.com.br/traducao
-[2]: https://www.esoui.com/downloads/info2256-EsoBR-TraduoPortugus-v2022.html
+[2]: https://www.esoui.com/downloads/info2256-EsoBR-TraduoPortugus-v2023.html
 
 ---
 
