@@ -39,9 +39,9 @@ Last, but certainly not least there is the [New Whirling School][12] commentary 
 [6]: https://jeromeiv-blog.tumblr.com/search/36+lessons
 [7]: https://tamrielvault.com/groups/topic/view/group_id/1/topic_id/3628
 [8]: https://www.tamriel-rebuilt.org/forum/tribunal-exegesiscommentary
-[9]: https://www.eso-rp.com/forum/m/9324623/viewthread/31783221-guide-to-36-lessons-by-buoyant-armiger-aaronen-nerathyl-wip-seminsfw
+[9]: https://web.archive.org/web/20230425024750/https://www.eso-rp.com/forum/m/9324623/viewthread/31783221-guide-to-36-lessons-by-buoyant-armiger-aaronen-nerathyl-wip-seminsfw
 [10]: https://trinimac.tumblr.com/post/182990267524/if-i-am-to-annotate-the-lessons-id-be-skipping
-[11]: https://old.reddit.com/r/Everything_ALMSIVI/comments/eo3dmf/heirographic_cannon_sermon_one_analysis_fact/
+[11]: https://www.reddit.com/r/Everything_ALMSIVI/comments/eo3dmf/heirographic_cannon_sermon_one_analysis_fact/
 [12]: https://www.newwhirlingschool.com/
 [13]: http://www.rottendeadite.com/
 
@@ -88,7 +88,7 @@ Last, but certainly not least there is the [New Whirling School][12] commentary 
 
 - [A Guide to the 36 Lessons by Aaronen Nerathyl][27] (2018)
 
-[27]: https://www.eso-rp.com/forum/m/9324623/viewthread/31783221-guide-to-36-lessons-by-buoyant-armiger-aaronen-nerathyl-wip-seminsfw
+[27]: https://web.archive.org/web/20230425024750/https://www.eso-rp.com/forum/m/9324623/viewthread/31783221-guide-to-36-lessons-by-buoyant-armiger-aaronen-nerathyl-wip-seminsfw
 
 - [Kendra's Commentary][28] (2019~2020)
   - [Introduction][29]
@@ -140,7 +140,7 @@ Last, but certainly not least there is the [New Whirling School][12] commentary 
 
 - [Vukov's Heirographic Analysis of the Sermons][52] (2020)
 
-[52]: https://old.reddit.com/r/Everything_ALMSIVI/comments/eo3dmf/heirographic_cannon_sermon_one_analysis_fact/
+[52]: https://www.reddit.com/r/Everything_ALMSIVI/comments/eo3dmf/heirographic_cannon_sermon_one_analysis_fact/
 
 - [New Whirling School Commentary][53] (2014~Present)
 
@@ -166,8 +166,8 @@ Last, but certainly not least there is the [New Whirling School][12] commentary 
   - [The Cosmic Trinity][67] by Anonymous_Mononymous
 
 [54]: https://www.imperial-library.info/content/thirty-six-lessons-obscurity-and-deception
-[55]: https://www.eurogamer.net/articles/2019-05-23-the-brilliant-weirdness-of-morrowinds-in-game-literature
-[56]: http://www.journeymansretort.com/2015/02/01/book-review-the-thirty-six-lessons-of-vivec/
+[55]: https://www.eurogamer.net/the-brilliant-weirdness-of-morrowinds-in-game-literature
+[56]: https://www.journeymansretort.com/2015/02/01/book-review-the-thirty-six-lessons-of-vivec/
 [57]: https://www.reddit.com/r/teslore/comments/ksg3sc/chim_is_simpler_then_you_might_think_the/
 [58]: https://www.reddit.com/r/teslore/comments/4tjmka/a_vekh_egg_scramble_part_i_an_egg_bearing_preamble/
 [59]: https://www.reddit.com/r/teslore/comments/4tvlzj/a_vehk_egg_scramble_part_ii_the_pomegranate/
