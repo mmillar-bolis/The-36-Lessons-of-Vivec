@@ -36,9 +36,8 @@
 
 ## TES III: Morrowind Edition
 
-> Game Version: 1.6.1820
->
-> An archive of the original contents of the earliest versions of the complete text.
+> __Game Version:__ 1.6.1820\
+> __Note:__ An archive of the original contents of the earliest versions of the complete text.
 
 ---
 
