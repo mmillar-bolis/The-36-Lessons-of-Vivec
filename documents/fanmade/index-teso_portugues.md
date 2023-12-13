@@ -46,7 +46,7 @@
 
 &emsp;[Arquivo do Jogo][39]
 
-[39]: english/csv/36_en.lang.csv
+[39]: teso/portugues/csv/36_br.lang.csv
 [40]: https://www.universoeso.com.br/traducao
 [41]: https://www.esoui.com/downloads/info2256-EsoBR-TraduoPortugus-v2023.html
 
@@ -113,7 +113,7 @@
 ## Chapter One
 &emsp;[Abrir][42] | [Capítulos][38] | [Topo][37]
 
-[42]: english/markdown/sermao_01.md
+[42]: teso/portugues/markdown/sermao_01.md
 
 #### <span style="color:red">Sermão Um</span>
 
@@ -156,7 +156,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Two
 &emsp;[Abrir][43] | [Capítulos][38] | [Topo][37]
 
-[43]: english/markdown/sermao_02.md
+[43]: teso/portugues/markdown/sermao_02.md
 
 #### <span style="color:red">Sermão Dois</span>
 
@@ -205,7 +205,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Three
 &emsp;[Abrir][44] | [Capítulos][38] | [Topo][37]
 
-[44]: english/markdown/sermao_03.md
+[44]: teso/portugues/markdown/sermao_03.md
 
 #### <span style="color:red">Sermão Três</span>
 
@@ -255,7 +255,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Four
 &emsp;[Abrir][45] | [Capítulos][38] | [Topo][37]
 
-[45]: english/markdown/sermao_04.md
+[45]: teso/portugues/markdown/sermao_04.md
 
 #### <span style="color:red">Sermão Quatro</span>
 
@@ -294,7 +294,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Five
 &emsp;[Abrir][46] | [Capítulos][38] | [Topo][37]
 
-[46]: english/markdown/sermao_05.md
+[46]: teso/portugues/markdown/sermao_05.md
 
 #### <span style="color:red">Sermão Cinco</span>
 
@@ -336,7 +336,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Six
 &emsp;[Abrir][47] | [Capítulos][38] | [Topo][37]
 
-[47]: english/markdown/sermao_06.md
+[47]: teso/portugues/markdown/sermao_06.md
 
 #### <span style="color:red">Sermão Seis</span>
 
@@ -403,7 +403,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Seven
 &emsp;[Abrir][48] | [Capítulos][38] | [Topo][37]
 
-[48]: english/markdown/sermao_07.md
+[48]: teso/portugues/markdown/sermao_07.md
 
 #### <span style="color:red">Sermão Sete</span>
 
@@ -454,7 +454,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Eight
 &emsp;[Abrir][49] | [Capítulos][38] | [Topo][37]
 
-[49]: english/markdown/sermao_08.md
+[49]: teso/portugues/markdown/sermao_08.md
 
 #### <span style="color:red">Sermão Oito</span>
 
@@ -498,7 +498,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Nine
 &emsp;[Abrir][50] | [Capítulos][38] | [Topo][37]
 
-[50]: english/markdown/sermao_09.md
+[50]: teso/portugues/markdown/sermao_09.md
 
 #### <span style="color:red">Sermão Nove</span>
 
@@ -523,7 +523,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Ten
 &emsp;[Abrir][51] | [Capítulos][38] | [Topo][37]
 
-[51]: english/markdown/sermao_10.md
+[51]: teso/portugues/markdown/sermao_10.md
 
 #### <span style="color:red">Sermão Dez</span>
 
@@ -566,7 +566,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Eleven
 &emsp;[Abrir][52] | [Capítulos][38] | [Topo][37]
 
-[52]: english/markdown/sermao_11.md
+[52]: teso/portugues/markdown/sermao_11.md
 
 #### <span style="color:red">Sermão Onze</span>
 
@@ -601,7 +601,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twelve
 &emsp;[Abrir][53] | [Capítulos][38] | [Topo][37]
 
-[53]: english/markdown/sermao_12.md
+[53]: teso/portugues/markdown/sermao_12.md
 
 #### <span style="color:red">Sermão Doze</span>
 
@@ -647,7 +647,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Thirteen
 &emsp;[Abrir][54] | [Capítulos][38] | [Topo][37]
 
-[54]: english/markdown/sermao_13.md
+[54]: teso/portugues/markdown/sermao_13.md
 
 #### <span style="color:red">Sermão Treze</span>
 
@@ -678,7 +678,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Fourteen
 &emsp;[Abrir][55] | [Capítulos][38] | [Topo][37]
 
-[55]: english/markdown/sermao_14.md
+[55]: teso/portugues/markdown/sermao_14.md
 
 #### <span style="color:red">Sermão Quatorze</span>
 
@@ -709,7 +709,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Fifteen
 &emsp;[Abrir][56] | [Capítulos][38] | [Topo][37]
 
-[56]: english/markdown/sermao_15.md
+[56]: teso/portugues/markdown/sermao_15.md
 
 #### <span style="color:red">Sermão Quinze</span>
 
@@ -753,7 +753,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Sixteen
 &emsp;[Abrir][57] | [Capítulos][38] | [Topo][37]
 
-[57]: english/markdown/sermao_16.md
+[57]: teso/portugues/markdown/sermao_16.md
 
 #### <span style="color:red">Sermão Dezesseis</span>
 
@@ -794,7 +794,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Seventeen
 &emsp;[Abrir][58] | [Capítulos][38] | [Topo][37]
 
-[58]: english/markdown/sermao_17.md
+[58]: teso/portugues/markdown/sermao_17.md
 
 #### <span style="color:red">Sermão Dezessete</span>
 
@@ -837,7 +837,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Eighteen
 &emsp;[Abrir][59] | [Capítulos][38] | [Topo][37]
 
-[59]: english/markdown/sermao_18.md
+[59]: teso/portugues/markdown/sermao_18.md
 
 #### <span style="color:red">Sermão Dezoito</span>
 
@@ -880,7 +880,7 @@ O fim do mundo é ALMSIVI.
 ## Chapter Nineteen
 &emsp;[Abrir][60] | [Capítulos][38] | [Topo][37]
 
-[60]: english/markdown/sermao_19.md
+[60]: teso/portugues/markdown/sermao_19.md
 
 #### <span style="color:red">Sermão Dezenove</span>
 
@@ -927,7 +927,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty
 &emsp;[Abrir][61] | [Capítulos][38] | [Topo][37]
 
-[61]: english/markdown/sermao_20.md
+[61]: teso/portugues/markdown/sermao_20.md
 
 #### <span style="color:red">Sermão Vinte</span>
 
@@ -963,7 +963,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty-One
 &emsp;[Abrir][62] | [Capítulos][38] | [Topo][37]
 
-[62]: english/markdown/sermao_21.md
+[62]: teso/portugues/markdown/sermao_21.md
 
 #### <span style="color:red">Sermão Vinte e Um</span>
 
@@ -1006,7 +1006,7 @@ A terminação das palavras é ALMSIVI.
 ## Chapter Twenty-Two
 &emsp;[Abrir][63] | [Capítulos][38] | [Topo][37]
 
-[63]: english/markdown/sermao_22.md
+[63]: teso/portugues/markdown/sermao_22.md
 
 #### <span style="color:red">Sermão Vinte e Dois</span>
 
@@ -1047,7 +1047,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty-Three
 &emsp;[Abrir][64] | [Capítulos][38] | [Topo][37]
 
-[64]: english/markdown/sermao_23.md
+[64]: teso/portugues/markdown/sermao_23.md
 
 #### <span style="color:red">Sermão Vinte e Três</span>
 
@@ -1090,7 +1090,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty-Four
 &emsp;[Abrir][65] | [Capítulos][38] | [Topo][37]
 
-[65]: english/markdown/sermao_24.md
+[65]: teso/portugues/markdown/sermao_24.md
 
 #### <span style="color:red">Sermão Vinte e Quatro</span>
 
@@ -1131,7 +1131,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty-Five
 &emsp;[Abrir][66] | [Capítulos][38] | [Topo][37]
 
-[66]: english/markdown/sermao_25.md
+[66]: teso/portugues/markdown/sermao_25.md
 
 #### <span style="color:red">Sermão Vinte e Cinco</span>
 
@@ -1158,7 +1158,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty-Six
 &emsp;[Abrir][67] | [Capítulos][38] | [Topo][37]
 
-[67]: english/markdown/sermao_26.md
+[67]: teso/portugues/markdown/sermao_26.md
 
 #### <span style="color:red">Sermão Vinte e Seis</span>
 
@@ -1197,7 +1197,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty-Seven
 &emsp;[Abrir][68] | [Capítulos][38] | [Topo][37]
 
-[68]: english/markdown/sermao_27.md
+[68]: teso/portugues/markdown/sermao_27.md
 
 #### <span style="color:red">Sermão Vinte e Sete</span>
 
@@ -1240,7 +1240,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty-Eight
 &emsp;[Abrir][69] | [Capítulos][38] | [Topo][37]
 
-[69]: english/markdown/sermao_28.md
+[69]: teso/portugues/markdown/sermao_28.md
 
 #### <span style="color:red">Sermão Vinte e Oito</span>
 
@@ -1269,7 +1269,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Twenty-Nine
 &emsp;[Abrir][70] | [Capítulos][38] | [Topo][37]
 
-[70]: english/markdown/sermao_29.md
+[70]: teso/portugues/markdown/sermao_29.md
 
 #### <span style="color:red">Sermão Vinte e Nove</span>
 
@@ -1321,7 +1321,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Thirty
 &emsp;[Abrir][71] | [Capítulos][38] | [Topo][37]
 
-[71]: english/markdown/sermao_30.md
+[71]: teso/portugues/markdown/sermao_30.md
 
 #### <span style="color:red">Sermão Trinta</span>
 
@@ -1362,7 +1362,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Thirty-One
 &emsp;[Abrir][72] | [Capítulos][38] | [Topo][37]
 
-[72]: english/markdown/sermao_31.md
+[72]: teso/portugues/markdown/sermao_31.md
 
 #### <span style="color:red">Sermão Trinta e Um</span>
 
@@ -1387,7 +1387,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Thirty-Two
 &emsp;[Abrir][73] | [Capítulos][38] | [Topo][37]
 
-[73]: english/markdown/sermao_32.md
+[73]: teso/portugues/markdown/sermao_32.md
 
 #### <span style="color:red">Sermão Trinta e Dois</span>
 
@@ -1430,7 +1430,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Thirty-Three
 &emsp;[Abrir][74] | [Capítulos][38] | [Topo][37]
 
-[74]: english/markdown/sermao_33.md
+[74]: teso/portugues/markdown/sermao_33.md
 
 #### <span style="color:red">Sermão Trinta e Três</span>
 
@@ -1472,7 +1472,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Thirty-Four
 &emsp;[Abrir][75] | [Capítulos][38] | [Topo][37]
 
-[75]: english/markdown/sermao_34.md
+[75]: teso/portugues/markdown/sermao_34.md
 
 #### <span style="color:red">Sermão Trinta e Quatro</span>
 
@@ -1526,7 +1526,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Thirty-Five
 &emsp;[Abrir][76] | [Capítulos][38] | [Topo][37]
 
-[76]: english/markdown/sermao_35.md
+[76]: teso/portugues/markdown/sermao_35.md
 
 #### <span style="color:red">Sermão Trinta e Cinco</span>
 
@@ -1541,7 +1541,7 @@ O final das palavras é ALMSIVI.
 ## Chapter Thirty-Six
 &emsp;[Abrir][77] | [Capítulos][38] | [Topo][37]
 
-[77]: english/markdown/sermao_36.md
+[77]: teso/portugues/markdown/sermao_36.md
 
 #### <span style="color:red">Sermão Trinta e Seis</span>
 
