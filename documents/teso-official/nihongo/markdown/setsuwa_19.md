@@ -20,7 +20,7 @@
 ---
 
 <center>
-<h2><span style="font-family:Georgia">ヴィベクの三十六の教訓</span></h2>
+<h2><span style="font-family:Yu Mincho">ヴィベクの三十六の教訓</span></h2>
 </center>
 
 ## TES: Online Edition

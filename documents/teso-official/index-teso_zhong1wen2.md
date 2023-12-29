@@ -31,7 +31,7 @@
 ---
 
 <center>
-<h2><span style="font-family:Georgia">维威克的三十六堂课</span></h2>
+<h2><span style="font-family:SimSun">维威克的三十六堂课</span></h2>
 </center>
 
 ## TES: Online Edition
