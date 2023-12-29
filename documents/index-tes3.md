@@ -55,7 +55,9 @@
 | <span style="font-family:HayghinDaedric;color:red">V</span> | Fan Translation |
 |--------|---------------------------------|
 | Türkçe | [Vivec'in Otuz Altı Söylevi][6] |
+| 简体中文 | [维威克的三十六课][7] |
 
 [6]: fanmade/index-tes3_turkce.md
+[7]: fanmade/index-tes3_zhong1wen2.md
 
 ---
