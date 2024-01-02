@@ -43,7 +43,7 @@
 | [Theoretical Whirling School Edition][1] | A reconstruction of Nigedo's highly organized, versified rendering. |
 | [Quintessence Edition][2] | A versified, <span style="color:red">rubricated</span>, and <span title="stylized" style="font-family:HayghinDaedric">stylized</span> rendering intended for the printing press. |
 
-[1]: fanmade/index-misc_nigedo.md
+[1]: fanmade/misc/index-misc_nigedo.md
 [2]: https://mmillar-bolis.github.io/MDunmeris/documents/quintessence/info/codex/index-lessons.html
 
 ## Fan Translations:
@@ -54,9 +54,14 @@
 |  Español | [Sermón Uno por xoopha][4]     |
 |  &#8203; | &#8203;                        |
 |  Ænglisċ | [Sermon One in Old English][5] |
+|  &#8203; | &#8203;                        |
+|  简体中文 | [维威克的三十六课，安萨斯·瓦伦莛译著][6] |
+|  简体中文 | [维威克的三十六课，野生的毒怪虫译著][7] |
 
 [3]: fanmade/misc/espanol/markdown/sermon_01-v1.md
 [4]: fanmade/misc/espanol/markdown/sermon_01-v2.md
 [5]: fanmade/misc/aenglisc/markdown/folclar_01.md
+[6]: fanmade/misc/index-misc_anthus.md
+[7]: fanmade/misc/index-misc_wild-poisonous-monster-worm.md
 
 ---

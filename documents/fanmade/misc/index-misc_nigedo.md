@@ -6,7 +6,7 @@
 <style>
 @font-face {
     font-family: HayghinDaedric;
-    src: url('../../assets/fonts/ttf/HayghinDaedric.ttf') format('truetype');
+    src: url('../../../assets/fonts/ttf/HayghinDaedric.ttf') format('truetype');
     font-weight: medium;
     font-style: normal;
 }
@@ -15,15 +15,15 @@
 <!-- Jekyll Page Links -->
 
 <center>
-<a href="../../index.html">Home</a>
+<a href="../../../index.html">Home</a>
 &emsp;&nabla;&emsp;
-<a href="../index-tes3.html">TES:III Edition</a>
+<a href="../../index-tes3.html">TES:III Edition</a>
 &emsp;&nabla;&emsp;
-<a href="../index-teso.html">TES:Online Edition</a>
+<a href="../../index-teso.html">TES:Online Edition</a>
 &emsp;&nabla;&emsp;
-<a href="../index-traditional.html">Traditional Edition</a>
+<a href="../../index-traditional.html">Traditional Edition</a>
 &emsp;&nabla;&emsp;
-<a href="../index-misc.html">Misc</a>
+<a href="../../index-misc.html">Misc</a>
 </center>
 
 <!-- Markdown Body Below: -->
@@ -132,7 +132,7 @@ Read from this perspective, the Lessons become an unparalleled resource, providi
 ## Chapter One
 &emsp;[Open][43] | [Chapters][38] | [Top][37]
 
-[43]: misc/nigedo/markdown/sermon_01.md
+[43]: nigedo/markdown/sermon_01.md
 
 #### <span style="color:red">Sermon One</span>
 
@@ -181,7 +181,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Two
 &emsp;[Open][44] | [Chapters][38] | [Top][37]
 
-[44]: misc/nigedo/markdown/sermon_02.md
+[44]: nigedo/markdown/sermon_02.md
 
 #### <span style="color:red">Sermon Two</span>
 
@@ -240,7 +240,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Three
 &emsp;[Open][45] | [Chapters][38] | [Top][37]
 
-[45]: misc/nigedo/markdown/sermon_03.md
+[45]: nigedo/markdown/sermon_03.md
 
 #### <span style="color:red">Sermon Three</span>
 
@@ -288,7 +288,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Four
 &emsp;[Open][46] | [Chapters][38] | [Top][37]
 
-[46]: misc/nigedo/markdown/sermon_04.md
+[46]: nigedo/markdown/sermon_04.md
 
 #### <span style="color:red">Sermon Four</span>
 
@@ -333,7 +333,7 @@ __14.__ The ending of the words is ALMSIVI.
 ## Chapter Five
 &emsp;[Open][47] | [Chapters][38] | [Top][37]
 
-[47]: misc/nigedo/markdown/sermon_05.md
+[47]: nigedo/markdown/sermon_05.md
 
 #### <span style="color:red">Sermon Five</span>
 
@@ -373,7 +373,7 @@ __12.__ The ending of the words is ALMSIVI.
 ## Chapter Six
 &emsp;[Open][48] | [Chapters][38] | [Top][37]
 
-[48]: misc/nigedo/markdown/sermon_06.md
+[48]: nigedo/markdown/sermon_06.md
 
 #### <span style="color:red">Sermon Six</span>
 
@@ -440,7 +440,7 @@ __25.__ The ending of the words is ALMSIVI.
 ## Chapter Seven
 &emsp;[Open][49] | [Chapters][38] | [Top][37]
 
-[49]: misc/nigedo/markdown/sermon_07.md
+[49]: nigedo/markdown/sermon_07.md
 
 #### <span style="color:red">Sermon Seven</span>
 
@@ -495,7 +495,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Eight
 &emsp;[Open][50] | [Chapters][38] | [Top][37]
 
-[50]: misc/nigedo/markdown/sermon_08.md
+[50]: nigedo/markdown/sermon_08.md
 
 #### <span style="color:red">Sermon Eight</span>
 
@@ -537,7 +537,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Nine
 &emsp;[Open][51] | [Chapters][38] | [Top][37]
 
-[51]: misc/nigedo/markdown/sermon_09.md
+[51]: nigedo/markdown/sermon_09.md
 
 #### <span style="color:red">Sermon Nine</span>
 
@@ -576,7 +576,7 @@ __14.__ The ending of the words is ALMSIVI.
 ## Chapter Ten
 &emsp;[Open][52] | [Chapters][38] | [Top][37]
 
-[52]: misc/nigedo/markdown/sermon_10.md
+[52]: nigedo/markdown/sermon_10.md
 
 #### <span style="color:red">Sermon Ten</span>
 
@@ -631,7 +631,7 @@ __16.__ The ending of the words is ALMSIVI.
 ## Chapter Eleven
 &emsp;[Open][53] | [Chapters][38] | [Top][37]
 
-[53]: misc/nigedo/markdown/sermon_11.md
+[53]: nigedo/markdown/sermon_11.md
 
 #### <span style="color:red">Sermon Eleven</span>
 
@@ -682,7 +682,7 @@ __20.__ The ending of the words is ALMSIVI.
 ## Chapter Twelve
 &emsp;[Open][54] | [Chapters][38] | [Top][37]
 
-[54]: misc/nigedo/markdown/sermon_12.md
+[54]: nigedo/markdown/sermon_12.md
 
 #### <span style="color:red">Sermon Twelve</span>
 
@@ -730,7 +730,7 @@ __14.__ The ending of the words is ALMSIVI.
 ## Chapter Thirteen
 &emsp;[Open][55] | [Chapters][38] | [Top][37]
 
-[55]: misc/nigedo/markdown/sermon_13.md
+[55]: nigedo/markdown/sermon_13.md
 
 #### <span style="color:red">Sermon Thirteen</span>
 
@@ -789,7 +789,7 @@ __24.__ The ending of the words is ALMSIVI.
 ## Chapter Fourteen
 &emsp;[Open][56] | [Chapters][38] | [Top][37]
 
-[56]: misc/nigedo/markdown/sermon_14.md
+[56]: nigedo/markdown/sermon_14.md
 
 #### <span style="color:red">Sermon Fourteen</span>
 
@@ -832,7 +832,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Fifteen
 &emsp;[Open][57] | [Chapters][38] | [Top][37]
 
-[57]: misc/nigedo/markdown/sermon_15.md
+[57]: nigedo/markdown/sermon_15.md
 
 #### <span style="color:red">Sermon Fifteen</span>
 
@@ -898,7 +898,7 @@ __13.__ The ending of the words is ALMSIVI.
 ## Chapter Sixteen
 &emsp;[Open][58] | [Chapters][38] | [Top][37]
 
-[58]: misc/nigedo/markdown/sermon_16.md
+[58]: nigedo/markdown/sermon_16.md
 
 #### <span style="color:red">Sermon Sixteen</span>
 
@@ -947,7 +947,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Seventeen
 &emsp;[Open][59] | [Chapters][38] | [Top][37]
 
-[59]: misc/nigedo/markdown/sermon_17.md
+[59]: nigedo/markdown/sermon_17.md
 
 #### <span style="color:red">Sermon Seventeen</span>
 
@@ -1006,7 +1006,7 @@ __19.__ The ending of the words is ALMSIVI.
 ## Chapter Eighteen
 &emsp;[Open][60] | [Chapters][38] | [Top][37]
 
-[60]: misc/nigedo/markdown/sermon_18.md
+[60]: nigedo/markdown/sermon_18.md
 
 #### <span style="color:red">Sermon Eighteen</span>
 
@@ -1051,7 +1051,7 @@ __13.__ The ending of the world is ALMSIVI.
 ## Chapter Nineteen
 &emsp;[Open][61] | [Chapters][38] | [Top][37]
 
-[61]: misc/nigedo/markdown/sermon_19.md
+[61]: nigedo/markdown/sermon_19.md
 
 #### <span style="color:red">Sermon Nineteen</span>
 
@@ -1104,7 +1104,7 @@ __10.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty
 &emsp;[Open][62] | [Chapters][38] | [Top][37]
 
-[62]: misc/nigedo/markdown/sermon_20.md
+[62]: nigedo/markdown/sermon_20.md
 
 #### <span style="color:red">Sermon Twenty</span>
 
@@ -1153,7 +1153,7 @@ __17.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-One
 &emsp;[Open][63] | [Chapters][38] | [Top][37]
 
-[63]: misc/nigedo/markdown/sermon_21.md
+[63]: nigedo/markdown/sermon_21.md
 
 #### <span style="color:red">Sermon Twenty-One</span>
 
@@ -1208,7 +1208,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-Two
 &emsp;[Open][64] | [Chapters][38] | [Top][37]
 
-[64]: misc/nigedo/markdown/sermon_22.md
+[64]: nigedo/markdown/sermon_22.md
 
 #### <span style="color:red">Sermon Twenty-Two</span>
 
@@ -1261,7 +1261,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-Three
 &emsp;[Open][65] | [Chapters][38] | [Top][37]
 
-[65]: misc/nigedo/markdown/sermon_23.md
+[65]: nigedo/markdown/sermon_23.md
 
 #### <span style="color:red">Sermon Twenty-Three</span>
 
@@ -1318,7 +1318,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-Four
 &emsp;[Open][66] | [Chapters][38] | [Top][37]
 
-[66]: misc/nigedo/markdown/sermon_24.md
+[66]: nigedo/markdown/sermon_24.md
 
 #### <span style="color:red">Sermon Twenty-Four</span>
 
@@ -1367,7 +1367,7 @@ __16.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-Five
 &emsp;[Open][67] | [Chapters][38] | [Top][37]
 
-[67]: misc/nigedo/markdown/sermon_25.md
+[67]: nigedo/markdown/sermon_25.md
 
 #### <span style="color:red">Sermon Twenty-Five</span>
 
@@ -1410,7 +1410,7 @@ __15.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-Six
 &emsp;[Open][68] | [Chapters][38] | [Top][37]
 
-[68]: misc/nigedo/markdown/sermon_26.md
+[68]: nigedo/markdown/sermon_26.md
 
 #### <span style="color:red">Sermon Twenty-Six</span>
 
@@ -1459,7 +1459,7 @@ __17.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-Seven
 &emsp;[Open][69] | [Chapters][38] | [Top][37]
 
-[69]: misc/nigedo/markdown/sermon_27.md
+[69]: nigedo/markdown/sermon_27.md
 
 #### <span style="color:red">Sermon Twenty-Seven</span>
 
@@ -1514,7 +1514,7 @@ __14.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-Eight
 &emsp;[Open][70] | [Chapters][38] | [Top][37]
 
-[70]: misc/nigedo/markdown/sermon_28.md
+[70]: nigedo/markdown/sermon_28.md
 
 #### <span style="color:red">Sermon Twenty-Eight</span>
 
@@ -1557,7 +1557,7 @@ __16.__ The ending of the words is ALMSIVI.
 ## Chapter Twenty-Nine
 &emsp;[Open][71] | [Chapters][38] | [Top][37]
 
-[71]: misc/nigedo/markdown/sermon_29.md
+[71]: nigedo/markdown/sermon_29.md
 
 #### <span style="color:red">Sermon Twenty-Nine</span>
 
@@ -1613,7 +1613,7 @@ __5.__ The ending of the words is ALMSIVI.
 ## Chapter Thirty
 &emsp;[Open][72] | [Chapters][38] | [Top][37]
 
-[72]: misc/nigedo/markdown/sermon_30.md
+[72]: nigedo/markdown/sermon_30.md
 
 #### <span style="color:red">Sermon Thirty</span>
 
@@ -1670,7 +1670,7 @@ __18.__ The ending of the words is ALMSIVI.
 ## Chapter Thirty-One
 &emsp;[Open][73] | [Chapters][38] | [Top][37]
 
-[73]: misc/nigedo/markdown/sermon_31.md
+[73]: nigedo/markdown/sermon_31.md
 
 #### <span style="color:red">Sermon Thirty-One</span>
 
@@ -1721,7 +1721,7 @@ __19.__ The ending of the words is ALMSIVI.
 ## Chapter Thirty-Two
 &emsp;[Open][74] | [Chapters][38] | [Top][37]
 
-[74]: misc/nigedo/markdown/sermon_32.md
+[74]: nigedo/markdown/sermon_32.md
 
 #### <span style="color:red">Sermon Thirty-Two</span>
 
@@ -1770,7 +1770,7 @@ __12.__ The ending of the words is ALMSIVI.
 ## Chapter Thirty-Three
 &emsp;[Open][75] | [Chapters][38] | [Top][37]
 
-[75]: misc/nigedo/markdown/sermon_33.md
+[75]: nigedo/markdown/sermon_33.md
 
 #### <span style="color:red">Sermon Thirty-Three</span>
 
@@ -1825,7 +1825,7 @@ __16.__ The ending of the words is ALMSIVI.
 ## Chapter Thirty-Four
 &emsp;[Open][76] | [Chapters][38] | [Top][37]
 
-[76]: misc/nigedo/markdown/sermon_34.md
+[76]: nigedo/markdown/sermon_34.md
 
 #### <span style="color:red">Sermon Thirty-Four</span>
 
@@ -1885,7 +1885,7 @@ __14.__ The ending of the words is ALMSIVI.
 ## Chapter Thirty-Five
 &emsp;[Open][77] | [Chapters][38] | [Top][37]
 
-[77]: misc/nigedo/markdown/sermon_35.md
+[77]: nigedo/markdown/sermon_35.md
 
 #### <span style="color:red">Sermon Thirty-Five</span>
 
@@ -1938,7 +1938,7 @@ __21.__ The ending of the words is ALMSIVI.
 ## Chapter Thirty-Six
 &emsp;[Open][78] | [Chapters][38] | [Top][37]
 
-[78]: misc/nigedo/markdown/sermon_36.md
+[78]: nigedo/markdown/sermon_36.md
 
 #### <span style="color:red">Sermon Thirty-Six</span>
 

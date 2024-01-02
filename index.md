@@ -60,7 +60,7 @@ This is a collection of various translations and renderings of *The 36 Lessons o
 [7]: documents/index-teso.md
 [8]: documents/index-traditional.md
 [9]: documents/index-misc.md
-[10]: documents/fanmade/index-misc_nigedo.md
+[10]: documents/fanmade/misc/index-misc_nigedo.md
 [11]: https://mmillar-bolis.github.io/MDunmeris/documents/quintessence/info/codex/index-lessons.html
 [12]: https://mmillar-bolis.github.io/MDunmeris/documents/quintessence/index.html
 
