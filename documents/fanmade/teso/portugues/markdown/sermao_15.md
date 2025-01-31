@@ -29,8 +29,8 @@
 > __Translators:__ rodrigo, frooke\
 > __Homepage:__ [universoeso.com.br][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 1.1.2\
-> __Date:__ 2023-11-29\
+> __Version:__ 1.7.4\
+> __Date:__ 2024-12-02\
 > __Note:__ Neste momento estamos com 100% do jogo traduzido, porém em fase de revisão, isso significa que ainda podem existir erros de códigos, palavras e diálogos, que serão consertados com a continuação do trabalho.
 
 [1]: https://www.universoeso.com.br/traducao
