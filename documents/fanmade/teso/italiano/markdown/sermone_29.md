@@ -29,8 +29,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 154\
-> __Date:__ 2023-11-21\
+> __Version:__ 166\
+> __Date:__ 2024-06-23\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 [1]: http://italianscrollsonline.it/
@@ -42,7 +42,7 @@
 
 La Scrittura dei numeri:
 
-1\. Il Dragon Break, o la Torre. 1\
+1\. Il Paradosso del Drago, o la Torre. 1\
 2\. L'Enantiomorfo. 68\
 3\. La porta invisibile, ALMSIVI. 112\
 4\. Gli angoli di Casa dei Disordini. 242\

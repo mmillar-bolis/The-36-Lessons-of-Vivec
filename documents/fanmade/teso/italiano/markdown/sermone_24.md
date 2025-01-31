@@ -29,8 +29,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 154\
-> __Date:__ 2023-11-21\
+> __Version:__ 166\
+> __Date:__ 2024-06-23\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 [1]: http://italianscrollsonline.it/
@@ -52,9 +52,9 @@ Ma prima che potesse arrivare a portata di spada dal mostro, un trio di case inf
 
 Vivec sorrise a quelle anime coraggiose intorno a lui ed evocò i demoni della celebrazione per fendere i vincitori. Ci fu una grande dimostrazione di amore e dovere intorno al mostro reticolato, e Vivec era al centro con un copricapo fatto di ossa di accoppiamento. Rideva e raccontava barzellette mistiche e faceva sì che i capi delle tre case si sposassero e diventassero un nuovo ordine.
 
-«Ora sarete per sempre i miei armigeri galleggianti», disse.
+«Ora sarete per sempre i miei Armigeri del Tribunale», disse.
 
-Allora Vivec trafisse la Montagna dell'Orda con Muatra e ne fece un grande sacco di ossa. Al tocco della sua mano destra la rete si trasformò in scrittura e la lanciò tutta verso nord-est. Il contenuto si sparse come un luccichio di zucchero e Vivec e gli Armigeri Galleggianti vi corsero sotto ridendo.
+Allora Vivec trafisse la Montagna dell'Orda con Muatra e ne fece un grande sacco di ossa. Al tocco della sua mano destra la rete si trasformò in scrittura e la lanciò tutta verso nord-est. Il contenuto si sparse come un luccichio di zucchero e Vivec e gli Armigeri del Tribunale vi corsero sotto ridendo.
 
 Infine le ossa della Montagna dell'Orda atterrarono e divennero le pietre di fondazione della Città delle Spade, che Vivec chiamò con il suo stesso sigillo, e la rete cadde su tutto e tra, o divenne come ponti tra le ossa, e poiché i suoi segmenti erano stati toccati dalla sua sacra saggezza divennero la più perfetta di tutte le strade cittadine dei mondi conosciuti.
 
@@ -62,7 +62,7 @@ Folle di Velothi arrivarono alla nuova città e Ayem e Seht le diedero la loro b
 
 Ha detto Ayem:
 
-«Alla città di mio fratello-sorella do la santa protezione della casa Indoril, i cui poteri e troni non conoscono eguali sotto il cielo, da cui proviene l'Ortore».
+«Alla città di mio fratello-sorella do la santa protezione della casa Indoril, i cui poteri e troni non conoscono eguali sotto il cielo, da cui proviene l'Ortore.»
 
 Ha detto Seht:
 

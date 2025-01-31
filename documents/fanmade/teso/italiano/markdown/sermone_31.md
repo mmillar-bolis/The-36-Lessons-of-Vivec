@@ -29,8 +29,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 154\
-> __Date:__ 2023-11-21\
+> __Version:__ 166\
+> __Date:__ 2024-06-23\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 [1]: http://italianscrollsonline.it/
@@ -46,7 +46,7 @@ L'Oratore disse a sua moglie: «Dov'è Vivec, il mio maestro? Lo amo ancora, anc
 
 Ayem ebbe pietà del marito turbato e gli disse che la spada della Trinità aveva combattuto contro i mostri minori suscitati dai Dwemer mentre lavoravano alle loro macchine d'assedio di ottone. Prese l'Hortator dentro di sé e gli mostrò dove si trovava il suo padrone.
 
-ALMSIVI, o almeno quell'aspetto che scelse di essere Vivec, sedeva nella Sala delle Litanie del Tempio del Pensiero Falso dopo la sua battaglia con gli orchi flautisti del Gash occidentale. Cominciò a scrivere, di nuovo, nel suo Libro delle Ore. Prima dovette indossare la sua Faccia d'Acqua. In questo modo poteva separare il bronzo del Vecchio Tempio dal blu del Nuovo e scrivere con felicità. In secondo luogo, doveva prendere un'altra piuma dalla Grande Luna, rendendola ulteriormente morta. In questo modo poteva scrivere dei mortali con verità. In terzo luogo, ricordò il Banchetto del Melograno, dove fu costretto a sposarsi con Molag Bal con scritture bagnate per cementare le sue sembianze di Mephala e scrivere con mani nere. Egli scrisse:
+ALMSIVI, o almeno quell'aspetto che scelse di essere Vivec, sedeva nella Sala delle Litanie del Tempio del Pensiero Falso dopo la sua battaglia con gli orchi selvaggi flautisti del Gash occidentale. Cominciò a scrivere, di nuovo, nel suo Libro delle Ore. Prima dovette indossare la sua Faccia d'Acqua. In questo modo poteva separare il bronzo del Vecchio Tempio dal blu del Nuovo e scrivere con felicità. In secondo luogo, doveva prendere un'altra piuma dalla Grande Luna, rendendola ulteriormente morta. In questo modo poteva scrivere dei mortali con verità. In terzo luogo, ricordò il Banchetto del Melograno, dove fu costretto a sposarsi con Molag Bal con scritture bagnate per cementare le sue sembianze di Mephala e scrivere con mani nere. Egli scrisse:
 
 L'ultima volta che ho sentito la sua voce, mostrando il minimo segno di impazienza, ho imparato a controllarmi e a sottomettermi alla volontà degli altri. In seguito, ho osato assumere il fuoco sacro e ho capito che non c'era equilibrio con gli ET'ADA. Erano bugiardi, radici perse, e il massimo che posso fare è essere un interprete nel razionale. Anche questo fallisce i bisogni del popolo. Mi siedo sul seggio della misericordia e pronuncio il giudizio, lo stato di veglia e l'aspetto di fase dell'impulso innato. Solo qui posso dubitare, in questo libro, scritto nell'acqua, allargato al male.
 

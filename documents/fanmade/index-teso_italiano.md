@@ -40,8 +40,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][40]\
 > __Alt Page:__ [esoui.com][41]\
-> __Version:__ 154\
-> __Date:__ 2023-11-21\
+> __Version:__ 166\
+> __Date:__ 2024-06-23\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 &emsp;[File di Gioco][39]
@@ -537,7 +537,7 @@ Con questo l'Ortore ha bisogno che io capisca. La spada è una firma impaziente.
 
 Ci impegniamo con te, il Creatore di cornici, lo Scarabeo: un mondo per noi in cui amarti, un mantello di sporco da custodire. Tradito dai tuoi antenati quando non stavi nemmeno guardando. L'hoary Magnus e le sue opinioni azzardate non possono influenzare i sottovalutati, un trucco degno dei sempre soddisfatti. Una breve stagione di torri, un'assoluzione malridotta, e cos'è questo, cos'è questo se non fuoco sotto la palpebra?
 
-Spostatevi nella vostra pelle, dico ai mangiatori di Trinimac. Intonate le vostre voci del colore del livido. Dividetevi come i vostri nemici, in Case, e ponete le vostre leggi in sequenza dal centro, di nuovo come gli angoli nemici della casa di Troubles, e vedetevi da lì come legname, o lastre di fango, o fogli di resina. Allora non dividetevi, perché il passo di SITHISIT è ancora più veloce dell'impeto dei nemici, ed Egli farà a pezzi il tutto per amore di una tegola.
+Spostatevi nella vostra pelle, dico ai mangiatori di Trinimac. Intonate le vostre voci del colore del livido. Dividetevi come i vostri nemici, in Case, e ponete le vostre leggi in sequenza dal centro, di nuovo come i nemici Angoli della casa dei Guai, e vedetevi da lì come legname, o lastre di fango, o fogli di resina. Allora non dividetevi, perché il passo di SITHISIT è ancora più veloce dell'impeto dei nemici, ed Egli farà a pezzi il tutto per amore di una tegola.
 
 Perché noi andiamo diversamente, e in tuono. SITHISIT è l'inizio di tutte le vere Case, costruite contro la stasi e gli schiavi pigri. Giratevi dalle vostre predilezioni, rotte come false mappe. Muovetevi e muovetevi così. Svelti contro i falsi padri, le madri lasciate negli angoli a piangere per il vetro e la pioggia. La stasi non chiede altro che nulla, per se stessa, che è nulla, come tu eri nelle otto imperfezioni eterne.
 
@@ -933,20 +933,21 @@ Il finale delle parole è ALMSIVI.
 
 Il primo mostro era in realtà due, essendo nato due volte come suo padre-madre, Vivec. Non era il più potente degli otto fuggiti da Muatra, ma le sue azioni erano le più preoccupanti. Era conosciuto come Ascia di Luna, e raccoglieva gli avanzi della natura. Lo faceva due volte, come si diceva, e il secondo raccolto portava sempre rovina o legge non scritta. Il suo aspetto era sfaccettato come un poliedro.
 
-Nessun pericolo è menzionato nel ritrovamento di Moon Axle, ma si sapeva che era immune alle lance, quindi Vivec dovette usare la spada non impugnata contro di lui. Prima di affrontare il mostro, il poeta-guerriero chiese:
+Nessun pericolo è menzionato nel ritrovamento di Ascia Lunare, ma si sapeva che era immune alle lance, quindi Vivec dovette usare la spada non impugnata contro di lui. Prima di affrontare il mostro, il poeta-guerriero chiese:
 
 «Come hai fatto ad essere immune alle lance?»
 
-Al che Moon Axle rispose: «La mia è una natura duale, e proteiforme. Sono infatti fatto di molte linee rette, anche se nessuna dura troppo a lungo. In questo modo ho imparato a ignorare tutti i veri segmenti».
+Al che Ascia Lunare rispose: «La mia è una natura duale, e proteiforme. Sono infatti fatto di molte linee rette, anche se nessuna dura troppo a lungo. In questo modo ho imparato a ignorare tutti i veri segmenti.»
 
-Per fortuna, la spada che non teneva in mano era ricurva e quindi poteva tagliare Moon Axle, e prima che il sole sorgesse sanguinava da molte ferite. Vivec non lo uccise del tutto, perché farlo avrebbe mantenuto i capricci della natura dentro di lui e non al loro posto. Ben presto Vivec aveva rintracciato di nuovo la geografia giusta, e Ascia Lunare era pronta per essere uccisa.
+Per fortuna, la spada che non teneva in mano era ricurva e quindi poteva tagliare Ascia Lunare, e prima che il sole sorgesse sanguinava da molte ferite. Vivec non lo uccise del tutto, perché farlo avrebbe mantenuto i capricci della natura dentro di lui e non al loro posto. Ben presto Vivec aveva rintracciato di nuovo la geografia giusta, e Ascia Lunare era pronto per essere ucciso.
 
-Vivec si alzò nella sua forma da gigante, per essere terribile da guardare. Raggiunse l'ovest e tirò fuori un canyon, tenendolo come un corno. Raggiunse l'est e mangiò una manciata di nix-hound. Soffiando i loro spiriti attraverso il canyon fece un terribile lamento, non dissimile da una donna irrisolta. Disse:
+Vivec si alzò nella sua forma da gigante, per essere terribile da guardare. Raggiunse l'ovest e tirò fuori un canyon, tenendolo come un corno. Raggiunse l'est e mangiò una manciata di nix-segugi. Soffiando i loro spiriti attraverso il canyon fece un terribile lamento, non dissimile da una donna irrisolta. Disse:
 
 «Lascia che questo ti sorprenda», e Ascia della Luna fu sopraffatta dalle curvature delle anime rubate. Esse avvolsero il mostro come resina, finché alla fine non poté più muoversi, né la sua doppia natura.
-Vivec disse: «Ora sei risolto», e trafisse il suo bambino con Muatra. Moon Axle era stato ridotto a qualcosa di statico, e quindi frantumato.
 
-Le linee dell'Asse della Luna furono raccolte dai filosofi Velothi e portate nelle grotte. Lì, e per un anno, Vivec insegnò ai filosofi come trasformare le linee di suo figlio nei raggi di ruote misteriose. Questa fu la nascita della prima Scuola dei Vortici. Prima, c'era stato solo il pensiero superficiale del fuoco.
+Vivec disse: «Ora sei risolto», e trafisse il suo bambino con Muatra. Ascia Lunare era stato ridotto a qualcosa di statico, e quindi frantumato.
+
+Le linee di Ascia Lunare furono raccolte dai filosofi Velothi e portate nelle grotte. Lì, e per un anno, Vivec insegnò ai filosofi come trasformare le linee di suo figlio nei raggi di ruote misteriose. Questa fu la nascita della prima Scuola dei Vortici. Prima, c'era stato solo il pensiero superficiale del fuoco.
 
 Vivec guardò i suoi primi studenti a ruota e osservò:
 
@@ -954,7 +955,7 @@ Vivec guardò i suoi primi studenti a ruota e osservò:
 
 «La spada è l'allontanamento dalla politica.
 
-«Guardate le linee stimabili di mio figlio, ora realizzate a stella, ogni suo arto è equidistante dal centro. È risolto perché io lo voglio? Non può esserci un secondo stadio. Pensa alla teoria che la mia esistenza promulga i cinque elementi e come l'universo a strati d'uovo sono causa di grande densità. Ecco un pensiero che può rompere l'asse del carro; ecco un altro che può librarsi».
+«Guardate le linee stimabili di mio figlio, ora realizzate a stella, ogni suo arto è equidistante dal centro. È risolto perché io lo voglio? Non può esserci un secondo stadio. Pensa alla teoria che la mia esistenza promulga i cinque elementi e come l'universo a strati d'uovo sono causa di grande densità. Ecco un pensiero che può rompere l'asse del carro; ecco un altro che può librarsi.»
 
 Il finale delle parole è ALMSIVI.
 
@@ -1106,9 +1107,9 @@ Ma prima che potesse arrivare a portata di spada dal mostro, un trio di case inf
 
 Vivec sorrise a quelle anime coraggiose intorno a lui ed evocò i demoni della celebrazione per fendere i vincitori. Ci fu una grande dimostrazione di amore e dovere intorno al mostro reticolato, e Vivec era al centro con un copricapo fatto di ossa di accoppiamento. Rideva e raccontava barzellette mistiche e faceva sì che i capi delle tre case si sposassero e diventassero un nuovo ordine.
 
-«Ora sarete per sempre i miei armigeri galleggianti», disse.
+«Ora sarete per sempre i miei Armigeri del Tribunale», disse.
 
-Allora Vivec trafisse la Montagna dell'Orda con Muatra e ne fece un grande sacco di ossa. Al tocco della sua mano destra la rete si trasformò in scrittura e la lanciò tutta verso nord-est. Il contenuto si sparse come un luccichio di zucchero e Vivec e gli Armigeri Galleggianti vi corsero sotto ridendo.
+Allora Vivec trafisse la Montagna dell'Orda con Muatra e ne fece un grande sacco di ossa. Al tocco della sua mano destra la rete si trasformò in scrittura e la lanciò tutta verso nord-est. Il contenuto si sparse come un luccichio di zucchero e Vivec e gli Armigeri del Tribunale vi corsero sotto ridendo.
 
 Infine le ossa della Montagna dell'Orda atterrarono e divennero le pietre di fondazione della Città delle Spade, che Vivec chiamò con il suo stesso sigillo, e la rete cadde su tutto e tra, o divenne come ponti tra le ossa, e poiché i suoi segmenti erano stati toccati dalla sua sacra saggezza divennero la più perfetta di tutte le strade cittadine dei mondi conosciuti.
 
@@ -1116,7 +1117,7 @@ Folle di Velothi arrivarono alla nuova città e Ayem e Seht le diedero la loro b
 
 Ha detto Ayem:
 
-«Alla città di mio fratello-sorella do la santa protezione della casa Indoril, i cui poteri e troni non conoscono eguali sotto il cielo, da cui proviene l'Ortore».
+«Alla città di mio fratello-sorella do la santa protezione della casa Indoril, i cui poteri e troni non conoscono eguali sotto il cielo, da cui proviene l'Ortore.»
 
 Ha detto Seht:
 
@@ -1162,9 +1163,9 @@ Il finale delle parole è ALMSIVI.
 
 #### <span style="color:red">Sermone Ventisei</span>
 
-Poi Vivec lasciò il suo rapimento architettonico e tornò nello spazio che non era uno spazio. Dalla Casa Provvisoria guardò nel mondo di mezzo per trovare il quarto mostro, chiamato La Cabala Tascabile.
+Poi Vivec lasciò il suo rapimento per l'architettura e tornò nello spazio che non era uno spazio. Dalla Casa Provvisoria guardò nel mondo di mezzo per trovare il quarto mostro, chiamato La Cabala Tascabile.
 
-Il mostro si nascondeva nelle liste di incantesimi dei grandi maghi Chimeri dell'estremo est, dove i Parasoli Imperatori crescono selvaggi. Vivec si travestì da semplice viaggiatore, ma irradiò un tenue tessuto sensoriale affinché i maghi lo cercassero. Di Muatra fece un semplice nano ambulante.
+Il mostro si nascondeva nelle liste di incantesimi dei grandi maghi Chimeri dell'estremo est, dove gli Imperatori Parasol crescono selvaggi. Vivec si travestì da semplice viaggiatore, ma irradiò un tenue tessuto sensoriale affinché i maghi lo cercassero. Di Muatra fece un semplice nano ambulante.
 
 In breve tempo l'invisibile era tra le biblioteche dell'est, dando in pasto le parole essenziali della Cabala Tascabile al suo nano ambulante e poi scappando quando la magia veniva meno. Dopo un anno o due di questo furto, Muatra ebbe il voltastomaco, e il nano ambulante esplose vicino ai recinti degli schiavi di una torre di un mago. La Cabala Tascabile si infilò allora nella bocca degli schiavi e si nascose di nuovo.
 
@@ -1172,23 +1173,23 @@ Vivec guardò allora mentre gli schiavi esplodevano in balbettii e magie di rott
 
 Così, naturalmente, apparve un insetto gigante, con il più grande mago orientale al suo interno. Poteva vedere oltre il travestimento di Vivec e sapeva della divinità del poeta-guerriero, ma si credeva così potente da parlare con durezza:
 
-«Vedi cosa hai fatto, sciocco trinitario! Colonne di sciocchezze e di litanie demoniache! Non posso credere come la ragione o la temperanza possano essere rese di nuovo integre grazie al tuo mangiare, mangiare, mangiare! Consorziati con altri demoni, perché non lo fai?»
+«Vedi cosa hai fatto, sciocco Trinitario! Colonne di sciocchezze e di litanie demoniache! Non posso credere come la ragione o la temperanza possano essere rese di nuovo integre grazie al tuo mangiare, mangiare, mangiare! Consorziati con altri demoni, perché non lo fai?»
 
 Vivec pugnalò il mago attraverso la sua anima.
 
 L'imbracatura gigante per gli insetti cadde sulle gabbie degli schiavi e gli schiavi correvano liberi e spericolati, troppo spericolati con parole incinte. I colori si piegarono nella terra. Vivec creò un demone dalla testa a cupola per contenere il tutto.
 
-«La Cabala Tascabile è dunque sepolta qui per sempre. Che questa sia una terra maledetta dove la stregoneria è rotta e maligna».
+«La Cabala Tascabile è dunque sepolta qui per sempre. Che questa sia una terra maledetta dove la stregoneria è rotta e maligna.»
 
 Poi prese Muatra per la barba e lasciò l'emisfero spettrale del demone dalla testa a cupola. Sui suoi confini, Vivec pose un avvertimento e un canto d'ingresso che conteneva errori. Con le finte ossa di Muatra mezzo morto creò i pali della tenda di una fortezza-teoria e le lingue fatali furono imprigionate per tutto il tempo.
 
-Seht apparve e guardò ciò che suo fratello-sorella aveva creato. Il re degli orologi disse:
+Seht apparve e guardò ciò che suo fratello-sorella aveva creato. Il Re di Città Meccanica disse:
 
 «Degli otto mostri, questo è il più confuso. Posso farne tesoro?»
 
 Vivec diede a Seht il permesso di farlo, ma gli disse di non rilasciare mai la Cabala Tascabile nel mondo di mezzo. Egli disse:
 
-«Ho nascosto dei segreti nei miei viaggi qui e ho fatto un ritratto di Muatra per difendermi dagli sprovveduti. Sotto questa cupola, il mito temporale non è più uomo».
+«Ho nascosto dei segreti nei miei viaggi qui e ho fatto un ritratto di Muatra per difendermi dagli sprovveduti. Sotto questa cupola, il mito temporale non è più uomo.»
 
 Il finale delle parole è ALMSIVI.
 
@@ -1250,9 +1251,9 @@ Quando i dreugh governavano il mondo, il principe Daedroth Molag Bal era il loro
 
 L'Uomo Rubicondo, degli otto mostri, era il meno complicato. Trasformò coloro che lo indossavano in potenti assassini e nient'altro. Esisteva nel fisico. Solo la geografia lo rendeva speciale.
 
-Quando Vivec lo trovò vicino al villaggio del ragazzo, anon Gnisis, ci fu un violento scontro di armi e uno sconvolgimento della terra. La loro battaglia ha creato la Spaccatura Occidentale. I vagabondi che ancora vanno là ne sentono ancora i suoni: spada sulla crosta, il grugnito di Dio, lo schiocco delle gambe scheggiate del suo figlio mostruoso.
+Quando Vivec lo trovò vicino al villaggio del ragazzo, anon Gnisis, ci fu un violento scontro di armi e uno sconvolgimento della terra. La loro battaglia ha creato la Fenditura Occidentale. I vagabondi che ancora vanno là ne sentono ancora i suoni: spada sulla crosta, il grugnito di Dio, lo schiocco delle gambe scheggiate del suo figlio mostruoso.
 
-Dopo la sua vittoria, Vivec portò il guscio dell'Uomo Rubicondo ai dreugh a cui aveva modificato la madre. La regina di Dreughs, il cui nome non è facile da pronunciare, era in un periodo di autoincubazione. I suoi guardiani presero il regalo da Vivec e promisero di proteggerlo dal mondo di superficie. Questo è il primo resoconto di dreugh che sono bugiardi.
+Dopo la sua vittoria, Vivec portò il guscio dell'Uomo Rubicondo ai dreugh a cui aveva modificato la madre. La Regina dei Dreugh, il cui nome non è facile da pronunciare, era in un periodo di auto-incubazione. I suoi guardiani presero il regalo da Vivec e promisero di proteggerlo dal mondo di superficie. Questo è il primo resoconto di dreugh che sono bugiardi.
 
 In dieci anni, l'Uomo Rubicondo è apparso di nuovo, questa volta vicino a Tear, indossato da uno sciamano ribelle che ha seguito la Casa dei Disordini. Invece di proteggerlo, i dreugh avevano impregnato l'armatura vivente di mitica inflessibilità. Subì la muta dopo aver drappeggiato lo sciamano e allungato le sue ossa ai cinque angoli.
 
@@ -1275,7 +1276,7 @@ La fine delle parole è ALMSIVI.
 
 La Scrittura dei numeri:
 
-1\. Il Dragon Break, o la Torre. 1\
+1\. Il Paradosso del Drago, o la Torre. 1\
 2\. L'Enantiomorfo. 68\
 3\. La porta invisibile, ALMSIVI. 112\
 4\. Gli angoli di Casa dei Disordini. 242\
@@ -1372,7 +1373,7 @@ L'Oratore disse a sua moglie: «Dov'è Vivec, il mio maestro? Lo amo ancora, anc
 
 Ayem ebbe pietà del marito turbato e gli disse che la spada della Trinità aveva combattuto contro i mostri minori suscitati dai Dwemer mentre lavoravano alle loro macchine d'assedio di ottone. Prese l'Hortator dentro di sé e gli mostrò dove si trovava il suo padrone.
 
-ALMSIVI, o almeno quell'aspetto che scelse di essere Vivec, sedeva nella Sala delle Litanie del Tempio del Pensiero Falso dopo la sua battaglia con gli orchi flautisti del Gash occidentale. Cominciò a scrivere, di nuovo, nel suo Libro delle Ore. Prima dovette indossare la sua Faccia d'Acqua. In questo modo poteva separare il bronzo del Vecchio Tempio dal blu del Nuovo e scrivere con felicità. In secondo luogo, doveva prendere un'altra piuma dalla Grande Luna, rendendola ulteriormente morta. In questo modo poteva scrivere dei mortali con verità. In terzo luogo, ricordò il Banchetto del Melograno, dove fu costretto a sposarsi con Molag Bal con scritture bagnate per cementare le sue sembianze di Mephala e scrivere con mani nere. Egli scrisse:
+ALMSIVI, o almeno quell'aspetto che scelse di essere Vivec, sedeva nella Sala delle Litanie del Tempio del Pensiero Falso dopo la sua battaglia con gli orchi selvaggi flautisti del Gash occidentale. Cominciò a scrivere, di nuovo, nel suo Libro delle Ore. Prima dovette indossare la sua Faccia d'Acqua. In questo modo poteva separare il bronzo del Vecchio Tempio dal blu del Nuovo e scrivere con felicità. In secondo luogo, doveva prendere un'altra piuma dalla Grande Luna, rendendola ulteriormente morta. In questo modo poteva scrivere dei mortali con verità. In terzo luogo, ricordò il Banchetto del Melograno, dove fu costretto a sposarsi con Molag Bal con scritture bagnate per cementare le sue sembianze di Mephala e scrivere con mani nere. Egli scrisse:
 
 L'ultima volta che ho sentito la sua voce, mostrando il minimo segno di impazienza, ho imparato a controllarmi e a sottomettermi alla volontà degli altri. In seguito, ho osato assumere il fuoco sacro e ho capito che non c'era equilibrio con gli ET'ADA. Erano bugiardi, radici perse, e il massimo che posso fare è essere un interprete nel razionale. Anche questo fallisce i bisogni del popolo. Mi siedo sul seggio della misericordia e pronuncio il giudizio, lo stato di veglia e l'aspetto di fase dell'impulso innato. Solo qui posso dubitare, in questo libro, scritto nell'acqua, allargato al male.
 

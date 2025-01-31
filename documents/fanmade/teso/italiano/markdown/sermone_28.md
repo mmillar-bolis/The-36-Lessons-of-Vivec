@@ -29,8 +29,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 154\
-> __Date:__ 2023-11-21\
+> __Version:__ 166\
+> __Date:__ 2024-06-23\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 [1]: http://italianscrollsonline.it/
@@ -46,9 +46,9 @@ Quando i dreugh governavano il mondo, il principe Daedroth Molag Bal era il loro
 
 L'Uomo Rubicondo, degli otto mostri, era il meno complicato. Trasformò coloro che lo indossavano in potenti assassini e nient'altro. Esisteva nel fisico. Solo la geografia lo rendeva speciale.
 
-Quando Vivec lo trovò vicino al villaggio del ragazzo, anon Gnisis, ci fu un violento scontro di armi e uno sconvolgimento della terra. La loro battaglia ha creato la Spaccatura Occidentale. I vagabondi che ancora vanno là ne sentono ancora i suoni: spada sulla crosta, il grugnito di Dio, lo schiocco delle gambe scheggiate del suo figlio mostruoso.
+Quando Vivec lo trovò vicino al villaggio del ragazzo, anon Gnisis, ci fu un violento scontro di armi e uno sconvolgimento della terra. La loro battaglia ha creato la Fenditura Occidentale. I vagabondi che ancora vanno là ne sentono ancora i suoni: spada sulla crosta, il grugnito di Dio, lo schiocco delle gambe scheggiate del suo figlio mostruoso.
 
-Dopo la sua vittoria, Vivec portò il guscio dell'Uomo Rubicondo ai dreugh a cui aveva modificato la madre. La regina di Dreughs, il cui nome non è facile da pronunciare, era in un periodo di autoincubazione. I suoi guardiani presero il regalo da Vivec e promisero di proteggerlo dal mondo di superficie. Questo è il primo resoconto di dreugh che sono bugiardi.
+Dopo la sua vittoria, Vivec portò il guscio dell'Uomo Rubicondo ai dreugh a cui aveva modificato la madre. La Regina dei Dreugh, il cui nome non è facile da pronunciare, era in un periodo di auto-incubazione. I suoi guardiani presero il regalo da Vivec e promisero di proteggerlo dal mondo di superficie. Questo è il primo resoconto di dreugh che sono bugiardi.
 
 In dieci anni, l'Uomo Rubicondo è apparso di nuovo, questa volta vicino a Tear, indossato da uno sciamano ribelle che ha seguito la Casa dei Disordini. Invece di proteggerlo, i dreugh avevano impregnato l'armatura vivente di mitica inflessibilità. Subì la muta dopo aver drappeggiato lo sciamano e allungato le sue ossa ai cinque angoli.
 

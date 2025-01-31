@@ -29,8 +29,8 @@
 > __Translators:__ Italian Scrolls Online\
 > __Homepage:__ [italianscrollsonline.it][1]\
 > __Alt Page:__ [esoui.com][2]\
-> __Version:__ 154\
-> __Date:__ 2023-11-21\
+> __Version:__ 166\
+> __Date:__ 2024-06-23\
 > __Note:__ Traduzione Italiana di Elder Scrolls Online a cura del Team di Italian Scrolls Online. Questo addon è in fase di sviluppo.
 
 [1]: http://italianscrollsonline.it/
@@ -50,7 +50,7 @@ Con questo l'Ortore ha bisogno che io capisca. La spada è una firma impaziente.
 
 Ci impegniamo con te, il Creatore di cornici, lo Scarabeo: un mondo per noi in cui amarti, un mantello di sporco da custodire. Tradito dai tuoi antenati quando non stavi nemmeno guardando. L'hoary Magnus e le sue opinioni azzardate non possono influenzare i sottovalutati, un trucco degno dei sempre soddisfatti. Una breve stagione di torri, un'assoluzione malridotta, e cos'è questo, cos'è questo se non fuoco sotto la palpebra?
 
-Spostatevi nella vostra pelle, dico ai mangiatori di Trinimac. Intonate le vostre voci del colore del livido. Dividetevi come i vostri nemici, in Case, e ponete le vostre leggi in sequenza dal centro, di nuovo come gli angoli nemici della casa di Troubles, e vedetevi da lì come legname, o lastre di fango, o fogli di resina. Allora non dividetevi, perché il passo di SITHISIT è ancora più veloce dell'impeto dei nemici, ed Egli farà a pezzi il tutto per amore di una tegola.
+Spostatevi nella vostra pelle, dico ai mangiatori di Trinimac. Intonate le vostre voci del colore del livido. Dividetevi come i vostri nemici, in Case, e ponete le vostre leggi in sequenza dal centro, di nuovo come i nemici Angoli della casa dei Guai, e vedetevi da lì come legname, o lastre di fango, o fogli di resina. Allora non dividetevi, perché il passo di SITHISIT è ancora più veloce dell'impeto dei nemici, ed Egli farà a pezzi il tutto per amore di una tegola.
 
 Perché noi andiamo diversamente, e in tuono. SITHISIT è l'inizio di tutte le vere Case, costruite contro la stasi e gli schiavi pigri. Giratevi dalle vostre predilezioni, rotte come false mappe. Muovetevi e muovetevi così. Svelti contro i falsi padri, le madri lasciate negli angoli a piangere per il vetro e la pioggia. La stasi non chiede altro che nulla, per se stessa, che è nulla, come tu eri nelle otto imperfezioni eterne.
 
