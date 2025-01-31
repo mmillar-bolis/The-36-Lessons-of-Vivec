@@ -40,8 +40,8 @@
 > __Translators:__ ﻿驮鼠汉化组\
 > __Homepage:__ [nexusmods.com][39]\
 > __Alt Page:__ [finkiin.com.cn][40]\
-> __Version:__ 0.9.1\
-> __Date:__ 2023-12-25
+> __Version:__ 1.1.0\
+> __Date:__ 2025-01-18
 
 [39]: https://www.nexusmods.com/morrowind/mods/53885
 [40]: https://finkiin.com.cn/d/1153
@@ -52,18 +52,18 @@
 
 | <span style="font-family:HayghinDaedric;color:red">A</span> | &#8203; | <span style="font-family:HayghinDaedric;color:red">V</span> | &#8203; | <span style="font-family:HayghinDaedric;color:red">S</span> | &#8203; |
 |--------:|:--------------|--------:|:---------------|--------:|:----------------|
-|  __1:__ | [讲道一][1]    | __13:__ | [讲道十三][13]   | __25:__ | [讲道二十五][25] |
-|  __2:__ | [讲道二][2]    | __14:__ | [讲道十四][14]   | __26:__ | [讲道二十六][26] |
-|  __3:__ | [讲道三][3]    | __15:__ | [讲道十五][15]   | __27:__ | [讲道二十七][27] |
-|  __4:__ | [讲道四][4]    | __16:__ | [讲道十六][16]   | __28:__ | [讲道二十八][28] |
-|  __5:__ | [讲道五][5]    | __17:__ | [讲道十七][17]   | __29:__ | [讲道二十九][29] |
-|  __6:__ | [讲道六][6]    | __18:__ | [讲道十八][18]   | __30:__ | [讲道三十][30]   |
-|  __7:__ | [讲道七][7]    | __19:__ | [讲道十九][19]   | __31:__ | [讲道三十一][31] |
-|  __8:__ | [讲道八][8]    | __20:__ | [讲道二十][20]   | __32:__ | [讲道三十二][32] |
-|  __9:__ | [讲道九][9]    | __21:__ | [讲道二十一][21] | __33:__ | [讲道三十三][33] |
-| __10:__ | [讲道十][10]   | __22:__ | [讲道二十二][22] | __34:__ | [讲道三十四][34] |
-| __11:__ | [讲道十一][11] | __23:__ | [讲道二十三][23] | __35:__ | [讲道三十五][35] |
-| __12:__ | [讲道十二][12] | __24:__ | [讲道二十四][24] | __36:__ | [讲道三十六][36] |
+|  __1:__ | [布道一][1]    | __13:__ | [布道十三][13]   | __25:__ | [布道二十五][25] |
+|  __2:__ | [布道二][2]    | __14:__ | [布道十四][14]   | __26:__ | [布道二十六][26] |
+|  __3:__ | [布道三][3]    | __15:__ | [布道十五][15]   | __27:__ | [布道二十七][27] |
+|  __4:__ | [布道四][4]    | __16:__ | [布道十六][16]   | __28:__ | [布道二十八][28] |
+|  __5:__ | [布道五][5]    | __17:__ | [布道十七][17]   | __29:__ | [布道二十九][29] |
+|  __6:__ | [布道六][6]    | __18:__ | [布道十八][18]   | __30:__ | [布道三十][30]   |
+|  __7:__ | [布道七][7]    | __19:__ | [布道十九][19]   | __31:__ | [布道三十一][31] |
+|  __8:__ | [布道八][8]    | __20:__ | [布道二十][20]   | __32:__ | [布道三十二][32] |
+|  __9:__ | [布道九][9]    | __21:__ | [布道二十一][21] | __33:__ | [布道三十三][33] |
+| __10:__ | [布道十][10]   | __22:__ | [布道二十二][22] | __34:__ | [布道三十四][34] |
+| __11:__ | [布道十一][11] | __23:__ | [布道二十三][23] | __35:__ | [布道三十五][35] |
+| __12:__ | [布道十二][12] | __24:__ | [布道二十四][24] | __36:__ | [布道三十六][36] |
 
 [1]: #chapter-one
 [2]: #chapter-two
@@ -109,10 +109,10 @@
 ## Chapter One
 &emsp;[打开][41] | [游戏文件][42] | [章节][38] | [顶部][37]
 
-[41]: tes3/zhong1wen2/markdown/jiang3dao4_01.md
-[42]: tes3/zhong1wen2/html/Jiang3dao4_01-BookSkill_Athletics3.html
+[41]: tes3/zhong1wen2/markdown/bu4dao4_01.md
+[42]: tes3/zhong1wen2/html/Bu4dao4_01-BookSkill_Athletics3.html
 
-#### 《讲道一》
+#### 《布道一》
 
 他出生在灰烬之中的维洛蒂，半个岐莫，在与北方男人开战之前。Ayem 首先来到了 netchimen 村，她的影子是阴谋王子波耶西亚的影子，未知和已知的事物会在她周围折叠起来，直到它们像星星或星星的信息一样。艾姆带着一个网民的妻子说：
 
@@ -149,10 +149,10 @@ netchiman 的妻子对 Hortator 说。
 ## Chapter Two
 &emsp;[打开][43] | [游戏文件][44] | [章节][38] | [顶部][37]
 
-[43]: tes3/zhong1wen2/markdown/jiang3dao4_02.md
-[44]: tes3/zhong1wen2/html/Jiang3dao4_02-BookSkill_Alchemy4.html
+[43]: tes3/zhong1wen2/markdown/bu4dao4_02.md
+[44]: tes3/zhong1wen2/html/Bu4dao4_02-BookSkill_Alchemy4.html
 
-#### 《讲道二》
+#### 《布道二》
 
 内奇曼的妻子带着维威克的蛋去寻找因多里尔的土地。一路上，许多神灵前来探望她，并为她的儿子、女儿、未来光荣的瓦登费尔隐形战士诗人维威克提供指示。
 
@@ -191,10 +191,10 @@ netchiman 的妻子对 Hortator 说。
 ## Chapter Three
 &emsp;[打开][45] | [游戏文件][46] | [章节][38] | [顶部][37]
 
-[45]: tes3/zhong1wen2/markdown/jiang3dao4_03.md
-[46]: tes3/zhong1wen2/html/Jiang3dao4_03-BookSkill_Blunt_Weapon4.html
+[45]: tes3/zhong1wen2/markdown/bu4dao4_03.md
+[46]: tes3/zhong1wen2/html/Bu4dao4_03-BookSkill_Blunt_Weapon4.html
 
-#### 《讲道三》
+#### 《布道三》
 
 由于失明，netchiman 的妻子在前往 Indoril 家族领地的路上徘徊在一个山洞里。碰巧这个洞穴是矮人的据点。锻莫探到蛋，俘虏了网民的妻子。他们把她的头和脚绑在一起，把她带到地底深处。
 
@@ -230,10 +230,10 @@ netchiman 的妻子对 Hortator 说。
 ## Chapter Four
 &emsp;[打开][47] | [游戏文件][48] | [章节][38] | [顶部][37]
 
-[47]: tes3/zhong1wen2/markdown/jiang3dao4_04.md
-[48]: tes3/zhong1wen2/html/Jiang3dao4_04-BookSkill_Mysticism3.html
+[47]: tes3/zhong1wen2/markdown/bu4dao4_04.md
+[48]: tes3/zhong1wen2/html/Bu4dao4_04-BookSkill_Mysticism3.html
 
-#### 《讲道四》
+#### 《布道四》
 
 带着维威克蛋的尼奇曼的妻子的幻影回到了因多里尔的土地上。在旅途中，更多的灵魂来到这里，并为它的儿子、女儿、未来光荣的瓦登费尔隐形战士诗人维威克提供指导。
 
@@ -270,10 +270,10 @@ netchiman 的妻子对 Hortator 说。
 ## Chapter Five
 &emsp;[打开][49] | [游戏文件][50] | [章节][38] | [顶部][37]
 
-[49]: tes3/zhong1wen2/markdown/jiang3dao4_05.md
-[50]: tes3/zhong1wen2/html/Jiang3dao4_05-BookSkill_Axe4.html
+[49]: tes3/zhong1wen2/markdown/bu4dao4_05.md
+[50]: tes3/zhong1wen2/html/Bu4dao4_05-BookSkill_Axe4.html
 
-#### 《讲道五》
+#### 《布道五》
 
 最后，netchiman 的妻子的幻影变得不稳定。锻莫在他们的仓促中造就了粗制滥造，红山的灰烬减缓了它的金筋。没过多久，它就在通往因多里尔土地的道路旁跪倒并倾覆，80 天后在前往维洛斯首都的途中被一个商队发现，阿玛莱西娅。
 
@@ -307,10 +307,10 @@ netchiman 的妻子对 Hortator 说。
 ## Chapter Six
 &emsp;[打开][51] | [游戏文件][52] | [章节][38] | [顶部][37]
 
-[51]: tes3/zhong1wen2/markdown/jiang3dao4_06.md
-[52]: tes3/zhong1wen2/html/Jiang3dao4_06-BookSkill_Armorer3.html
+[51]: tes3/zhong1wen2/markdown/bu4dao4_06.md
+[52]: tes3/zhong1wen2/html/Bu4dao4_06-BookSkill_Armorer3.html
 
-#### 《讲道六》
+#### 《布道六》
 
 你发现了维威克的第六次布道，隐藏在霍特托旁边的文字中。
 
@@ -375,10 +375,10 @@ netchiman 的妻子对 Hortator 说。
 ## Chapter Seven
 &emsp;[打开][53] | [游戏文件][54] | [章节][38] | [顶部][37]
 
-[53]: tes3/zhong1wen2/markdown/jiang3dao4_07.md
-[54]: tes3/zhong1wen2/html/Jiang3dao4_07-BookSkill_Block4.html
+[53]: tes3/zhong1wen2/markdown/bu4dao4_07.md
+[54]: tes3/zhong1wen2/html/Bu4dao4_07-BookSkill_Block4.html
 
-#### 《讲道七》
+#### 《布道七》
 
 就在尼瑞瓦的商队现在前往维洛斯都城阿玛西娅时，莱茵湮灭了巨大的隆隆声。一个混混混混闯入祸乱府，在每一扇经门前驻足拜拜，最后遇到了梅鲁涅斯·大衮的少校。
 
@@ -427,10 +427,10 @@ netchiman 的妻子对 Hortator 说。
 ## Chapter Eight
 &emsp;[打开][55] | [游戏文件][56] | [章节][38] | [顶部][37]
 
-[55]: tes3/zhong1wen2/markdown/jiang3dao4_08.md
-[56]: tes3/zhong1wen2/html/Jiang3dao4_08-BookSkill_Athletics4.html
+[55]: tes3/zhong1wen2/markdown/bu4dao4_08.md
+[56]: tes3/zhong1wen2/html/Bu4dao4_08-BookSkill_Athletics4.html
 
-#### 《讲道八》
+#### 《布道八》
 
 而眼下，尼瑞瓦和维威克都已经到了京城的视线之内，乱府四角知道，现在还不是与他们较量的时候。商队的乐师们演奏了一首美妙的入场曲，哀悼堡的十一扇门被打开了。
 
@@ -466,10 +466,10 @@ Seht 说，「无论他走到哪里，都有无形的经文。」
 ## Chapter Nine
 &emsp;[打开][57] | [游戏文件][58] | [章节][38] | [顶部][37]
 
-[57]: tes3/zhong1wen2/markdown/jiang3dao4_09.md
-[58]: tes3/zhong1wen2/html/Jiang3dao4_09-BookSkill_Blunt_Weapon5.html
+[57]: tes3/zhong1wen2/markdown/bu4dao4_09.md
+[58]: tes3/zhong1wen2/html/Bu4dao4_09-BookSkill_Blunt_Weapon5.html
 
-#### 《讲道九》
+#### 《布道九》
 
 然后是与北方人的战争，维威克确实引导 Hortator 与锻莫进行了迅速而棘手的联合。寒冷西部最伟大的恶魔酋长如下所列，邪恶的数量有五个。
 
@@ -492,10 +492,10 @@ YSMIR，北方之龙，总是以大胡子王的形象出现，拥有无数和回
 ## Chapter Ten
 &emsp;[打开][59] | [游戏文件][60] | [章节][38] | [顶部][37]
 
-[59]: tes3/zhong1wen2/markdown/jiang3dao4_10.md
-[60]: tes3/zhong1wen2/html/Jiang3dao4_10-BookSkill_Short_Blade4.html
+[59]: tes3/zhong1wen2/markdown/bu4dao4_10.md
+[60]: tes3/zhong1wen2/html/Bu4dao4_10-BookSkill_Short_Blade4.html
 
-#### 《讲道十》
+#### 《布道十》
 
 你已经发现了维威克的第十次布道，它隐藏在霍塔托之后的话语中。
 
@@ -538,10 +538,10 @@ YSMIR，北方之龙，总是以大胡子王的形象出现，拥有无数和回
 ## Chapter Eleven
 &emsp;[打开][61] | [游戏文件][62] | [章节][38] | [顶部][37]
 
-[61]: tes3/zhong1wen2/markdown/jiang3dao4_11.md
-[62]: tes3/zhong1wen2/html/Jiang3dao4_11-bookskill_unarmored3.html
+[61]: tes3/zhong1wen2/markdown/bu4dao4_11.md
+[62]: tes3/zhong1wen2/html/Bu4dao4_11-bookskill_unarmored3.html
 
-#### 《讲道十一》
+#### 《布道十一》
 
 那是瑞斯达尼亚的日子，岐莫和锻莫生活在 AMLSIVI 和他们的冠军 Hortator 的英明和仁慈的统治下。当 Veloth 的众神退回到他们自己的地方，以塑造宇宙和其他事物时，Hortator 有时会感到困惑。维威克会一直在那儿给他建议，这是统治国王的三个教训中的第一个：
 
@@ -574,10 +574,10 @@ YSMIR，北方之龙，总是以大胡子王的形象出现，拥有无数和回
 ## Chapter Twelve
 &emsp;[打开][63] | [游戏文件][64] | [章节][38] | [顶部][37]
 
-[63]: tes3/zhong1wen2/markdown/jiang3dao4_12.md
-[64]: tes3/zhong1wen2/html/Jiang3dao4_12-bookskill_heavy_armor5.html
+[63]: tes3/zhong1wen2/markdown/bu4dao4_12.md
+[64]: tes3/zhong1wen2/html/Bu4dao4_12-bookskill_heavy_armor5.html
 
-#### 《讲道十二》
+#### 《布道十二》
 
 就在霍特托思考统治国王的第一课时，维威克走进了灵柩堡，发现艾姆正和一对恋人在一起。Seht 再次分裂了自己。维威克随后跃入他们的肖像中观察，但他没有得到任何他不知道的秘密。他留下了一些自己的东西，使这次旅程变得有价值。
 
@@ -621,10 +621,10 @@ YSMIR，北方之龙，总是以大胡子王的形象出现，拥有无数和回
 ## Chapter Thirteen
 &emsp;[打开][65] | [游戏文件][66] | [章节][38] | [顶部][37]
 
-[65]: tes3/zhong1wen2/markdown/jiang3dao4_13.md
-[66]: tes3/zhong1wen2/html/Jiang3dao4_13-BookSkill_Alteration4.html
+[65]: tes3/zhong1wen2/markdown/bu4dao4_13.md
+[66]: tes3/zhong1wen2/html/Bu4dao4_13-BookSkill_Alteration4.html
 
-#### 《讲道十三》
+#### 《布道十三》
 
 那是瑞斯达尼亚的日子，岐莫和锻莫生活在 AMLSIVI 和他们的冠军 Hortator 的英明和仁慈的统治下。当 Veloth 的众神退回到他们自己的地方，以塑造宇宙和其他事物时，Hortator 有时会感到困惑。维威克会一直在那儿给他建议，这是统治国王的三个教训中的第二个：
 
@@ -653,10 +653,10 @@ YSMIR，北方之龙，总是以大胡子王的形象出现，拥有无数和回
 ## Chapter Fourteen
 &emsp;[打开][67] | [游戏文件][68] | [章节][38] | [顶部][37]
 
-[67]: tes3/zhong1wen2/markdown/jiang3dao4_14.md
-[68]: tes3/zhong1wen2/html/Jiang3dao4_14-bookskill_spear3.html
+[67]: tes3/zhong1wen2/markdown/bu4dao4_14.md
+[68]: tes3/zhong1wen2/html/Bu4dao4_14-bookskill_spear3.html
 
-#### 《讲道十四》
+#### 《布道十四》
 
 维威克与莫拉格·巴尔一起躺了八十天零八天，虽然没有头。那时，王子将战士诗人的双脚放回原处，让迪德拉的鲜血充满了双脚。这样，维威克的巨人形态就永远不会对地球造成伤害。石榴宴使许多死灵复活，使工会的儿女除了水果外还有很多吃的。
 
@@ -685,10 +685,10 @@ YSMIR，北方之龙，总是以大胡子王的形象出现，拥有无数和回
 ## Chapter Fifteen
 &emsp;[打开][69] | [游戏文件][70] | [章节][38] | [顶部][37]
 
-[69]: tes3/zhong1wen2/markdown/jiang3dao4_15.md
-[70]: tes3/zhong1wen2/html/Jiang3dao4_15-bookskill_unarmored4.html
+[69]: tes3/zhong1wen2/markdown/bu4dao4_15.md
+[70]: tes3/zhong1wen2/html/Bu4dao4_15-bookskill_unarmored4.html
 
-#### 《讲道十五》
+#### 《布道十五》
 
 那是瑞斯达尼亚的日子，岐莫和锻莫生活在 AMLSIVI 和他们的冠军 Hortator 的英明和仁慈的统治下。当 Veloth 的众神退回到他们自己的地方，以塑造宇宙和其他事物时，Hortator 有时会感到困惑。维威克会一直在那儿给他建议，这是统治国王的三个教训中的第三个：
 
@@ -730,10 +730,10 @@ YSMIR，北方之龙，总是以大胡子王的形象出现，拥有无数和回
 ## Chapter Sixteen
 &emsp;[打开][71] | [游戏文件][72] | [章节][38] | [顶部][37]
 
-[71]: tes3/zhong1wen2/markdown/jiang3dao4_16.md
-[72]: tes3/zhong1wen2/html/Jiang3dao4_16-BookSkill_Axe5.html
+[71]: tes3/zhong1wen2/markdown/bu4dao4_16.md
+[72]: tes3/zhong1wen2/html/Bu4dao4_16-BookSkill_Axe5.html
 
-#### 《讲道十六》
+#### 《布道十六》
 
 Hortator 在哀悼堡中徘徊，与他所学到的教训搏斗。他们在他的脑海里很滑。他不能总是直言不讳，他知道这是危险的。他四处游荡，寻找他的主人和主人，威洛斯像的荣耀威威克，在虚思神殿的所有地方都找到了他。在那里，发条剪正在剪掉维威克的头发。一位乞丐国王带来了他的织布机，正在用头发制作一张不完整的成年和死亡地图。
 
@@ -772,10 +772,10 @@ Hortator 可以看出维威克的状态不佳，尽管不是因为即将到来�
 ## Chapter Seventeen
 &emsp;[打开][73] | [游戏文件][74] | [章节][38] | [顶部][37]
 
-[73]: tes3/zhong1wen2/markdown/jiang3dao4_17.md
-[74]: tes3/zhong1wen2/html/Jiang3dao4_17-bookskill_long_blade3.html
+[73]: tes3/zhong1wen2/markdown/bu4dao4_17.md
+[74]: tes3/zhong1wen2/html/Bu4dao4_17-bookskill_long_blade3.html
 
-#### 《讲道十七》
+#### 《布道十七》
 
 「我是烟雾的地图集。」
 
@@ -816,10 +816,10 @@ Hortator 说：「世界的边缘是由剑构成的。」
 ## Chapter Eighteen
 &emsp;[打开][75] | [游戏文件][76] | [章节][38] | [顶部][37]
 
-[75]: tes3/zhong1wen2/markdown/jiang3dao4_18.md
-[76]: tes3/zhong1wen2/html/Jiang3dao4_18-BookSkill_Alchemy5.html
+[75]: tes3/zhong1wen2/markdown/bu4dao4_18.md
+[76]: tes3/zhong1wen2/html/Bu4dao4_18-BookSkill_Alchemy5.html
 
-#### 《讲道十八》
+#### 《布道十八》
 
 现在维威克觉得，在与锻莫的战争到来之前，他已经尽可能多地教了霍特托。这位战士诗人决定从那时开始他的时间之书，因为世界即将随着年龄的增长而弯曲。
 
@@ -859,10 +859,10 @@ Ayem 说：「这就是为什么你是由一个网民的妻子所生，注定要
 ## Chapter Nineteen
 &emsp;[打开][77] | [游戏文件][78] | [章节][38] | [顶部][37]
 
-[77]: tes3/zhong1wen2/markdown/jiang3dao4_19.md
-[78]: tes3/zhong1wen2/html/Jiang3dao4_19-bookskill_enchant4.html
+[77]: tes3/zhong1wen2/markdown/bu4dao4_19.md
+[78]: tes3/zhong1wen2/html/Bu4dao4_19-bookskill_enchant4.html
 
-#### 《讲道十九》
+#### 《布道十九》
 
 维威克穿上他的盔甲，走进一个充满凡人互动和信息的非空间空间，这是一幅没有画布的地图，描绘了它所知道的每一个心灵，一个已经发展出某种神性火花的事件。他说：「从这里开始，我将向八只怪物发起攻击。」
 
@@ -906,10 +906,10 @@ Ayem 说：「这就是为什么你是由一个网民的妻子所生，注定要
 ## Chapter Twenty
 &emsp;[打开][79] | [游戏文件][80] | [章节][38] | [顶部][37]
 
-[79]: tes3/zhong1wen2/markdown/jiang3dao4_20.md
-[80]: tes3/zhong1wen2/html/Jiang3dao4_20-bookskill_long_blade4.html
+[79]: tes3/zhong1wen2/markdown/bu4dao4_20.md
+[80]: tes3/zhong1wen2/html/Bu4dao4_20-bookskill_long_blade4.html
 
-#### 《讲道二十》
+#### 《布道二十》
 
 第一个怪物实际上是两个，像他的母亲维威克一样出生了两次。他不是八人中最强大的逃脱穆阿特拉的人，但他的行为是最令人担忧的。他被称为月轴，他收割了大自然的残羹剩饭。正如人们所说，他这样做了两次，第二次收获总是带来毁灭或不成文的法律。他的侧面像一个多面体。
 
@@ -944,10 +944,10 @@ Moon Axle 的线条被 Velothi 哲学家收集并带入洞穴。在那里，一�
 ## Chapter Twenty One
 &emsp;[打开][81] | [游戏文件][82] | [章节][38] | [顶部][37]
 
-[81]: tes3/zhong1wen2/markdown/jiang3dao4_21.md
-[82]: tes3/zhong1wen2/html/Jiang3dao4_21-bookskill_light_armor4.html
+[81]: tes3/zhong1wen2/markdown/bu4dao4_21.md
+[82]: tes3/zhong1wen2/html/Bu4dao4_21-bookskill_light_armor4.html
 
-#### 《讲道二十一》
+#### 《布道二十一》
 
 轮经，第一：
 
@@ -988,10 +988,10 @@ Moon Axle 的线条被 Velothi 哲学家收集并带入洞穴。在那里，一�
 ## Chapter Twenty-Two
 &emsp;[打开][83] | [游戏文件][84] | [章节][38] | [顶部][37]
 
-[83]: tes3/zhong1wen2/markdown/jiang3dao4_22.md
-[84]: tes3/zhong1wen2/html/Jiang3dao4_22-bookskill_medium_armor4.html
+[83]: tes3/zhong1wen2/markdown/bu4dao4_22.md
+[84]: tes3/zhong1wen2/html/Bu4dao4_22-bookskill_medium_armor4.html
 
-#### 《讲道二十二》
+#### 《布道二十二》
 
 随后维威克离开了第一旋风学派，回到了那个不是空间的空间。他从临时府向中间世界看去，找到了第二只怪物，叫做宝木剑。在石榴宴会的几年内，它已成为下 Velothi 房屋的教学曲调。他们宣扬它的力量：
 
@@ -1030,10 +1030,10 @@ Moon Axle 的线条被 Velothi 哲学家收集并带入洞穴。在那里，一�
 ## Chapter Twenty-Three
 &emsp;[打开][85] | [游戏文件][86] | [章节][38] | [顶部][37]
 
-[85]: tes3/zhong1wen2/markdown/jiang3dao4_23.md
-[86]: tes3/zhong1wen2/html/Jiang3dao4_23-bookskill_long_blade5.html
+[85]: tes3/zhong1wen2/markdown/bu4dao4_23.md
+[86]: tes3/zhong1wen2/html/Bu4dao4_23-bookskill_long_blade5.html
 
-#### 《讲道二十三》
+#### 《布道二十三》
 
 剑经，第一：
 
@@ -1074,10 +1074,10 @@ Moon Axle 的线条被 Velothi 哲学家收集并带入洞穴。在那里，一�
 ## Chapter Twenty-Four
 &emsp;[打开][87] | [游戏文件][88] | [章节][38] | [顶部][37]
 
-[87]: tes3/zhong1wen2/markdown/jiang3dao4_24.md
-[88]: tes3/zhong1wen2/html/Jiang3dao4_24-bookskill_spear4.html
+[87]: tes3/zhong1wen2/markdown/bu4dao4_24.md
+[88]: tes3/zhong1wen2/html/Bu4dao4_24-bookskill_spear4.html
 
-#### 《讲道二十四》
+#### 《布道二十四》
 
 然后维威克离开了刺客之屋，回到了那个不是空间的空间。他从临时之家向中间世界看去，找到了第三个怪物，叫做部落山。它是由模块化的战士组成，自由奔跑，但按照图案间隔开来，从最高的可以切云的战士开始，他们像一棵树一样在他的身下展开，一条裙子的底部是一支穿过灰烬的军队。
 
@@ -1116,10 +1116,10 @@ Velothi 的人群来到了新城市，Ayem 和 Seht 给了它他们的祝福。�
 ## Chapter Twenty-Five
 &emsp;[打开][89] | [游戏文件][90] | [章节][38] | [顶部][37]
 
-[89]: tes3/zhong1wen2/markdown/jiang3dao4_25.md
-[90]: tes3/zhong1wen2/html/Jiang3dao4_25-BookSkill_Armorer4.html
+[89]: tes3/zhong1wen2/markdown/bu4dao4_25.md
+[90]: tes3/zhong1wen2/html/Bu4dao4_25-BookSkill_Armorer4.html
 
-#### 《讲道二十五》
+#### 《布道二十五》
 
 城经：
 
@@ -1144,10 +1144,10 @@ Velothi 的人群来到了新城市，Ayem 和 Seht 给了它他们的祝福。�
 ## Chapter Twenty-Six
 &emsp;[打开][91] | [游戏文件][92] | [章节][38] | [顶部][37]
 
-[91]: tes3/zhong1wen2/markdown/jiang3dao4_26.md
-[92]: tes3/zhong1wen2/html/Jiang3dao4_26-bookskill_sneak5.html
+[91]: tes3/zhong1wen2/markdown/bu4dao4_26.md
+[92]: tes3/zhong1wen2/html/Bu4dao4_26-bookskill_sneak5.html
 
-#### 《讲道二十六》
+#### 《布道二十六》
 
 然后维威克离开了他的建筑狂喜，回到了那个不是空间的空间。他从临时之家到中间世界寻找第四个怪物，叫做口袋阴谋集团。
 
@@ -1184,10 +1184,10 @@ Seht 出现并看着他的兄弟姐妹创造了什么。发条王 说道：
 ## Chapter Twenty-Seven
 &emsp;[打开][93] | [游戏文件][94] | [章节][38] | [顶部][37]
 
-[93]: tes3/zhong1wen2/markdown/jiang3dao4_27.md
-[94]: tes3/zhong1wen2/html/Jiang3dao4_27-bookskill_speechcraft5.html
+[93]: tes3/zhong1wen2/markdown/bu4dao4_27.md
+[94]: tes3/zhong1wen2/html/Bu4dao4_27-bookskill_speechcraft5.html
 
-#### 《讲道二十七》
+#### 《布道二十七》
 
 圣经的圣言，第一：
 
@@ -1228,10 +1228,10 @@ Seht 出现并看着他的兄弟姐妹创造了什么。发条王 说道：
 ## Chapter Twenty-Eight
 &emsp;[打开][95] | [游戏文件][96] | [章节][38] | [顶部][37]
 
-[95]: tes3/zhong1wen2/markdown/jiang3dao4_28.md
-[96]: tes3/zhong1wen2/html/Jiang3dao4_28-bookskill_light_armor5.html
+[95]: tes3/zhong1wen2/markdown/bu4dao4_28.md
+[96]: tes3/zhong1wen2/html/Bu4dao4_28-bookskill_light_armor5.html
 
-#### 《讲道二十八》
+#### 《布道二十八》
 
 然后维威克离开塞赫特去照看圆头恶魔，回到了那个不是空间的空间。他从临时之家向中间世界看去，发现了第五个怪物，叫做「红人」。
 
@@ -1257,10 +1257,10 @@ Seht 出现并看着他的兄弟姐妹创造了什么。发条王 说道：
 ## Chapter Twenty-Nine
 &emsp;[打开][97] | [游戏文件][98] | [章节][38] | [顶部][37]
 
-[97]: tes3/zhong1wen2/markdown/jiang3dao4_29.md
-[98]: tes3/zhong1wen2/html/Jiang3dao4_29-BookSkill_Armorer5.html
+[97]: tes3/zhong1wen2/markdown/bu4dao4_29.md
+[98]: tes3/zhong1wen2/html/Bu4dao4_29-BookSkill_Armorer5.html
 
-#### 《讲道二十九》
+#### 《布道二十九》
 
 数字圣经：
 
@@ -1310,10 +1310,10 @@ Seht 出现并看着他的兄弟姐妹创造了什么。发条王 说道：
 ## Chapter Thirty
 &emsp;[打开][99] | [游戏文件][100] | [章节][38] | [顶部][37]
 
-[99]: tes3/zhong1wen2/markdown/jiang3dao4_30.md
-[100]: tes3/zhong1wen2/html/Jiang3dao4_30-BookSkill_Short_Blade5.html
+[99]: tes3/zhong1wen2/markdown/bu4dao4_30.md
+[100]: tes3/zhong1wen2/html/Bu4dao4_30-BookSkill_Short_Blade5.html
 
-#### 《讲道三十》
+#### 《布道三十》
 
 然后维威克离开了数字室的神秘主义者，回到了那个不是空间的空间。他从临时之家向中间世界看去，找到了第六只怪物，叫做城脸。找不着就恼了，暗中怒火回灵堡，杀了一个问高阶的秘术师。
 
@@ -1352,10 +1352,10 @@ Hortator 点点头，继续学习。
 ## Chapter Thirty One
 &emsp;[打开][101] | [游戏文件][102] | [章节][38] | [顶部][37]
 
-[101]: tes3/zhong1wen2/markdown/jiang3dao4_31.md
-[102]: tes3/zhong1wen2/html/Jiang3dao4_31-BookSkill_Athletics5.html
+[101]: tes3/zhong1wen2/markdown/bu4dao4_31.md
+[102]: tes3/zhong1wen2/html/Bu4dao4_31-BookSkill_Athletics5.html
 
-#### 《讲道三十一》
+#### 《布道三十一》
 
 许多年过去了，在瑞斯达尼亚，锻莫的大祭司几乎准备好与维洛斯的统治者开战。在此期间，Hortator 成为了 Ayem 的丈夫，也是三位一体的第一位圣人。维威克已经厌倦了与他的儿子和女儿打架，因此暂时停止了寻找他们的工作。
 
@@ -1378,10 +1378,10 @@ ALMSIVI，或者至少是选择维威克的那个方面，在与西峡谷的笛�
 ## Chapter Thirty-Two
 &emsp;[打开][103] | [游戏文件][104] | [章节][38] | [顶部][37]
 
-[103]: tes3/zhong1wen2/markdown/jiang3dao4_32.md
-[104]: tes3/zhong1wen2/html/Jiang3dao4_32-BookSkill_Block5.html
+[103]: tes3/zhong1wen2/markdown/bu4dao4_32.md
+[104]: tes3/zhong1wen2/html/Bu4dao4_32-BookSkill_Block5.html
 
-#### 《讲道三十二》
+#### 《布道三十二》
 
 权杖经，第一：
 
@@ -1422,10 +1422,10 @@ ALMSIVI，或者至少是选择维威克的那个方面，在与西峡谷的笛�
 ## Chapter Thirty-Three
 &emsp;[打开][105] | [游戏文件][106] | [章节][38] | [顶部][37]
 
-[105]: tes3/zhong1wen2/markdown/jiang3dao4_33.md
-[106]: tes3/zhong1wen2/html/Jiang3dao4_33-bookskill_medium_armor5.html
+[105]: tes3/zhong1wen2/markdown/bu4dao4_33.md
+[106]: tes3/zhong1wen2/html/Bu4dao4_33-bookskill_medium_armor5.html
 
-#### 《讲道三十三》
+#### 《布道三十三》
 
 然后，维威克离开了他沉思了许久，创造出冲击光经的虚念殿的念诵殿，回到了那个不是空间的空间。他从临时之家向中间世界看去，找到了第七只怪物，叫做烈石。
 
@@ -1466,10 +1466,10 @@ Lie Rock 出生于维威克的第二光圈，被另一个被遗忘的公会 Swee
 ## Chapter Thirty-Four
 &emsp;[打开][107] | [游戏文件][108] | [章节][38] | [顶部][37]
 
-[107]: tes3/zhong1wen2/markdown/jiang3dao4_34.md
-[108]: tes3/zhong1wen2/html/Jiang3dao4_34-bookskill_unarmored5.html
+[107]: tes3/zhong1wen2/markdown/bu4dao4_34.md
+[108]: tes3/zhong1wen2/html/Bu4dao4_34-bookskill_unarmored5.html
 
-#### 《讲道三十四》
+#### 《布道三十四》
 
 随后维威克离开了真理部，回到了那个不是空间的空间。从临时之家，他进入了中间世界，找到了第八个也是最后一个也是最强大的怪物，叫做 GULGA MOR JIL 等等。智者必须在别处寻找这串力量。
 
@@ -1521,10 +1521,10 @@ Lie Rock 出生于维威克的第二光圈，被另一个被遗忘的公会 Swee
 ## Chapter Thirty-Five
 &emsp;[打开][109] | [游戏文件][110] | [章节][38] | [顶部][37]
 
-[109]: tes3/zhong1wen2/markdown/jiang3dao4_35.md
-[110]: tes3/zhong1wen2/html/Jiang3dao4_35-bookskill_spear5.html
+[109]: tes3/zhong1wen2/markdown/bu4dao4_35.md
+[110]: tes3/zhong1wen2/html/Bu4dao4_35-bookskill_spear5.html
 
-#### 《讲道三十五》
+#### 《布道三十五》
 
 爱情经：
 
@@ -1537,10 +1537,10 @@ Lie Rock 出生于维威克的第二光圈，被另一个被遗忘的公会 Swee
 ## Chapter Thirty-Six
 &emsp;[打开][111] | [游戏文件][112] | [章节][38] | [顶部][37]
 
-[111]: tes3/zhong1wen2/markdown/jiang3dao4_36.md
-[112]: tes3/zhong1wen2/html/Jiang3dao4_36-BookSkill_Mysticism4.html
+[111]: tes3/zhong1wen2/markdown/bu4dao4_36.md
+[112]: tes3/zhong1wen2/html/Bu4dao4_36-BookSkill_Mysticism4.html
 
-#### 《讲道三十六》
+#### 《布道三十六》
 
 因为那是瑞斯达尼亚的日子，莫岐和锻莫在 AMLSIVI 和他们的冠军 Hortator 的英明统治下生活，尽管莫锻已经变得愚蠢并挑战他们的主人。
 
