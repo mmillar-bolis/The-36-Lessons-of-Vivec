@@ -39,7 +39,7 @@
 >
 > &emsp;__译注：__未经启明之人慎读本章
 
-[1]: https://www.bilibili.com/read/cv24284918/
+[1]: https://www.bilibili.com/opus/805970245399347222/
 
 ---
 

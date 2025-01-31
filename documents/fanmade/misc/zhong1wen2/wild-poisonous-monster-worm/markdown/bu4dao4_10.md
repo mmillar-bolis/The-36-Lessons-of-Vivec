@@ -40,7 +40,7 @@
 > | Magnus                             | 玛戈奴 |
 > | SITHISIT                           | 曦肆忒 |
 
-[1]: https://www.bilibili.com/read/cv19680331/
+[1]: https://www.bilibili.com/opus/727082755887726644/
 
 ---
 

@@ -38,7 +38,7 @@
 > | Sharmat                            | 夏曼陀 |
 > | Codes of Mephala                   | 梅法菈的法典 |
 
-[1]: https://www.bilibili.com/read/cv20279227/
+[1]: https://www.bilibili.com/opus/736330159762702343/
 
 ---
 

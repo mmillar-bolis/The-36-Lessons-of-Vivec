@@ -39,7 +39,7 @@
 > | Mehrunes Dagon                     | 梅鲁耶斯 大衮 |
 > | Kh-Utta                            | 磕塔 |
 
-[1]: https://www.bilibili.com/read/cv17121661/
+[1]: https://www.bilibili.com/opus/672112805185323008/
 
 ---
 

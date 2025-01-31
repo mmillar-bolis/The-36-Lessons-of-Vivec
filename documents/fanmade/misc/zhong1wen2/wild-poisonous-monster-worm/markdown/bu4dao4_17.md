@@ -41,7 +41,7 @@
 > | Elder Wood                         | 上古之森地 |
 > | sword saint                        | 剑圣 |
 
-[1]: https://www.bilibili.com/read/cv26634835/
+[1]: https://www.bilibili.com/opus/843380467123093522/
 
 ---
 

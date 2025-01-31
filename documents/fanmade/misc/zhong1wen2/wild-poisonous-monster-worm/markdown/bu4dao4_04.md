@@ -38,7 +38,7 @@
 > | Chancellor of Exactitude           | 十全无缺的律记 |
 > | puzzle-box                         | 谜方 |
 
-[1]: https://www.bilibili.com/read/cv16424545/
+[1]: https://www.bilibili.com/opus/655731009489207348/
 
 ---
 

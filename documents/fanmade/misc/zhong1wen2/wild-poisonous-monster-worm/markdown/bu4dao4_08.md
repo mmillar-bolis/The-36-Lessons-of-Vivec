@@ -40,7 +40,7 @@
 > | the Black Hands                    | 黑手 |
 > | the star-wounded East              | 星罗棋布的东方 |
 
-[1]: https://www.bilibili.com/read/cv17754486/
+[1]: https://www.bilibili.com/opus/686950168976687127/
 
 ---
 

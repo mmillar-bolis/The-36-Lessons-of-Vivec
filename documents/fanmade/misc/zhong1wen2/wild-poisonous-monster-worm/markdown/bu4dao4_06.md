@@ -42,7 +42,7 @@
 > | walking ways                       | 通达之路 |
 > | Six are the walking ways           | 通达之路共有六道 |
 
-[1]: https://www.bilibili.com/read/cv16665725/
+[1]: https://www.bilibili.com/opus/661385368323489796/
 
 ---
 

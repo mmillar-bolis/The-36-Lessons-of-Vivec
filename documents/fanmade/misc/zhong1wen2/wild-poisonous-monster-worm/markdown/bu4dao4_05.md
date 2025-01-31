@@ -42,7 +42,7 @@
 > | Deep Folk                          | 深之民 |
 > | belly-magic                        | 呼吸的魔术 |
 
-[1]: https://www.bilibili.com/read/cv16511002/
+[1]: https://www.bilibili.com/opus/657839619396599812/
 
 ---
 

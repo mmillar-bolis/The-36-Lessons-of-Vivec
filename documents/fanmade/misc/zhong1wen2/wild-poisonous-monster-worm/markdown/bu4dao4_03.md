@@ -47,7 +47,7 @@
 > | Julianos                           | 朱利安诺斯 |
 > | Akatosh                            | 阿卡托什 |
 
-[1]: https://www.bilibili.com/read/cv16396736/
+[1]: https://www.bilibili.com/opus/654959646245650453/
 
 ---
 

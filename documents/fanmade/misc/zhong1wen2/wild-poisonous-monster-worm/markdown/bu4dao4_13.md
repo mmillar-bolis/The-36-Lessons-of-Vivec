@@ -40,7 +40,7 @@
 > | Sheogorath                         | 谢格拉斯 |
 > | The Serpent                        | 游蛇 |
 
-[1]: https://www.bilibili.com/read/cv22938395/
+[1]: https://www.bilibili.com/opus/782269258847485971/
 
 ---
 

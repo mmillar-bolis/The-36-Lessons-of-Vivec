@@ -39,7 +39,7 @@
 > | Emperor Parasol                    | 皇帝伞 |
 > | At-Hatoor                          | 阿-哈顿 |
 
-[1]: https://www.bilibili.com/read/cv16219581/
+[1]: https://www.bilibili.com/opus/652006061674332180/
 
 ---
 

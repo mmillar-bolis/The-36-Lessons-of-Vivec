@@ -32,12 +32,12 @@
 >
 > &emsp;__译词表：__
 >
-> | Term                               | Translation |
-> |:-----------------------------------|:------------|
-> | Invisible Gate                     | 无形之界限 |
-> | Rainmaker                          | 作雨人 |
+> | Term           | Translation |
+> |:---------------|:------------|
+> | Invisible Gate | 无形之界限 |
+> | Rainmaker      | 作雨人 |
 
-[1]: https://www.bilibili.com/read/cv28511749/
+[1]: https://www.bilibili.com/opus/874695318479831045/
 
 ---
 

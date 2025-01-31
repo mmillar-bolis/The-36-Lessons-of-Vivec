@@ -39,7 +39,7 @@
 > | Padhome                            | 帕铎痕 |
 > | Parliament of Craters              | 坑穴们的国会 |
 
-[1]: https://www.bilibili.com/read/cv25686968/
+[1]: https://www.bilibili.com/opus/828596158887624713/
 
 ---
 

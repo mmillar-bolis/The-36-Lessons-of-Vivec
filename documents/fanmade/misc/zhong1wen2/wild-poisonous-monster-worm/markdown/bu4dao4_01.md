@@ -65,7 +65,7 @@
 > | Daedric Prince                     | 魔君 |
 > | Azura's coast                      | 日暮海岸 |
 
-[1]: https://www.bilibili.com/read/cv16219581/
+[1]: https://www.bilibili.com/opus/650986290651594760/
 
 ---
 

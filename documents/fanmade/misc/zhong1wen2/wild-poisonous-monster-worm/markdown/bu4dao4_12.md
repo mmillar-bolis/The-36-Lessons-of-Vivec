@@ -41,7 +41,7 @@
 > | CHIM                               | 栞穆 |
 > | GULGA MOR JIL HYAET AE HOOM        | 戈厄伽-摩尔-吉沃-耶娅忒-义-赫穆 |
 
-[1]: https://www.bilibili.com/read/cv20894074/
+[1]: https://www.bilibili.com/opus/746017394109972487/
 
 ---
 
